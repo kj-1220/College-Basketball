@@ -1,0 +1,21 @@
+team_id,year,team,torvik_id,home_arena,city,state,elevation,distance_to_eastern_washington,distance_to_idaho_st,distance_to_idaho,distance_to_montana,distance_to_montana_st,distance_to_northern_arizona,distance_to_northern_colorado,distance_to_portland_st,distance_to_sacramento_st,distance_to_weber_st
+2025 Eastern Washington,2025,Eastern Washington,2025 Eastern Washington,Reese Court,Cheney,WA,2352,0,574,72,213,415,1255,1063,340,808,707
+2025 Idaho St.,2025,Idaho St.,2025 Idaho St.,ICCU Dome,Pocatello,ID,4462,574,0,556,363,248,719,551,662,809,130
+2025 Idaho,2025,Idaho,2025 Idaho,Memorial Gym,Moscow,ID,2582,72,556,0,249,451,1177,1099,359,822,626
+2025 Montana,2025,Montana,2025 Montana,Dahlberg Arena,Missoula,MT,3209,213,363,249,0,202,1079,858,549,891,490
+2025 Montana St.,2025,Montana St.,2025 Montana St.,Worthington Arena,Bozeman,MT,4817,415,248,451,202,0,926,649,750,940,376
+2025 Northern Arizona,2025,Northern Arizona,2025 Northern Arizona,Walkup Skydome,Flagstaff,AZ,6821,1255,719,1177,1079,926,0,830,1282,757,554
+2025 Northern Colorado,2025,Northern Colorado,2025 Northern Colorado,Bank of Colorado Arena,Greeley,CO,4675,1063,551,1099,858,649,830,0,1212,1132,480
+2025 Portland St.,2025,Portland St.,2025 Portland St.,Stott Athletic Center,Portland,OR,161,340,662,359,549,750,1282,1212,0,580,732
+2025 Sacramento St.,2025,Sacramento St.,2025 Sacramento St.,Colburg Court,Sacramento,CA,26,808,809,822,891,940,757,1132,580,0,683
+2025 Weber St.,2025,Weber St.,2025 Weber St.,Dee Events Center,Ogden,UT,4341,707,130,626,490,376,554,480,732,683,0
+2024 Eastern Washington,2024,Eastern Washington,2024 Eastern Washington,Reese Court,Cheney,WA,2352,0,574,72,213,415,1255,1063,340,808,707
+2024 Idaho St.,2024,Idaho St.,2024 Idaho St.,ICCU Dome,Pocatello,ID,4462,574,0,556,363,248,719,551,662,809,130
+2024 Idaho,2024,Idaho,2024 Idaho,Memorial Gym,Moscow,ID,2582,72,556,0,249,451,1177,1099,359,822,626
+2024 Montana,2024,Montana,2024 Montana,Dahlberg Arena,Missoula,MT,3209,213,363,249,0,202,1079,858,549,891,490
+2024 Montana St.,2024,Montana St.,2024 Montana St.,Worthington Arena,Bozeman,MT,4817,415,248,451,202,0,926,649,750,940,376
+2024 Northern Arizona,2024,Northern Arizona,2024 Northern Arizona,Walkup Skydome,Flagstaff,AZ,6821,1255,719,1177,1079,926,0,830,1282,757,554
+2024 Northern Colorado,2024,Northern Colorado,2024 Northern Colorado,Bank of Colorado Arena,Greeley,CO,4675,1063,551,1099,858,649,830,0,1212,1132,480
+2024 Portland St.,2024,Portland St.,2024 Portland St.,Stott Athletic Center,Portland,OR,161,340,662,359,549,750,1282,1212,0,580,732
+2024 Sacramento St.,2024,Sacramento St.,2024 Sacramento St.,Colburg Court,Sacramento,CA,26,808,809,822,891,940,757,1132,580,0,683
+2024 Weber St.,2024,Weber St.,2024 Weber St.,Dee Events Center,Ogden,UT,4341,707,130,626,490,376,554,480,732,683,0
