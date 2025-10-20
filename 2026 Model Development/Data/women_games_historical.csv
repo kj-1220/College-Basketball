@@ -1,0 +1,631 @@
+game_id,side,id,year,region,round,high_bracket_seed,high_team_id,low_bracket_seed,low_team_id,high_bracket_score,low_bracket_score,point_diff,point_total,win
+20211101,b,1101,2021,East,First Round,16,2021 Utah Valley,1,2021 Stanford,44,87,-43,131,0
+20221101,b,1101,2022,South,First Round,16,2022 Howard,1,2022 South Carolina,21,79,-58,100,0
+20231101,b,1101,2023,South,First Round,16,2023 Norfolk St.,1,2023 South Carolina,40,72,-32,112,0
+20241101,b,1101,2024,South,First Round,16,2024 Presbyterian,1,2024 South Carolina,39,91,-52,130,0
+20251101b,b,1101,2025,South,First Round,16,2025 Southern,1,2025 UCLA,46,84,-38,130,0
+20211201,b,1201,2021,West,First Round,16,2021 Mercer,1,2021 South Carolina,53,79,-26,132,0
+20221201,b,1201,2022,Midwest,First Round,16,2022 Albany,1,2022 Louisville,51,83,-32,134,0
+20231201,b,1201,2023,Midwest,First Round,16,2023 Tennessee Tech,1,2023 Indiana,47,77,-30,124,0
+20241201,b,1201,2024,Midwest,First Round,16,2024 Drexel,1,2024 Texas,42,82,-40,124,0
+20251201b,b,1201,2025,Midwest,First Round,16,2025 Tennessee Tech,1,2025 South Carolina,48,108,-60,156,0
+20211301,b,1301,2021,South,First Round,16,2021 North Carolina A&T,1,2021 North Carolina St.,58,79,-21,137,0
+20221301,b,1301,2022,West,First Round,16,2022 Montana St.,1,2022 Stanford,37,78,-41,115,0
+20231301,b,1301,2023,West,First Round,16,2023 Chattanooga,1,2023 Virginia Tech,33,58,-25,91,0
+20241301,b,1301,2024,East,First Round,16,2024 Holy Cross,1,2024 Iowa,65,91,-26,156,0
+20251301b,b,1301,2025,East,First Round,16,2025 William & Mary,1,2025 Texas,61,105,-44,166,0
+20211401,b,1401,2021,Midwest,First Round,16,2021 High Point,1,2021 Connecticut,59,102,-43,161,0
+20221401,b,1401,2022,East,First Round,16,2022 Longwood,1,2022 North Carolina St.,68,96,-28,164,0
+20231401,b,1401,2023,East,First Round,16,2023 Sacred Heart,1,2023 Stanford,49,92,-43,141,0
+20241401,b,1401,2024,West,First Round,16,2024 Texas A&M Corpus Chris,1,2024 USC,55,87,-32,142,0
+20251401b,b,1401,2025,West,First Round,16,2025 UNC Greensboro,1,2025 USC,25,72,-47,97,0
+20212109,b,2109,2021,East,Second Round,8,2021 Oklahoma St.,1,2021 Stanford,62,73,-11,135,0
+20222109,b,2109,2022,South,Second Round,8,2022 Miami FL,1,2022 South Carolina,33,49,-16,82,0
+20232109,b,2109,2023,South,Second Round,8,2023 South Florida,1,2023 South Carolina,45,76,-31,121,0
+20242109,b,2109,2024,South,Second Round,8,2024 North Carolina,1,2024 South Carolina,41,88,-47,129,0
+20252109b,b,2109,2025,South,Second Round,8,2025 Richmond,1,2025 UCLA,67,84,-17,151,0
+20212209,b,2209,2021,West,Second Round,8,2021 Oregon St.,1,2021 South Carolina,42,59,-17,101,0
+20222209,b,2209,2022,Midwest,Second Round,9,2022 Gonzaga,1,2022 Louisville,59,68,-9,127,0
+20232209,b,2209,2023,Midwest,Second Round,9,2023 Miami FL,1,2023 Indiana,70,68,2,138,1
+20242209,b,2209,2024,Midwest,Second Round,8,2024 Alabama,1,2024 Texas,45,65,-20,110,0
+20252209b,b,2209,2025,Midwest,Second Round,9,2025 Indiana,1,2025 South Carolina,53,64,-11,117,0
+20212309,b,2309,2021,South,Second Round,8,2021 South Florida,1,2021 North Carolina St.,67,79,-12,146,0
+20222309,b,2309,2022,West,Second Round,8,2022 Kansas,1,2022 Stanford,65,91,-26,156,0
+20232309,b,2309,2023,West,Second Round,9,2023 South Dakota St.,1,2023 Virginia Tech,60,72,-12,132,0
+20242309,b,2309,2024,East,Second Round,8,2024 West Virginia,1,2024 Iowa,54,64,-10,118,0
+20252309b,b,2309,2025,East,Second Round,8,2025 Illinois,1,2025 Texas,48,65,-17,113,0
+20212409,b,2409,2021,Midwest,Second Round,8,2021 Syracuse,1,2021 Connecticut,47,83,-36,130,0
+20222409,b,2409,2022,East,Second Round,9,2022 Kansas St.,1,2022 North Carolina St.,57,89,-32,146,0
+20232409,b,2409,2023,East,Second Round,8,2023 Mississippi,1,2023 Stanford,54,49,5,103,1
+20242409,b,2409,2024,West,Second Round,8,2024 Kansas,1,2024 USC,55,73,-18,128,0
+20252409b,b,2409,2025,West,Second Round,9,2025 Mississippi St.,1,2025 USC,59,96,-37,155,0
+20213113,b,3113,2021,East,Sweet 16,5,2021 Missouri St.,1,2021 Stanford,62,89,-27,151,0
+20223113,b,3113,2022,South,Sweet 16,5,2022 North Carolina,1,2022 South Carolina,61,69,-8,130,0
+20233113,b,3113,2023,South,Sweet 16,4,2023 UCLA,1,2023 South Carolina,43,59,-16,102,0
+20243113,b,3113,2024,South,Sweet 16,4,2024 Indiana,1,2024 South Carolina,75,79,-4,154,0
+20253113b,b,3113,2025,South,Sweet 16,5,2025 Mississippi,1,2025 UCLA,62,76,-14,138,0
+20213213,b,3213,2021,West,Sweet 16,5,2021 Georgia Tech,1,2021 South Carolina,65,76,-11,141,0
+20223213,b,3213,2022,Midwest,Sweet 16,4,2022 Tennessee,1,2022 Louisville,64,76,-12,140,0
+20243213,b,3213,2024,Midwest,Sweet 16,4,2024 Gonzaga,1,2024 Texas,47,69,-22,116,0
+20253213b,b,3213,2025,Midwest,Sweet 16,4,2025 Maryland,1,2025 South Carolina,67,71,-4,138,0
+20213313,b,3313,2021,South,Sweet 16,4,2021 Indiana,1,2021 North Carolina St.,73,70,3,143,1
+20223313,b,3313,2022,West,Sweet 16,4,2022 Maryland,1,2022 Stanford,66,72,-6,138,0
+20233313,b,3313,2023,West,Sweet 16,4,2023 Tennessee,1,2023 Virginia Tech,64,73,-9,137,0
+20243313,b,3313,2024,East,Sweet 16,5,2024 Colorado,1,2024 Iowa,68,89,-21,157,0
+20253313b,b,3313,2025,East,Sweet 16,5,2025 Tennessee,1,2025 Texas,59,67,-8,126,0
+20213413,b,3413,2021,Midwest,Sweet 16,5,2021 Iowa,1,2021 Connecticut,72,92,-20,164,0
+20223413,b,3413,2022,East,Sweet 16,5,2022 Notre Dame,1,2022 North Carolina St.,63,66,-3,129,0
+20243413,b,3413,2024,West,Sweet 16,5,2024 Baylor,1,2024 USC,70,74,-4,144,0
+20253413b,b,3413,2025,West,Sweet 16,5,2025 Kansas St.,1,2025 USC,61,67,-6,128,0
+20214115,b,4115,2021,East,Elite Eight,2,2021 Louisville,1,2021 Stanford,63,78,-15,141,0
+20224115,b,4115,2022,South,Elite Eight,10,2022 Creighton,1,2022 South Carolina,50,80,-30,130,0
+20234115,b,4115,2023,South,Elite Eight,2,2023 Maryland,1,2023 South Carolina,75,86,-11,161,0
+20244115,b,4115,2024,South,Elite Eight,3,2024 Oregon St.,1,2024 South Carolina,58,70,-12,128,0
+20254115b,b,4115,2025,South,Elite Eight,3,2025 LSU,1,2025 UCLA,65,72,-7,137,0
+20214215,b,4215,2021,West,Elite Eight,6,2021 Texas,1,2021 South Carolina,34,62,-28,96,0
+20224215,b,4215,2022,Midwest,Elite Eight,3,2022 Michigan,1,2022 Louisville,50,62,-12,112,0
+20244215,b,4215,2024,Midwest,Elite Eight,3,2024 North Carolina St.,1,2024 Texas,76,66,10,142,1
+20254215b,b,4215,2025,Midwest,Elite Eight,2,2025 Duke,1,2025 South Carolina,50,54,-4,104,0
+20224315,b,4315,2022,West,Elite Eight,2,2022 Texas,1,2022 Stanford,50,59,-9,109,0
+20234315,b,4315,2023,West,Elite Eight,3,2023 Ohio St.,1,2023 Virginia Tech,74,84,-10,158,0
+20244315,b,4315,2024,East,Elite Eight,3,2024 LSU,1,2024 Iowa,87,94,-7,181,0
+20254315b,b,4315,2025,East,Elite Eight,2,2025 TCU,1,2025 Texas,47,58,-11,105,0
+20214415,b,4415,2021,Midwest,Elite Eight,2,2021 Baylor,1,2021 Connecticut,67,69,-2,136,0
+20224415,b,4415,2022,East,Elite Eight,2,2022 Connecticut,1,2022 North Carolina St.,91,87,4,178,1
+20244415,b,4415,2024,West,Elite Eight,3,2024 Connecticut,1,2024 USC,80,73,7,153,1
+20254415b,b,4415,2025,West,Elite Eight,2,2025 Connecticut,1,2025 USC,78,64,14,142,1
+20215516,a,5516,2021,Final Four,Final Four,1,2021 Stanford,1,2021 South Carolina,66,65,1,131,1
+20225516,a,5516,2022,Final Four,Final Four,1,2022 South Carolina,1,2022 Louisville,72,59,13,131,1
+20215516,b,5516,2021,Final Four,Final Four,1,2021 South Carolina,1,2021 Stanford,65,66,-1,131,0
+20225516,b,5516,2022,Final Four,Final Four,1,2022 Louisville,1,2022 South Carolina,59,72,-13,131,0
+20235516,b,5516,2023,Final Four,Final Four,2,2023 Iowa,1,2023 South Carolina,77,73,4,150,1
+20245516,b,5516,2024,Final Four,Final Four,3,2024 North Carolina St.,1,2024 South Carolina,59,78,-19,137,0
+20255516b,b,5516,2025,Final Four,Final Four,2,2025 Connecticut,1,2025 UCLA,85,51,34,136,1
+20215517,a,5517,2021,Final Four,Final Four,3,2021 Arizona,1,2021 Connecticut,69,59,10,128,1
+20235517,a,5517,2023,Final Four,Final Four,3,2023 LSU,1,2023 Virginia Tech,79,72,7,151,1
+20255517a,a,5517,2025,Final Four,Final Four,1,2025 South Carolina,1,2025 Texas,74,57,17,131,1
+20225517,b,5517,2022,Final Four,Final Four,2,2022 Connecticut,1,2022 Stanford,63,58,5,121,1
+20245517,b,5517,2024,Final Four,Final Four,3,2024 Connecticut,1,2024 Iowa,69,71,-2,140,0
+20255517b,b,5517,2025,Final Four,Final Four,1,2025 Texas,1,2025 South Carolina,57,74,-17,131,0
+20245618,a,5618,2024,Final Four,Championship,1,2024 South Carolina,1,2024 Iowa,87,75,12,162,1
+20255618a,a,5618,2025,Final Four,Championship,2,2025 Connecticut,1,2025 South Carolina,82,59,23,141,1
+20215618,b,5618,2021,Final Four,Championship,3,2021 Arizona,1,2021 Stanford,53,54,-1,107,0
+20225618,b,5618,2022,Final Four,Championship,2,2022 Connecticut,1,2022 South Carolina,49,64,-15,113,0
+20245618,b,5618,2024,Final Four,Championship,1,2024 Iowa,1,2024 South Carolina,75,87,-12,162,0
+20211102,b,1102,2021,East,First Round,15,2021 Marist,2,2021 Louisville,43,74,-31,117,0
+20221102,b,1102,2022,South,First Round,15,2022 Illinois St.,2,2022 Iowa,58,98,-40,156,0
+20231102,b,1102,2023,South,First Round,15,2023 Holy Cross,2,2023 Maryland,61,93,-32,154,0
+20241102,b,1102,2024,South,First Round,15,2024 Kent St.,2,2024 Notre Dame,67,81,-14,148,0
+20251102b,b,1102,2025,South,First Round,15,2025 Vermont,2,2025 North Carolina St.,55,75,-20,130,0
+20211202,b,1202,2021,West,First Round,15,2021 Mount St. Mary's,2,2021 Maryland,45,98,-53,143,0
+20221202,b,1202,2022,Midwest,First Round,15,2022 Hawaii,2,2022 Baylor,49,89,-40,138,0
+20231202,b,1202,2023,Midwest,First Round,15,2023 Gardner Webb,2,2023 Utah,77,103,-26,180,0
+20241202,b,1202,2024,Midwest,First Round,15,2024 Norfolk St.,2,2024 Stanford,50,79,-29,129,0
+20251202b,b,1202,2025,Midwest,First Round,15,2025 Lehigh,2,2025 Duke,25,86,-61,111,0
+20211302,b,1302,2021,South,First Round,15,2021 Troy,2,2021 Texas A&M,80,84,-4,164,0
+20221302,b,1302,2022,West,First Round,15,2022 Fairfield,2,2022 Texas,52,70,-18,122,0
+20231302,b,1302,2023,West,First Round,15,2023 Vermont,2,2023 Connecticut,52,95,-43,147,0
+20241302,b,1302,2024,East,First Round,15,2024 California Baptist,2,2024 UCLA,55,84,-29,139,0
+20251302b,b,1302,2025,East,First Round,15,2025 Fairleigh Dickinson,2,2025 TCU,51,73,-22,124,0
+20211402,b,1402,2021,Midwest,First Round,15,2021 Jackson St.,2,2021 Baylor,52,101,-49,153,0
+20221402,b,1402,2022,East,First Round,15,2022 Mercer,2,2022 Connecticut,38,83,-45,121,0
+20231402,b,1402,2023,East,First Round,15,2023 Southeastern Louisiana,2,2023 Iowa,43,95,-52,138,0
+20241402,b,1402,2024,West,First Round,15,2024 Maine,2,2024 Ohio St.,57,80,-23,137,0
+20251402b,b,1402,2025,West,First Round,15,2025 Arkansas St.,2,2025 Connecticut,34,103,-69,137,0
+20212112,a,2112,2021,East,Second Round,7,2021 Northwestern,2,2021 Louisville,63,62,1,125,1
+20222112,a,2112,2022,South,Second Round,10,2022 Creighton,2,2022 Iowa,64,62,2,126,1
+20232112,a,2112,2023,South,Second Round,7,2023 Arizona,2,2023 Maryland,64,77,-13,141,0
+20242112,a,2112,2024,South,Second Round,7,2024 Mississippi,2,2024 Notre Dame,56,71,-15,127,0
+20252112a,a,2112,2025,South,Second Round,7,2025 Michigan St.,2,2025 North Carolina St.,49,83,-34,132,0
+20212212,a,2212,2021,West,Second Round,7,2021 Alabama,2,2021 Maryland,64,100,-36,164,0
+20222212,a,2212,2022,Midwest,Second Round,10,2022 South Dakota,2,2022 Baylor,61,47,14,108,1
+20232212,a,2212,2023,Midwest,Second Round,10,2023 Princeton,2,2023 Utah,56,63,-7,119,0
+20242212,a,2212,2024,Midwest,Second Round,7,2024 Iowa St.,2,2024 Stanford,81,87,-6,168,0
+20252212a,a,2212,2025,Midwest,Second Round,10,2025 Oregon,2,2025 Duke,53,59,-6,112,0
+20212312,a,2312,2021,South,Second Round,7,2021 Iowa St.,2,2021 Texas A&M,82,84,-2,166,0
+20222312,a,2312,2022,West,Second Round,7,2022 Utah,2,2022 Texas,56,78,-22,134,0
+20232312,a,2312,2023,West,Second Round,7,2023 Baylor,2,2023 Connecticut,58,77,-19,135,0
+20242312,a,2312,2024,East,Second Round,7,2024 Creighton,2,2024 UCLA,63,67,-4,130,0
+20252312a,a,2312,2025,East,Second Round,7,2025 Louisville,2,2025 TCU,70,85,-15,155,0
+20212412,a,2412,2021,Midwest,Second Round,7,2021 Virginia Tech,2,2021 Baylor,48,90,-42,138,0
+20222412,a,2412,2022,East,Second Round,7,2022 UCF,2,2022 Connecticut,47,52,-5,99,0
+20232412,a,2412,2023,East,Second Round,10,2023 Georgia,2,2023 Iowa,66,74,-8,140,0
+20242412,a,2412,2024,West,Second Round,7,2024 Duke,2,2024 Ohio St.,75,63,12,138,1
+20252412a,a,2412,2025,West,Second Round,10,2025 South Dakota St.,2,2025 Connecticut,57,91,-34,148,0
+20213114,a,3114,2021,East,Sweet 16,6,2021 Oregon,2,2021 Louisville,42,60,-18,102,0
+20233114,a,3114,2023,South,Sweet 16,3,2023 Notre Dame,2,2023 Maryland,59,76,-17,135,0
+20243114,a,3114,2024,South,Sweet 16,3,2024 Oregon St.,2,2024 Notre Dame,70,65,5,135,1
+20253114a,a,3114,2025,South,Sweet 16,3,2025 LSU,2,2025 North Carolina St.,80,73,7,153,1
+20213214,a,3214,2021,West,Sweet 16,6,2021 Texas,2,2021 Maryland,64,61,3,125,1
+20233214,a,3214,2023,Midwest,Sweet 16,3,2023 LSU,2,2023 Utah,66,63,3,129,1
+20243214,a,3214,2024,Midwest,Sweet 16,3,2024 North Carolina St.,2,2024 Stanford,77,67,10,144,1
+20253214a,a,3214,2025,Midwest,Sweet 16,3,2025 North Carolina,2,2025 Duke,38,47,-9,85,0
+20213314,a,3314,2021,South,Sweet 16,3,2021 Arizona,2,2021 Texas A&M,74,59,15,133,1
+20223314,a,3314,2022,West,Sweet 16,6,2022 Ohio St.,2,2022 Texas,63,66,-3,129,0
+20233314,a,3314,2023,West,Sweet 16,3,2023 Ohio St.,2,2023 Connecticut,73,61,12,134,1
+20243314,a,3314,2024,East,Sweet 16,3,2024 LSU,2,2024 UCLA,78,69,9,147,1
+20253314a,a,3314,2025,East,Sweet 16,3,2025 Notre Dame,2,2025 TCU,62,71,-9,133,0
+20213414,a,3414,2021,Midwest,Sweet 16,6,2021 Michigan,2,2021 Baylor,75,78,-3,153,0
+20223414,a,3414,2022,East,Sweet 16,3,2022 Indiana,2,2022 Connecticut,58,75,-17,133,0
+20233414,a,3414,2023,East,Sweet 16,6,2023 Colorado,2,2023 Iowa,77,87,-10,164,0
+20253414a,a,3414,2025,West,Sweet 16,3,2025 Oklahoma,2,2025 Connecticut,59,82,-23,141,0
+20214115,a,4115,2021,East,Elite Eight,1,2021 Stanford,2,2021 Louisville,78,63,15,141,1
+20234115,a,4115,2023,South,Elite Eight,1,2023 South Carolina,2,2023 Maryland,86,75,11,161,1
+20254215a,a,4215,2025,Midwest,Elite Eight,1,2025 South Carolina,2,2025 Duke,54,50,4,104,1
+20224315,a,4315,2022,West,Elite Eight,1,2022 Stanford,2,2022 Texas,59,50,9,109,1
+20254315a,a,4315,2025,East,Elite Eight,1,2025 Texas,2,2025 TCU,58,47,11,105,1
+20214415,a,4415,2021,Midwest,Elite Eight,1,2021 Connecticut,2,2021 Baylor,69,67,2,136,1
+20224415,a,4415,2022,East,Elite Eight,1,2022 North Carolina St.,2,2022 Connecticut,87,91,-4,178,0
+20234415,a,4415,2023,East,Elite Eight,5,2023 Louisville,2,2023 Iowa,83,97,-14,180,0
+20254415a,a,4415,2025,West,Elite Eight,1,2025 USC,2,2025 Connecticut,64,78,-14,142,0
+20235516,a,5516,2023,Final Four,Final Four,1,2023 South Carolina,2,2023 Iowa,73,77,-4,150,0
+20255516a,a,5516,2025,Final Four,Final Four,1,2025 UCLA,2,2025 Connecticut,51,85,-34,136,0
+20225517,a,5517,2022,Final Four,Final Four,1,2022 Stanford,2,2022 Connecticut,58,63,-5,121,0
+20225618,a,5618,2022,Final Four,Championship,1,2022 South Carolina,2,2022 Connecticut,64,49,15,113,1
+20235618,b,5618,2023,Final Four,Championship,3,2023 LSU,2,2023 Iowa,102,85,17,187,1
+20255618b,b,5618,2025,Final Four,Championship,1,2025 South Carolina,2,2025 Connecticut,59,82,-23,141,0
+20211105,b,1105,2021,East,First Round,14,2021 Drexel,3,2021 Georgia,53,67,-14,120,0
+20221105,b,1105,2022,South,First Round,14,2022 UT Arlington,3,2022 Iowa St.,71,78,-7,149,0
+20231105,b,1105,2023,South,First Round,14,2023 Southern Utah,3,2023 Notre Dame,56,82,-26,138,0
+20241105,b,1105,2024,South,First Round,14,2024 Eastern Washington,3,2024 Oregon St.,51,73,-22,124,0
+20251105b,b,1105,2025,South,First Round,14,2025 San Diego St.,3,2025 LSU,48,103,-55,151,0
+20211205,b,1205,2021,West,First Round,14,2021 Wyoming,3,2021 UCLA,48,69,-21,117,0
+20221205,b,1205,2022,Midwest,First Round,14,2022 American,3,2022 Michigan,39,74,-35,113,0
+20231205,b,1205,2023,Midwest,First Round,14,2023 Hawaii,3,2023 LSU,50,73,-23,123,0
+20241205,b,1205,2024,Midwest,First Round,14,2024 Chattanooga,3,2024 North Carolina St.,45,64,-19,109,0
+20251205b,b,1205,2025,Midwest,First Round,14,2025 Oregon St.,3,2025 North Carolina,49,70,-21,119,0
+20211305,b,1305,2021,South,First Round,14,2021 Stony Brook,3,2021 Arizona,44,79,-35,123,0
+20221305,b,1305,2022,West,First Round,14,2022 Jackson St.,3,2022 LSU,77,83,-6,160,0
+20231305,b,1305,2023,West,First Round,14,2023 James Madison,3,2023 Ohio St.,66,80,-14,146,0
+20241305,b,1305,2024,East,First Round,14,2024 Rice,3,2024 LSU,60,70,-10,130,0
+20251305b,b,1305,2025,East,First Round,14,2025 Stephen F. Austin,3,2025 Notre Dame,54,106,-52,160,0
+20211405,b,1405,2021,Midwest,First Round,14,2021 Middle Tennessee,3,2021 Tennessee,62,87,-25,149,0
+20221405,b,1405,2022,East,First Round,14,2022 Charlotte,3,2022 Indiana,51,85,-34,136,0
+20231405,b,1405,2023,East,First Round,14,2023 Iona,3,2023 Duke,49,89,-40,138,0
+20241405,b,1405,2024,West,First Round,14,2024 Jackson St.,3,2024 Connecticut,64,86,-22,150,0
+20251405b,b,1405,2025,West,First Round,14,2025 Florida Gulf Coast,3,2025 Oklahoma,58,81,-23,139,0
+20212111,a,2111,2021,East,Second Round,6,2021 Oregon,3,2021 Georgia,57,50,7,107,1
+20222111,a,2111,2022,South,Second Round,6,2022 Georgia,3,2022 Iowa St.,44,67,-23,111,0
+20232111,a,2111,2023,South,Second Round,11,2023 Mississippi St.,3,2023 Notre Dame,48,53,-5,101,0
+20242111,a,2111,2024,South,Second Round,6,2024 Nebraska,3,2024 Oregon St.,51,61,-10,112,0
+20252111a,a,2111,2025,South,Second Round,6,2025 Florida St.,3,2025 LSU,71,101,-30,172,0
+20212211,a,2211,2021,West,Second Round,6,2021 Texas,3,2021 UCLA,71,62,9,133,1
+20222211,a,2211,2022,Midwest,Second Round,11,2022 Villanova,3,2022 Michigan,49,64,-15,113,0
+20232211,a,2211,2023,Midwest,Second Round,6,2023 Michigan,3,2023 LSU,42,66,-24,108,0
+20242211,a,2211,2024,Midwest,Second Round,6,2024 Tennessee,3,2024 North Carolina St.,72,79,-7,151,0
+20252211a,a,2211,2025,Midwest,Second Round,6,2025 West Virginia,3,2025 North Carolina,47,58,-11,105,0
+20212311,a,2311,2021,South,Second Round,11,2021 BYU,3,2021 Arizona,46,52,-6,98,0
+20222311,a,2311,2022,West,Second Round,6,2022 Ohio St.,3,2022 LSU,79,64,15,143,1
+20232311,a,2311,2023,West,Second Round,6,2023 North Carolina,3,2023 Ohio St.,69,71,-2,140,0
+20242311,a,2311,2024,East,Second Round,11,2024 Middle Tennessee,3,2024 LSU,56,83,-27,139,0
+20252311a,a,2311,2025,East,Second Round,6,2025 Michigan,3,2025 Notre Dame,55,76,-21,131,0
+20212411,a,2411,2021,Midwest,Second Round,6,2021 Michigan,3,2021 Tennessee,70,55,15,125,1
+20222411,a,2411,2022,East,Second Round,11,2022 Princeton,3,2022 Indiana,55,56,-1,111,0
+20232411,a,2411,2023,East,Second Round,6,2023 Colorado,3,2023 Duke,61,53,8,114,1
+20242411,a,2411,2024,West,Second Round,6,2024 Syracuse,3,2024 Connecticut,64,72,-8,136,0
+20252411a,a,2411,2025,West,Second Round,6,2025 Iowa,3,2025 Oklahoma,62,96,-34,158,0
+20223114,b,3114,2022,South,Sweet 16,10,2022 Creighton,3,2022 Iowa St.,76,68,8,144,1
+20233114,b,3114,2023,South,Sweet 16,2,2023 Maryland,3,2023 Notre Dame,76,59,17,135,1
+20243114,b,3114,2024,South,Sweet 16,2,2024 Notre Dame,3,2024 Oregon St.,65,70,-5,135,0
+20253114b,b,3114,2025,South,Sweet 16,2,2025 North Carolina St.,3,2025 LSU,73,80,-7,153,0
+20223214,b,3214,2022,Midwest,Sweet 16,10,2022 South Dakota,3,2022 Michigan,49,52,-3,101,0
+20233214,b,3214,2023,Midwest,Sweet 16,2,2023 Utah,3,2023 LSU,63,66,-3,129,0
+20243214,b,3214,2024,Midwest,Sweet 16,2,2024 Stanford,3,2024 North Carolina St.,67,77,-10,144,0
+20253214b,b,3214,2025,Midwest,Sweet 16,2,2025 Duke,3,2025 North Carolina,47,38,9,85,1
+20213314,b,3314,2021,South,Sweet 16,2,2021 Texas A&M,3,2021 Arizona,59,74,-15,133,0
+20233314,b,3314,2023,West,Sweet 16,2,2023 Connecticut,3,2023 Ohio St.,61,73,-12,134,0
+20243314,b,3314,2024,East,Sweet 16,2,2024 UCLA,3,2024 LSU,69,78,-9,147,0
+20253314b,b,3314,2025,East,Sweet 16,2,2025 TCU,3,2025 Notre Dame,71,62,9,133,1
+20223414,b,3414,2022,East,Sweet 16,2,2022 Connecticut,3,2022 Indiana,75,58,17,133,1
+20243414,b,3414,2024,West,Sweet 16,7,2024 Duke,3,2024 Connecticut,45,53,-8,98,0
+20253414b,b,3414,2025,West,Sweet 16,2,2025 Connecticut,3,2025 Oklahoma,82,59,23,141,1
+20244115,a,4115,2024,South,Elite Eight,1,2024 South Carolina,3,2024 Oregon St.,70,58,12,128,1
+20254115a,a,4115,2025,South,Elite Eight,1,2025 UCLA,3,2025 LSU,72,65,7,137,1
+20224215,a,4215,2022,Midwest,Elite Eight,1,2022 Louisville,3,2022 Michigan,62,50,12,112,1
+20234215,a,4215,2023,Midwest,Elite Eight,9,2023 Miami FL,3,2023 LSU,42,54,-12,96,0
+20244215,a,4215,2024,Midwest,Elite Eight,1,2024 Texas,3,2024 North Carolina St.,66,76,-10,142,0
+20214315,a,4315,2021,South,Elite Eight,4,2021 Indiana,3,2021 Arizona,53,66,-13,119,0
+20234315,a,4315,2023,West,Elite Eight,1,2023 Virginia Tech,3,2023 Ohio St.,84,74,10,158,1
+20244315,a,4315,2024,East,Elite Eight,1,2024 Iowa,3,2024 LSU,94,87,7,181,1
+20244415,a,4415,2024,West,Elite Eight,1,2024 USC,3,2024 Connecticut,73,80,-7,153,0
+20245516,a,5516,2024,Final Four,Final Four,1,2024 South Carolina,3,2024 North Carolina St.,78,59,19,137,1
+20245517,a,5517,2024,Final Four,Final Four,1,2024 Iowa,3,2024 Connecticut,71,69,2,140,1
+20215517,b,5517,2021,Final Four,Final Four,1,2021 Connecticut,3,2021 Arizona,59,69,-10,128,0
+20235517,b,5517,2023,Final Four,Final Four,1,2023 Virginia Tech,3,2023 LSU,72,79,-7,151,0
+20215618,a,5618,2021,Final Four,Championship,1,2021 Stanford,3,2021 Arizona,54,53,1,107,1
+20235618,a,5618,2023,Final Four,Championship,2,2023 Iowa,3,2023 LSU,85,102,-17,187,0
+20211104,b,1104,2021,East,First Round,13,2021 Wright St.,4,2021 Arkansas,66,62,4,128,1
+20221104,b,1104,2022,South,First Round,13,2022 UNLV,4,2022 Arizona,67,72,-5,139,0
+20231104,b,1104,2023,South,First Round,13,2023 Sacramento St.,4,2023 UCLA,45,67,-22,112,0
+20241104,b,1104,2024,South,First Round,13,2024 Fairfield,4,2024 Indiana,56,89,-33,145,0
+20251104b,b,1104,2025,South,First Round,13,2025 Grand Canyon,4,2025 Baylor,60,73,-13,133,0
+20211204,b,1204,2021,West,First Round,13,2021 Lehigh,4,2021 West Virginia,53,77,-24,130,0
+20221204,b,1204,2022,Midwest,First Round,13,2022 Buffalo,4,2022 Tennessee,67,80,-13,147,0
+20231204,b,1204,2023,Midwest,First Round,13,2023 Cleveland St.,4,2023 Villanova,59,76,-17,135,0
+20241204,b,1204,2024,Midwest,First Round,13,2024 UC Irvine,4,2024 Gonzaga,56,75,-19,131,0
+20251204b,b,1204,2025,Midwest,First Round,13,2025 Norfolk St.,4,2025 Maryland,69,82,-13,151,0
+20211304,b,1304,2021,South,First Round,13,2021 VCU,4,2021 Indiana,32,63,-31,95,0
+20221304,b,1304,2022,West,First Round,13,2022 Delaware,4,2022 Maryland,71,102,-31,173,0
+20231304,b,1304,2023,West,First Round,13,2023 Saint Louis,4,2023 Tennessee,50,95,-45,145,0
+20241304,b,1304,2024,East,First Round,13,2024 Portland,4,2024 Kansas St.,65,78,-13,143,0
+20251304b,b,1304,2025,East,First Round,13,2025 Montana St.,4,2025 Ohio St.,51,71,-20,122,0
+20211404,b,1404,2021,Midwest,First Round,13,2021 Idaho St.,4,2021 Kentucky,63,71,-8,134,0
+20221404,b,1404,2022,East,First Round,13,2022 IUPUI,4,2022 Oklahoma,72,78,-6,150,0
+20231404,b,1404,2023,East,First Round,13,2023 East Carolina,4,2023 Texas,40,79,-39,119,0
+20241404,b,1404,2024,West,First Round,13,2024 Marshall,4,2024 Virginia Tech,49,92,-43,141,0
+20251404b,b,1404,2025,West,First Round,13,2025 Liberty,4,2025 Kentucky,78,79,-1,157,0
+20222110,a,2110,2022,South,Second Round,5,2022 North Carolina,4,2022 Arizona,63,45,18,108,1
+20232110,a,2110,2023,South,Second Round,5,2023 Oklahoma,4,2023 UCLA,73,82,-9,155,0
+20242110,a,2110,2024,South,Second Round,5,2024 Oklahoma,4,2024 Indiana,68,75,-7,143,0
+20252110a,a,2110,2025,South,Second Round,5,2025 Mississippi,4,2025 Baylor,69,63,6,132,1
+20212210,a,2210,2021,West,Second Round,5,2021 Georgia Tech,4,2021 West Virginia,73,56,17,129,1
+20222210,a,2210,2022,Midwest,Second Round,12,2022 Belmont,4,2022 Tennessee,67,70,-3,137,0
+20232210,a,2210,2023,Midwest,Second Round,12,2023 Florida Gulf Coast,4,2023 Villanova,57,76,-19,133,0
+20242210,a,2210,2024,Midwest,Second Round,5,2024 Utah,4,2024 Gonzaga,66,77,-11,143,0
+20252210a,a,2210,2025,Midwest,Second Round,5,2025 Alabama,4,2025 Maryland,108,111,-3,219,0
+20212310,a,2310,2021,South,Second Round,12,2021 Belmont,4,2021 Indiana,48,70,-22,118,0
+20222310,a,2310,2022,West,Second Round,12,2022 Florida Gulf Coast,4,2022 Maryland,65,89,-24,154,0
+20232310,a,2310,2023,West,Second Round,12,2023 Toledo,4,2023 Tennessee,47,94,-47,141,0
+20242310,a,2310,2024,East,Second Round,5,2024 Colorado,4,2024 Kansas St.,63,50,13,113,1
+20252310a,a,2310,2025,East,Second Round,5,2025 Tennessee,4,2025 Ohio St.,82,67,15,149,1
+20212410,a,2410,2021,Midwest,Second Round,5,2021 Iowa,4,2021 Kentucky,86,72,14,158,1
+20222410,a,2410,2022,East,Second Round,5,2022 Notre Dame,4,2022 Oklahoma,108,64,44,172,1
+20232410,a,2410,2023,East,Second Round,5,2023 Louisville,4,2023 Texas,73,51,22,124,1
+20242410,a,2410,2024,West,Second Round,5,2024 Baylor,4,2024 Virginia Tech,75,72,3,147,1
+20252410a,a,2410,2025,West,Second Round,5,2025 Kansas St.,4,2025 Kentucky,80,79,1,159,1
+20233113,a,3113,2023,South,Sweet 16,1,2023 South Carolina,4,2023 UCLA,59,43,16,102,1
+20243113,a,3113,2024,South,Sweet 16,1,2024 South Carolina,4,2024 Indiana,79,75,4,154,1
+20223213,a,3213,2022,Midwest,Sweet 16,1,2022 Louisville,4,2022 Tennessee,76,64,12,140,1
+20233213,a,3213,2023,Midwest,Sweet 16,9,2023 Miami FL,4,2023 Villanova,70,65,5,135,1
+20243213,a,3213,2024,Midwest,Sweet 16,1,2024 Texas,4,2024 Gonzaga,69,47,22,116,1
+20253213a,a,3213,2025,Midwest,Sweet 16,1,2025 South Carolina,4,2025 Maryland,71,67,4,138,1
+20213313,a,3313,2021,South,Sweet 16,1,2021 North Carolina St.,4,2021 Indiana,70,73,-3,143,0
+20223313,a,3313,2022,West,Sweet 16,1,2022 Stanford,4,2022 Maryland,72,66,6,138,1
+20233313,a,3313,2023,West,Sweet 16,1,2023 Virginia Tech,4,2023 Tennessee,73,64,9,137,1
+20214315,b,4315,2021,South,Elite Eight,3,2021 Arizona,4,2021 Indiana,66,53,13,119,1
+20211106,b,1106,2021,East,First Round,12,2021 UC Davis,5,2021 Missouri St.,51,70,-19,121,0
+20221106,b,1106,2022,South,First Round,12,2022 Stephen F. Austin,5,2022 North Carolina,66,79,-13,145,0
+20231106,b,1106,2023,South,First Round,12,2023 Portland,5,2023 Oklahoma,63,85,-22,148,0
+20241106,b,1106,2024,South,First Round,12,2024 Florida Gulf Coast,5,2024 Oklahoma,70,73,-3,143,0
+20251106b,b,1106,2025,South,First Round,12,2025 Ball St.,5,2025 Mississippi,65,83,-18,148,0
+20211206,b,1206,2021,West,First Round,12,2021 Stephen F. Austin,5,2021 Georgia Tech,52,54,-2,106,0
+20221206,b,1206,2022,Midwest,First Round,12,2022 Belmont,5,2022 Oregon,73,70,3,143,1
+20231206,b,1206,2023,Midwest,First Round,12,2023 Florida Gulf Coast,5,2023 Washington St.,74,63,11,137,1
+20241206,b,1206,2024,Midwest,First Round,12,2024 South Dakota St.,5,2024 Utah,54,68,-14,122,0
+20251206b,b,1206,2025,Midwest,First Round,12,2025 Green Bay,5,2025 Alabama,67,81,-14,148,0
+20211306,b,1306,2021,South,First Round,12,2021 Belmont,5,2021 Gonzaga,64,59,5,123,1
+20221306,b,1306,2022,West,First Round,12,2022 Florida Gulf Coast,5,2022 Virginia Tech,84,81,3,165,1
+20231306,b,1306,2023,West,First Round,12,2023 Toledo,5,2023 Iowa St.,80,73,7,153,1
+20241306,b,1306,2024,East,First Round,12,2024 Drake,5,2024 Colorado,72,86,-14,158,0
+20251306b,b,1306,2025,East,First Round,12,2025 South Florida,5,2025 Tennessee,66,101,-35,167,0
+20211406,b,1406,2021,Midwest,First Round,12,2021 Central Michigan,5,2021 Iowa,72,87,-15,159,0
+20221406,b,1406,2022,East,First Round,12,2022 Massachusetts,5,2022 Notre Dame,78,89,-11,167,0
+20231406,b,1406,2023,East,First Round,12,2023 Drake,5,2023 Louisville,81,83,-2,164,0
+20241406,b,1406,2024,West,First Round,12,2024 Vanderbilt,5,2024 Baylor,63,80,-17,143,0
+20251406b,b,1406,2025,West,First Round,12,2025 Fairfield,5,2025 Kansas St.,41,85,-44,126,0
+20212110,b,2110,2021,East,Second Round,13,2021 Wright St.,5,2021 Missouri St.,39,64,-25,103,0
+20222110,b,2110,2022,South,Second Round,4,2022 Arizona,5,2022 North Carolina,45,63,-18,108,0
+20232110,b,2110,2023,South,Second Round,4,2023 UCLA,5,2023 Oklahoma,82,73,9,155,1
+20242110,b,2110,2024,South,Second Round,4,2024 Indiana,5,2024 Oklahoma,75,68,7,143,1
+20252110b,b,2110,2025,South,Second Round,4,2025 Baylor,5,2025 Mississippi,63,69,-6,132,0
+20212210,b,2210,2021,West,Second Round,4,2021 West Virginia,5,2021 Georgia Tech,56,73,-17,129,0
+20242210,b,2210,2024,Midwest,Second Round,4,2024 Gonzaga,5,2024 Utah,77,66,11,143,1
+20252210b,b,2210,2025,Midwest,Second Round,4,2025 Maryland,5,2025 Alabama,111,108,3,219,1
+20242310,b,2310,2024,East,Second Round,4,2024 Kansas St.,5,2024 Colorado,50,63,-13,113,0
+20252310b,b,2310,2025,East,Second Round,4,2025 Ohio St.,5,2025 Tennessee,67,82,-15,149,0
+20212410,b,2410,2021,Midwest,Second Round,4,2021 Kentucky,5,2021 Iowa,72,86,-14,158,0
+20222410,b,2410,2022,East,Second Round,4,2022 Oklahoma,5,2022 Notre Dame,64,108,-44,172,0
+20232410,b,2410,2023,East,Second Round,4,2023 Texas,5,2023 Louisville,51,73,-22,124,0
+20242410,b,2410,2024,West,Second Round,4,2024 Virginia Tech,5,2024 Baylor,72,75,-3,147,0
+20252410b,b,2410,2025,West,Second Round,4,2025 Kentucky,5,2025 Kansas St.,79,80,-1,159,0
+20213113,a,3113,2021,East,Sweet 16,1,2021 Stanford,5,2021 Missouri St.,89,62,27,151,1
+20223113,a,3113,2022,South,Sweet 16,1,2022 South Carolina,5,2022 North Carolina,69,61,8,130,1
+20253113a,a,3113,2025,South,Sweet 16,1,2025 UCLA,5,2025 Mississippi,76,62,14,138,1
+20213213,a,3213,2021,West,Sweet 16,1,2021 South Carolina,5,2021 Georgia Tech,76,65,11,141,1
+20243313,a,3313,2024,East,Sweet 16,1,2024 Iowa,5,2024 Colorado,89,68,21,157,1
+20253313a,a,3313,2025,East,Sweet 16,1,2025 Texas,5,2025 Tennessee,67,59,8,126,1
+20213413,a,3413,2021,Midwest,Sweet 16,1,2021 Connecticut,5,2021 Iowa,92,72,20,164,1
+20223413,a,3413,2022,East,Sweet 16,1,2022 North Carolina St.,5,2022 Notre Dame,66,63,3,129,1
+20233413,a,3413,2023,East,Sweet 16,8,2023 Mississippi,5,2023 Louisville,62,72,-10,134,0
+20243413,a,3413,2024,West,Sweet 16,1,2024 USC,5,2024 Baylor,74,70,4,144,1
+20253413a,a,3413,2025,West,Sweet 16,1,2025 USC,5,2025 Kansas St.,67,61,6,128,1
+20234415,b,4415,2023,East,Elite Eight,2,2023 Iowa,5,2023 Louisville,97,83,14,180,1
+20211103,b,1103,2021,East,First Round,11,2021 South Dakota,6,2021 Oregon,47,67,-20,114,0
+20221103,b,1103,2022,South,First Round,11,2022 Dayton,6,2022 Georgia,54,70,-16,124,0
+20231103,b,1103,2023,South,First Round,11,2023 Mississippi St.,6,2023 Creighton,81,66,15,147,1
+20241103,b,1103,2024,South,First Round,11,2024 Texas A&M,6,2024 Nebraska,59,61,-2,120,0
+20251103b,b,1103,2025,South,First Round,11,2025 George Mason,6,2025 Florida St.,59,94,-35,153,0
+20211203,b,1203,2021,West,First Round,11,2021 Bradley,6,2021 Texas,62,81,-19,143,0
+20221203,b,1203,2022,Midwest,First Round,11,2022 Villanova,6,2022 BYU,61,57,4,118,1
+20231203,b,1203,2023,Midwest,First Round,11,2023 UNLV,6,2023 Michigan,59,71,-12,130,0
+20241203,b,1203,2024,Midwest,First Round,11,2024 Green Bay,6,2024 Tennessee,63,92,-29,155,0
+20251203b,b,1203,2025,Midwest,First Round,11,2025 Columbia,6,2025 West Virginia,59,78,-19,137,0
+20211303,b,1303,2021,South,First Round,11,2021 BYU,6,2021 Rutgers,69,66,3,135,1
+20221303,b,1303,2022,West,First Round,11,2022 Missouri St.,6,2022 Ohio St.,56,63,-7,119,0
+20231303,b,1303,2023,West,First Round,11,2023 St. John's,6,2023 North Carolina,59,61,-2,120,0
+20241303,b,1303,2024,East,First Round,11,2024 Middle Tennessee,6,2024 Louisville,71,69,2,140,1
+20251303b,b,1303,2025,East,First Round,11,2025 Michigan,6,2025 Michigan,74,80,-6,154,0
+20211403,b,1403,2021,Midwest,First Round,11,2021 Florida Gulf Coast,6,2021 Michigan,66,87,-21,153,0
+20221403,b,1403,2022,East,First Round,11,2022 Princeton,6,2022 Kentucky,69,62,7,131,1
+20231403,b,1403,2023,East,First Round,11,2023 Middle Tennessee,6,2023 Colorado,60,82,-22,142,0
+20241403,b,1403,2024,West,First Round,11,2024 Arizona,6,2024 Syracuse,69,74,-5,143,0
+20251403b,b,1403,2025,West,First Round,11,2025 Murray St.,6,2025 Iowa,57,92,-35,149,0
+20212111,b,2111,2021,East,Second Round,3,2021 Georgia,6,2021 Oregon,50,57,-7,107,0
+20222111,b,2111,2022,South,Second Round,3,2022 Iowa St.,6,2022 Georgia,67,44,23,111,1
+20242111,b,2111,2024,South,Second Round,3,2024 Oregon St.,6,2024 Nebraska,61,51,10,112,1
+20252111b,b,2111,2025,South,Second Round,3,2025 LSU,6,2025 Florida St.,101,71,30,172,1
+20212211,b,2211,2021,West,Second Round,3,2021 UCLA,6,2021 Texas,62,71,-9,133,0
+20232211,b,2211,2023,Midwest,Second Round,3,2023 LSU,6,2023 Michigan,66,42,24,108,1
+20242211,b,2211,2024,Midwest,Second Round,3,2024 North Carolina St.,6,2024 Tennessee,79,72,7,151,1
+20252211b,b,2211,2025,Midwest,Second Round,3,2025 North Carolina,6,2025 West Virginia,58,47,11,105,1
+20222311,b,2311,2022,West,Second Round,3,2022 LSU,6,2022 Ohio St.,64,79,-15,143,0
+20232311,b,2311,2023,West,Second Round,3,2023 Ohio St.,6,2023 North Carolina,71,69,2,140,1
+20252311b,b,2311,2025,East,Second Round,3,2025 Notre Dame,6,2025 Michigan,76,55,21,131,1
+20212411,b,2411,2021,Midwest,Second Round,3,2021 Tennessee,6,2021 Michigan,55,70,-15,125,0
+20232411,b,2411,2023,East,Second Round,3,2023 Duke,6,2023 Colorado,53,61,-8,114,0
+20242411,b,2411,2024,West,Second Round,3,2024 Connecticut,6,2024 Syracuse,72,64,8,136,1
+20252411b,b,2411,2025,West,Second Round,3,2025 Oklahoma,6,2025 Iowa,96,62,34,158,1
+20213114,b,3114,2021,East,Sweet 16,2,2021 Louisville,6,2021 Oregon,60,42,18,102,1
+20213214,b,3214,2021,West,Sweet 16,2,2021 Maryland,6,2021 Texas,61,64,-3,125,0
+20223314,b,3314,2022,West,Sweet 16,2,2022 Texas,6,2022 Ohio St.,66,63,3,129,1
+20213414,b,3414,2021,Midwest,Sweet 16,2,2021 Baylor,6,2021 Michigan,78,75,3,153,1
+20233414,b,3414,2023,East,Sweet 16,2,2023 Iowa,6,2023 Colorado,87,77,10,164,1
+20214215,a,4215,2021,West,Elite Eight,1,2021 South Carolina,6,2021 Texas,62,34,28,96,1
+20211107,b,1107,2021,East,First Round,10,2021 UCF,7,2021 Northwestern,51,62,-11,113,0
+20221107,b,1107,2022,South,First Round,10,2022 Creighton,7,2022 Colorado,84,74,10,158,1
+20231107,b,1107,2023,South,First Round,10,2023 West Virginia,7,2023 Arizona,62,75,-13,137,0
+20241107,b,1107,2024,South,First Round,10,2024 Marquette,7,2024 Mississippi,55,67,-12,122,0
+20251107b,b,1107,2025,South,First Round,10,2025 Harvard,7,2025 Michigan St.,50,64,-14,114,0
+20211207,b,1207,2021,West,First Round,10,2021 North Carolina,7,2021 Alabama,71,80,-9,151,0
+20221207,b,1207,2022,Midwest,First Round,10,2022 South Dakota,7,2022 Mississippi,75,61,14,136,1
+20231207,b,1207,2023,Midwest,First Round,10,2023 Princeton,7,2023 North Carolina St.,64,63,1,127,1
+20241207,b,1207,2024,Midwest,First Round,10,2024 Maryland,7,2024 Iowa St.,86,93,-7,179,0
+20251207b,b,1207,2025,Midwest,First Round,10,2025 Oregon,7,2025 Vanderbilt,77,73,4,150,1
+20211307,b,1307,2021,South,First Round,10,2021 Michigan St.,7,2021 Iowa St.,75,79,-4,154,0
+20221307,b,1307,2022,West,First Round,10,2022 Arkansas,7,2022 Utah,69,92,-23,161,0
+20231307,b,1307,2023,West,First Round,10,2023 Alabama,7,2023 Baylor,74,78,-4,152,0
+20241307,b,1307,2024,East,First Round,10,2024 UNLV,7,2024 Creighton,73,87,-14,160,0
+20251307b,b,1307,2025,East,First Round,10,2025 Louisville,7,2025 Louisville,58,63,-5,121,0
+20211407,b,1407,2021,Midwest,First Round,10,2021 Marquette,7,2021 Virginia Tech,63,70,-7,133,0
+20221407,b,1407,2022,East,First Round,10,2022 Florida,7,2022 UCF,52,69,-17,121,0
+20231407,b,1407,2023,East,First Round,10,2023 Georgia,7,2023 Florida St.,66,54,12,120,1
+20241407,b,1407,2024,West,First Round,10,2024 Richmond,7,2024 Duke,61,72,-11,133,0
+20251407b,b,1407,2025,West,First Round,10,2025 South Dakota St.,7,2025 Oklahoma St.,74,68,6,142,1
+20212112,b,2112,2021,East,Second Round,2,2021 Louisville,7,2021 Northwestern,62,63,-1,125,0
+20232112,b,2112,2023,South,Second Round,2,2023 Maryland,7,2023 Arizona,77,64,13,141,1
+20242112,b,2112,2024,South,Second Round,2,2024 Notre Dame,7,2024 Mississippi,71,56,15,127,1
+20252112b,b,2112,2025,South,Second Round,2,2025 North Carolina St.,7,2025 Michigan St.,83,49,34,132,1
+20212212,b,2212,2021,West,Second Round,2,2021 Maryland,7,2021 Alabama,100,64,36,164,1
+20242212,b,2212,2024,Midwest,Second Round,2,2024 Stanford,7,2024 Iowa St.,87,81,6,168,1
+20212312,b,2312,2021,South,Second Round,2,2021 Texas A&M,7,2021 Iowa St.,84,82,2,166,1
+20222312,b,2312,2022,West,Second Round,2,2022 Texas,7,2022 Utah,78,56,22,134,1
+20232312,b,2312,2023,West,Second Round,2,2023 Connecticut,7,2023 Baylor,77,58,19,135,1
+20242312,b,2312,2024,East,Second Round,2,2024 UCLA,7,2024 Creighton,67,63,4,130,1
+20252312b,b,2312,2025,East,Second Round,2,2025 TCU,7,2025 Louisville,85,70,15,155,1
+20212412,b,2412,2021,Midwest,Second Round,2,2021 Baylor,7,2021 Virginia Tech,90,48,42,138,1
+20222412,b,2412,2022,East,Second Round,2,2022 Connecticut,7,2022 UCF,52,47,5,99,1
+20242412,b,2412,2024,West,Second Round,2,2024 Ohio St.,7,2024 Duke,63,75,-12,138,0
+20243414,a,3414,2024,West,Sweet 16,3,2024 Connecticut,7,2024 Duke,53,45,8,98,1
+20211108,b,1108,2021,East,First Round,9,2021 Wake Forest,8,2021 Oklahoma St.,61,84,-23,145,0
+20221108,b,1108,2022,South,First Round,9,2022 South Florida,8,2022 Miami FL,66,78,-12,144,0
+20231108,b,1108,2023,South,First Round,9,2023 Marquette,8,2023 South Florida,65,67,-2,132,0
+20241108,b,1108,2024,South,First Round,9,2024 Michigan St.,8,2024 North Carolina,56,59,-3,115,0
+20251108b,b,1108,2025,South,First Round,9,2025 Georgia Tech,8,2025 Richmond,49,74,-25,123,0
+20211208,b,1208,2021,West,First Round,9,2021 Florida St.,8,2021 Oregon St.,59,83,-24,142,0
+20221208,b,1208,2022,Midwest,First Round,9,2022 Gonzaga,8,2022 Nebraska,68,55,13,123,1
+20231208,b,1208,2023,Midwest,First Round,9,2023 Miami FL,8,2023 Oklahoma St.,62,61,1,123,1
+20241208,b,1208,2024,Midwest,First Round,9,2024 Florida St.,8,2024 Alabama,74,82,-8,156,0
+20251208b,b,1208,2025,Midwest,First Round,9,2025 Indiana,8,2025 Utah,76,68,8,144,1
+20211308,b,1308,2021,South,First Round,9,2021 Washington St.,8,2021 South Florida,53,57,-4,110,0
+20221308,b,1308,2022,West,First Round,9,2022 Georgia Tech,8,2022 Kansas,58,77,-19,135,0
+20231308,b,1308,2023,West,First Round,9,2023 South Dakota St.,8,2023 USC,62,57,5,119,1
+20241308,b,1308,2024,East,First Round,9,2024 Princeton,8,2024 West Virginia,53,63,-10,116,0
+20251308b,b,1308,2025,East,First Round,9,2025 Creighton,8,2025 Illinois,57,66,-9,123,0
+20211408,b,1408,2021,Midwest,First Round,9,2021 South Dakota St.,8,2021 Syracuse,55,72,-17,127,0
+20221408,b,1408,2022,East,First Round,9,2022 Kansas St.,8,2022 Washington St.,50,40,10,90,1
+20231408,b,1408,2023,East,First Round,9,2023 Gonzaga,8,2023 Mississippi,48,71,-23,119,0
+20241408,b,1408,2024,West,First Round,9,2024 Michigan,8,2024 Kansas,72,81,-9,153,0
+20251408b,b,1408,2025,West,First Round,9,2025 Mississippi St.,8,2025 California,59,46,13,105,1
+20212109,a,2109,2021,East,Second Round,1,2021 Stanford,8,2021 Oklahoma St.,73,62,11,135,1
+20222109,a,2109,2022,South,Second Round,1,2022 South Carolina,8,2022 Miami FL,49,33,16,82,1
+20232109,a,2109,2023,South,Second Round,1,2023 South Carolina,8,2023 South Florida,76,45,31,121,1
+20242109,a,2109,2024,South,Second Round,1,2024 South Carolina,8,2024 North Carolina,88,41,47,129,1
+20252109a,a,2109,2025,South,Second Round,1,2025 UCLA,8,2025 Richmond,84,67,17,151,1
+20212209,a,2209,2021,West,Second Round,1,2021 South Carolina,8,2021 Oregon St.,59,42,17,101,1
+20242209,a,2209,2024,Midwest,Second Round,1,2024 Texas,8,2024 Alabama,65,45,20,110,1
+20212309,a,2309,2021,South,Second Round,1,2021 North Carolina St.,8,2021 South Florida,79,67,12,146,1
+20222309,a,2309,2022,West,Second Round,1,2022 Stanford,8,2022 Kansas,91,65,26,156,1
+20242309,a,2309,2024,East,Second Round,1,2024 Iowa,8,2024 West Virginia,64,54,10,118,1
+20252309a,a,2309,2025,East,Second Round,1,2025 Texas,8,2025 Illinois,65,48,17,113,1
+20212409,a,2409,2021,Midwest,Second Round,1,2021 Connecticut,8,2021 Syracuse,83,47,36,130,1
+20232409,a,2409,2023,East,Second Round,1,2023 Stanford,8,2023 Mississippi,49,54,-5,103,0
+20242409,a,2409,2024,West,Second Round,1,2024 USC,8,2024 Kansas,73,55,18,128,1
+20233413,b,3413,2023,East,Sweet 16,5,2023 Louisville,8,2023 Mississippi,72,62,10,134,1
+20211108,a,1108,2021,East,First Round,8,2021 Oklahoma St.,9,2021 Wake Forest,84,61,23,145,1
+20221108,a,1108,2022,South,First Round,8,2022 Miami FL,9,2022 South Florida,78,66,12,144,1
+20231108,a,1108,2023,South,First Round,8,2023 South Florida,9,2023 Marquette,67,65,2,132,1
+20241108,a,1108,2024,South,First Round,8,2024 North Carolina,9,2024 Michigan St.,59,56,3,115,1
+20251108a,a,1108,2025,South,First Round,8,2025 Richmond,9,2025 Georgia Tech,74,49,25,123,1
+20211208,a,1208,2021,West,First Round,8,2021 Oregon St.,9,2021 Florida St.,83,59,24,142,1
+20221208,a,1208,2022,Midwest,First Round,8,2022 Nebraska,9,2022 Gonzaga,55,68,-13,123,0
+20231208,a,1208,2023,Midwest,First Round,8,2023 Oklahoma St.,9,2023 Miami FL,61,62,-1,123,0
+20241208,a,1208,2024,Midwest,First Round,8,2024 Alabama,9,2024 Florida St.,82,74,8,156,1
+20251208a,a,1208,2025,Midwest,First Round,8,2025 Utah,9,2025 Indiana,68,76,-8,144,0
+20211308,a,1308,2021,South,First Round,8,2021 South Florida,9,2021 Washington St.,57,53,4,110,1
+20221308,a,1308,2022,West,First Round,8,2022 Kansas,9,2022 Georgia Tech,77,58,19,135,1
+20231308,a,1308,2023,West,First Round,8,2023 USC,9,2023 South Dakota St.,57,62,-5,119,0
+20241308,a,1308,2024,East,First Round,8,2024 West Virginia,9,2024 Princeton,63,53,10,116,1
+20251308a,a,1308,2025,East,First Round,8,2025 Illinois,9,2025 Creighton,66,57,9,123,1
+20211408,a,1408,2021,Midwest,First Round,8,2021 Syracuse,9,2021 South Dakota St.,72,55,17,127,1
+20221408,a,1408,2022,East,First Round,8,2022 Washington St.,9,2022 Kansas St.,40,50,-10,90,0
+20231408,a,1408,2023,East,First Round,8,2023 Mississippi,9,2023 Gonzaga,71,48,23,119,1
+20241408,a,1408,2024,West,First Round,8,2024 Kansas,9,2024 Michigan,81,72,9,153,1
+20251408a,a,1408,2025,West,First Round,8,2025 California,9,2025 Mississippi St.,46,59,-13,105,0
+20222209,a,2209,2022,Midwest,Second Round,1,2022 Louisville,9,2022 Gonzaga,68,59,9,127,1
+20232209,a,2209,2023,Midwest,Second Round,1,2023 Indiana,9,2023 Miami FL,68,70,-2,138,0
+20252209a,a,2209,2025,Midwest,Second Round,1,2025 South Carolina,9,2025 Indiana,64,53,11,117,1
+20232309,a,2309,2023,West,Second Round,1,2023 Virginia Tech,9,2023 South Dakota St.,72,60,12,132,1
+20222409,a,2409,2022,East,Second Round,1,2022 North Carolina St.,9,2022 Kansas St.,89,57,32,146,1
+20252409a,a,2409,2025,West,Second Round,1,2025 USC,9,2025 Mississippi St.,96,59,37,155,1
+20233213,b,3213,2023,Midwest,Sweet 16,4,2023 Villanova,9,2023 Miami FL,65,70,-5,135,0
+20234215,b,4215,2023,Midwest,Elite Eight,3,2023 LSU,9,2023 Miami FL,54,42,12,96,1
+20211107,a,1107,2021,East,First Round,7,2021 Northwestern,10,2021 UCF,62,51,11,113,1
+20221107,a,1107,2022,South,First Round,7,2022 Colorado,10,2022 Creighton,74,84,-10,158,0
+20231107,a,1107,2023,South,First Round,7,2023 Arizona,10,2023 West Virginia,75,62,13,137,1
+20241107,a,1107,2024,South,First Round,7,2024 Mississippi,10,2024 Marquette,67,55,12,122,1
+20251107a,a,1107,2025,South,First Round,7,2025 Michigan St.,10,2025 Harvard,64,50,14,114,1
+20211207,a,1207,2021,West,First Round,7,2021 Alabama,10,2021 North Carolina,80,71,9,151,1
+20221207,a,1207,2022,Midwest,First Round,7,2022 Mississippi,10,2022 South Dakota,61,75,-14,136,0
+20231207,a,1207,2023,Midwest,First Round,7,2023 North Carolina St.,10,2023 Princeton,63,64,-1,127,0
+20241207,a,1207,2024,Midwest,First Round,7,2024 Iowa St.,10,2024 Maryland,93,86,7,179,1
+20251207a,a,1207,2025,Midwest,First Round,7,2025 Vanderbilt,10,2025 Oregon,73,77,-4,150,0
+20211307,a,1307,2021,South,First Round,7,2021 Iowa St.,10,2021 Michigan St.,79,75,4,154,1
+20221307,a,1307,2022,West,First Round,7,2022 Utah,10,2022 Arkansas,92,69,23,161,1
+20231307,a,1307,2023,West,First Round,7,2023 Baylor,10,2023 Alabama,78,74,4,152,1
+20241307,a,1307,2024,East,First Round,7,2024 Creighton,10,2024 UNLV,87,73,14,160,1
+20251307a,a,1307,2025,East,First Round,7,2025 Louisville,10,2025 Louisville,63,58,5,121,1
+20211407,a,1407,2021,Midwest,First Round,7,2021 Virginia Tech,10,2021 Marquette,70,63,7,133,1
+20221407,a,1407,2022,East,First Round,7,2022 UCF,10,2022 Florida,69,52,17,121,1
+20231407,a,1407,2023,East,First Round,7,2023 Florida St.,10,2023 Georgia,54,66,-12,120,0
+20241407,a,1407,2024,West,First Round,7,2024 Duke,10,2024 Richmond,72,61,11,133,1
+20251407a,a,1407,2025,West,First Round,7,2025 Oklahoma St.,10,2025 South Dakota St.,68,74,-6,142,0
+20222112,b,2112,2022,South,Second Round,2,2022 Iowa,10,2022 Creighton,62,64,-2,126,0
+20222212,b,2212,2022,Midwest,Second Round,2,2022 Baylor,10,2022 South Dakota,47,61,-14,108,0
+20232212,b,2212,2023,Midwest,Second Round,2,2023 Utah,10,2023 Princeton,63,56,7,119,1
+20252212b,b,2212,2025,Midwest,Second Round,2,2025 Duke,10,2025 Oregon,59,53,6,112,1
+20232412,b,2412,2023,East,Second Round,2,2023 Iowa,10,2023 Georgia,74,66,8,140,1
+20252412b,b,2412,2025,West,Second Round,2,2025 Connecticut,10,2025 South Dakota St.,91,57,34,148,1
+20223114,a,3114,2022,South,Sweet 16,3,2022 Iowa St.,10,2022 Creighton,68,76,-8,144,0
+20223214,a,3214,2022,Midwest,Sweet 16,3,2022 Michigan,10,2022 South Dakota,52,49,3,101,1
+20224115,a,4115,2022,South,Elite Eight,1,2022 South Carolina,10,2022 Creighton,80,50,30,130,1
+20211103,a,1103,2021,East,First Round,6,2021 Oregon,11,2021 South Dakota,67,47,20,114,1
+20221103,a,1103,2022,South,First Round,6,2022 Georgia,11,2022 Dayton,70,54,16,124,1
+20231103,a,1103,2023,South,First Round,6,2023 Creighton,11,2023 Mississippi St.,66,81,-15,147,0
+20241103,a,1103,2024,South,First Round,6,2024 Nebraska,11,2024 Texas A&M,61,59,2,120,1
+20251103a,a,1103,2025,South,First Round,6,2025 Florida St.,11,2025 George Mason,94,59,35,153,1
+20211203,a,1203,2021,West,First Round,6,2021 Texas,11,2021 Bradley,81,62,19,143,1
+20221203,a,1203,2022,Midwest,First Round,6,2022 BYU,11,2022 Villanova,57,61,-4,118,0
+20231203,a,1203,2023,Midwest,First Round,6,2023 Michigan,11,2023 UNLV,71,59,12,130,1
+20241203,a,1203,2024,Midwest,First Round,6,2024 Tennessee,11,2024 Green Bay,92,63,29,155,1
+20251203a,a,1203,2025,Midwest,First Round,6,2025 West Virginia,11,2025 Columbia,78,59,19,137,1
+20211303,a,1303,2021,South,First Round,6,2021 Rutgers,11,2021 BYU,66,69,-3,135,0
+20221303,a,1303,2022,West,First Round,6,2022 Ohio St.,11,2022 Missouri St.,63,56,7,119,1
+20231303,a,1303,2023,West,First Round,6,2023 North Carolina,11,2023 St. John's,61,59,2,120,1
+20241303,a,1303,2024,East,First Round,6,2024 Louisville,11,2024 Middle Tennessee,69,71,-2,140,0
+20251303a,a,1303,2025,East,First Round,6,2025 Michigan,11,2025 Michigan,80,74,6,154,1
+20211403,a,1403,2021,Midwest,First Round,6,2021 Michigan,11,2021 Florida Gulf Coast,87,66,21,153,1
+20221403,a,1403,2022,East,First Round,6,2022 Kentucky,11,2022 Princeton,62,69,-7,131,0
+20231403,a,1403,2023,East,First Round,6,2023 Colorado,11,2023 Middle Tennessee,82,60,22,142,1
+20241403,a,1403,2024,West,First Round,6,2024 Syracuse,11,2024 Arizona,74,69,5,143,1
+20251403a,a,1403,2025,West,First Round,6,2025 Iowa,11,2025 Murray St.,92,57,35,149,1
+20232111,b,2111,2023,South,Second Round,3,2023 Notre Dame,11,2023 Mississippi St.,53,48,5,101,1
+20222211,b,2211,2022,Midwest,Second Round,3,2022 Michigan,11,2022 Villanova,64,49,15,113,1
+20212311,b,2311,2021,South,Second Round,3,2021 Arizona,11,2021 BYU,52,46,6,98,1
+20242311,b,2311,2024,East,Second Round,3,2024 LSU,11,2024 Middle Tennessee,83,56,27,139,1
+20222411,b,2411,2022,East,Second Round,3,2022 Indiana,11,2022 Princeton,56,55,1,111,1
+20211106,a,1106,2021,East,First Round,5,2021 Missouri St.,12,2021 UC Davis,70,51,19,121,1
+20221106,a,1106,2022,South,First Round,5,2022 North Carolina,12,2022 Stephen F. Austin,79,66,13,145,1
+20231106,a,1106,2023,South,First Round,5,2023 Oklahoma,12,2023 Portland,85,63,22,148,1
+20241106,a,1106,2024,South,First Round,5,2024 Oklahoma,12,2024 Florida Gulf Coast,73,70,3,143,1
+20251106a,a,1106,2025,South,First Round,5,2025 Mississippi,12,2025 Ball St.,83,65,18,148,1
+20211206,a,1206,2021,West,First Round,5,2021 Georgia Tech,12,2021 Stephen F. Austin,54,52,2,106,1
+20221206,a,1206,2022,Midwest,First Round,5,2022 Oregon,12,2022 Belmont,70,73,-3,143,0
+20231206,a,1206,2023,Midwest,First Round,5,2023 Washington St.,12,2023 Florida Gulf Coast,63,74,-11,137,0
+20241206,a,1206,2024,Midwest,First Round,5,2024 Utah,12,2024 South Dakota St.,68,54,14,122,1
+20251206a,a,1206,2025,Midwest,First Round,5,2025 Alabama,12,2025 Green Bay,81,67,14,148,1
+20211306,a,1306,2021,South,First Round,5,2021 Gonzaga,12,2021 Belmont,59,64,-5,123,0
+20221306,a,1306,2022,West,First Round,5,2022 Virginia Tech,12,2022 Florida Gulf Coast,81,84,-3,165,0
+20231306,a,1306,2023,West,First Round,5,2023 Iowa St.,12,2023 Toledo,73,80,-7,153,0
+20241306,a,1306,2024,East,First Round,5,2024 Colorado,12,2024 Drake,86,72,14,158,1
+20251306a,a,1306,2025,East,First Round,5,2025 Tennessee,12,2025 South Florida,101,66,35,167,1
+20211406,a,1406,2021,Midwest,First Round,5,2021 Iowa,12,2021 Central Michigan,87,72,15,159,1
+20221406,a,1406,2022,East,First Round,5,2022 Notre Dame,12,2022 Massachusetts,89,78,11,167,1
+20231406,a,1406,2023,East,First Round,5,2023 Louisville,12,2023 Drake,83,81,2,164,1
+20241406,a,1406,2024,West,First Round,5,2024 Baylor,12,2024 Vanderbilt,80,63,17,143,1
+20251406a,a,1406,2025,West,First Round,5,2025 Kansas St.,12,2025 Fairfield,85,41,44,126,1
+20222210,b,2210,2022,Midwest,Second Round,4,2022 Tennessee,12,2022 Belmont,70,67,3,137,1
+20232210,b,2210,2023,Midwest,Second Round,4,2023 Villanova,12,2023 Florida Gulf Coast,76,57,19,133,1
+20212310,b,2310,2021,South,Second Round,4,2021 Indiana,12,2021 Belmont,70,48,22,118,1
+20222310,b,2310,2022,West,Second Round,4,2022 Maryland,12,2022 Florida Gulf Coast,89,65,24,154,1
+20232310,b,2310,2023,West,Second Round,4,2023 Tennessee,12,2023 Toledo,94,47,47,141,1
+20211104,a,1104,2021,East,First Round,4,2021 Arkansas,13,2021 Wright St.,62,66,-4,128,0
+20221104,a,1104,2022,South,First Round,4,2022 Arizona,13,2022 UNLV,72,67,5,139,1
+20231104,a,1104,2023,South,First Round,4,2023 UCLA,13,2023 Sacramento St.,67,45,22,112,1
+20241104,a,1104,2024,South,First Round,4,2024 Indiana,13,2024 Fairfield,89,56,33,145,1
+20251104a,a,1104,2025,South,First Round,4,2025 Baylor,13,2025 Grand Canyon,73,60,13,133,1
+20211204,a,1204,2021,West,First Round,4,2021 West Virginia,13,2021 Lehigh,77,53,24,130,1
+20221204,a,1204,2022,Midwest,First Round,4,2022 Tennessee,13,2022 Buffalo,80,67,13,147,1
+20231204,a,1204,2023,Midwest,First Round,4,2023 Villanova,13,2023 Cleveland St.,76,59,17,135,1
+20241204,a,1204,2024,Midwest,First Round,4,2024 Gonzaga,13,2024 UC Irvine,75,56,19,131,1
+20251204a,a,1204,2025,Midwest,First Round,4,2025 Maryland,13,2025 Norfolk St.,82,69,13,151,1
+20211304,a,1304,2021,South,First Round,4,2021 Indiana,13,2021 VCU,63,32,31,95,1
+20221304,a,1304,2022,West,First Round,4,2022 Maryland,13,2022 Delaware,102,71,31,173,1
+20231304,a,1304,2023,West,First Round,4,2023 Tennessee,13,2023 Saint Louis,95,50,45,145,1
+20241304,a,1304,2024,East,First Round,4,2024 Kansas St.,13,2024 Portland,78,65,13,143,1
+20251304a,a,1304,2025,East,First Round,4,2025 Ohio St.,13,2025 Montana St.,71,51,20,122,1
+20211404,a,1404,2021,Midwest,First Round,4,2021 Kentucky,13,2021 Idaho St.,71,63,8,134,1
+20221404,a,1404,2022,East,First Round,4,2022 Oklahoma,13,2022 IUPUI,78,72,6,150,1
+20231404,a,1404,2023,East,First Round,4,2023 Texas,13,2023 East Carolina,79,40,39,119,1
+20241404,a,1404,2024,West,First Round,4,2024 Virginia Tech,13,2024 Marshall,92,49,43,141,1
+20251404a,a,1404,2025,West,First Round,4,2025 Kentucky,13,2025 Liberty,79,78,1,157,1
+20212110,a,2110,2021,East,Second Round,5,2021 Missouri St.,13,2021 Wright St.,64,39,25,103,1
+20211105,a,1105,2021,East,First Round,3,2021 Georgia,14,2021 Drexel,67,53,14,120,1
+20221105,a,1105,2022,South,First Round,3,2022 Iowa St.,14,2022 UT Arlington,78,71,7,149,1
+20231105,a,1105,2023,South,First Round,3,2023 Notre Dame,14,2023 Southern Utah,82,56,26,138,1
+20241105,a,1105,2024,South,First Round,3,2024 Oregon St.,14,2024 Eastern Washington,73,51,22,124,1
+20251105a,a,1105,2025,South,First Round,3,2025 LSU,14,2025 San Diego St.,103,48,55,151,1
+20211205,a,1205,2021,West,First Round,3,2021 UCLA,14,2021 Wyoming,69,48,21,117,1
+20221205,a,1205,2022,Midwest,First Round,3,2022 Michigan,14,2022 American,74,39,35,113,1
+20231205,a,1205,2023,Midwest,First Round,3,2023 LSU,14,2023 Hawaii,73,50,23,123,1
+20241205,a,1205,2024,Midwest,First Round,3,2024 North Carolina St.,14,2024 Chattanooga,64,45,19,109,1
+20251205a,a,1205,2025,Midwest,First Round,3,2025 North Carolina,14,2025 Oregon St.,70,49,21,119,1
+20211305,a,1305,2021,South,First Round,3,2021 Arizona,14,2021 Stony Brook,79,44,35,123,1
+20221305,a,1305,2022,West,First Round,3,2022 LSU,14,2022 Jackson St.,83,77,6,160,1
+20231305,a,1305,2023,West,First Round,3,2023 Ohio St.,14,2023 James Madison,80,66,14,146,1
+20241305,a,1305,2024,East,First Round,3,2024 LSU,14,2024 Rice,70,60,10,130,1
+20251305a,a,1305,2025,East,First Round,3,2025 Notre Dame,14,2025 Stephen F. Austin,106,54,52,160,1
+20211405,a,1405,2021,Midwest,First Round,3,2021 Tennessee,14,2021 Middle Tennessee,87,62,25,149,1
+20221405,a,1405,2022,East,First Round,3,2022 Indiana,14,2022 Charlotte,85,51,34,136,1
+20231405,a,1405,2023,East,First Round,3,2023 Duke,14,2023 Iona,89,49,40,138,1
+20241405,a,1405,2024,West,First Round,3,2024 Connecticut,14,2024 Jackson St.,86,64,22,150,1
+20251405a,a,1405,2025,West,First Round,3,2025 Oklahoma,14,2025 Florida Gulf Coast,81,58,23,139,1
+20211102,a,1102,2021,East,First Round,2,2021 Louisville,15,2021 Marist,74,43,31,117,1
+20221102,a,1102,2022,South,First Round,2,2022 Iowa,15,2022 Illinois St.,98,58,40,156,1
+20231102,a,1102,2023,South,First Round,2,2023 Maryland,15,2023 Holy Cross,93,61,32,154,1
+20241102,a,1102,2024,South,First Round,2,2024 Notre Dame,15,2024 Kent St.,81,67,14,148,1
+20251102a,a,1102,2025,South,First Round,2,2025 North Carolina St.,15,2025 Vermont,75,55,20,130,1
+20211202,a,1202,2021,West,First Round,2,2021 Maryland,15,2021 Mount St. Mary's,98,45,53,143,1
+20221202,a,1202,2022,Midwest,First Round,2,2022 Baylor,15,2022 Hawaii,89,49,40,138,1
+20231202,a,1202,2023,Midwest,First Round,2,2023 Utah,15,2023 Gardner Webb,103,77,26,180,1
+20241202,a,1202,2024,Midwest,First Round,2,2024 Stanford,15,2024 Norfolk St.,79,50,29,129,1
+20251202a,a,1202,2025,Midwest,First Round,2,2025 Duke,15,2025 Lehigh,86,25,61,111,1
+20211302,a,1302,2021,South,First Round,2,2021 Texas A&M,15,2021 Troy,84,80,4,164,1
+20221302,a,1302,2022,West,First Round,2,2022 Texas,15,2022 Fairfield,70,52,18,122,1
+20231302,a,1302,2023,West,First Round,2,2023 Connecticut,15,2023 Vermont,95,52,43,147,1
+20241302,a,1302,2024,East,First Round,2,2024 UCLA,15,2024 California Baptist,84,55,29,139,1
+20251302a,a,1302,2025,East,First Round,2,2025 TCU,15,2025 Fairleigh Dickinson,73,51,22,124,1
+20211402,a,1402,2021,Midwest,First Round,2,2021 Baylor,15,2021 Jackson St.,101,52,49,153,1
+20221402,a,1402,2022,East,First Round,2,2022 Connecticut,15,2022 Mercer,83,38,45,121,1
+20231402,a,1402,2023,East,First Round,2,2023 Iowa,15,2023 Southeastern Louisiana,95,43,52,138,1
+20241402,a,1402,2024,West,First Round,2,2024 Ohio St.,15,2024 Maine,80,57,23,137,1
+20251402a,a,1402,2025,West,First Round,2,2025 Connecticut,15,2025 Arkansas St.,103,34,69,137,1
+20211101,a,1101,2021,East,First Round,1,2021 Stanford,16,2021 Utah Valley,87,44,43,131,1
+20221101,a,1101,2022,South,First Round,1,2022 South Carolina,16,2022 Howard,79,21,58,100,1
+20231101,a,1101,2023,South,First Round,1,2023 South Carolina,16,2023 Norfolk St.,72,40,32,112,1
+20241101,a,1101,2024,South,First Round,1,2024 South Carolina,16,2024 Presbyterian,91,39,52,130,1
+20251101a,a,1101,2025,South,First Round,1,2025 UCLA,16,2025 Southern,84,46,38,130,1
+20211201,a,1201,2021,West,First Round,1,2021 South Carolina,16,2021 Mercer,79,53,26,132,1
+20221201,a,1201,2022,Midwest,First Round,1,2022 Louisville,16,2022 Albany,83,51,32,134,1
+20231201,a,1201,2023,Midwest,First Round,1,2023 Indiana,16,2023 Tennessee Tech,77,47,30,124,1
+20241201,a,1201,2024,Midwest,First Round,1,2024 Texas,16,2024 Drexel,82,42,40,124,1
+20251201a,a,1201,2025,Midwest,First Round,1,2025 South Carolina,16,2025 Tennessee Tech,108,48,60,156,1
+20211301,a,1301,2021,South,First Round,1,2021 North Carolina St.,16,2021 North Carolina A&T,79,58,21,137,1
+20221301,a,1301,2022,West,First Round,1,2022 Stanford,16,2022 Montana St.,78,37,41,115,1
+20231301,a,1301,2023,West,First Round,1,2023 Virginia Tech,16,2023 Chattanooga,58,33,25,91,1
+20241301,a,1301,2024,East,First Round,1,2024 Iowa,16,2024 Holy Cross,91,65,26,156,1
+20251301a,a,1301,2025,East,First Round,1,2025 Texas,16,2025 William & Mary,105,61,44,166,1
+20211401,a,1401,2021,Midwest,First Round,1,2021 Connecticut,16,2021 High Point,102,59,43,161,1
+20221401,a,1401,2022,East,First Round,1,2022 North Carolina St.,16,2022 Longwood,96,68,28,164,1
+20231401,a,1401,2023,East,First Round,1,2023 Stanford,16,2023 Sacred Heart,92,49,43,141,1
+20241401,a,1401,2024,West,First Round,1,2024 USC,16,2024 Texas A&M Corpus Chris,87,55,32,142,1
+20251401a,a,1401,2025,West,First Round,1,2025 USC,16,2025 UNC Greensboro,72,25,47,97,1
