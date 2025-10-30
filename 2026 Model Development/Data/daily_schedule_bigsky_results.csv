@@ -1,0 +1,361 @@
+year,date,team,team_id,opponent,opponent_id,home_away,team_score,opponent_score,total_score,team_win
+2024,2023-12-28,Eastern Washington,2024 Eastern Washington,Portland St.,2024 Portland St.,Home,91,57,148,1
+2024,2023-12-30,Eastern Washington,2024 Eastern Washington,Sacramento St.,2024 Sacramento St.,Home,87,61,148,1
+2024,2024-01-13,Eastern Washington,2024 Eastern Washington,Idaho,2024 Idaho,Away,79,58,137,1
+2024,2024-01-18,Eastern Washington,2024 Eastern Washington,Weber St.,2024 Weber St.,Away,80,78,158,1
+2024,2024-01-20,Eastern Washington,2024 Eastern Washington,Idaho St.,2024 Idaho St.,Away,79,67,146,1
+2024,2024-01-25,Eastern Washington,2024 Eastern Washington,Northern Colorado,2024 Northern Colorado,Home,77,74,151,1
+2024,2024-01-27,Eastern Washington,2024 Eastern Washington,Northern Arizona,2024 Northern Arizona,Home,85,70,155,1
+2024,2024-02-01,Eastern Washington,2024 Eastern Washington,Montana St.,2024 Montana St.,Away,60,70,130,0
+2024,2024-02-03,Eastern Washington,2024 Eastern Washington,Montana,2024 Montana,Away,78,65,143,1
+2024,2024-02-05,Eastern Washington,2024 Eastern Washington,Portland St.,2024 Portland St.,Away,90,77,167,1
+2024,2024-02-10,Eastern Washington,2024 Eastern Washington,Idaho,2024 Idaho,Home,87,79,166,1
+2024,2024-02-15,Eastern Washington,2024 Eastern Washington,Idaho St.,2024 Idaho St.,Home,88,82,170,1
+2024,2024-02-17,Eastern Washington,2024 Eastern Washington,Weber St.,2024 Weber St.,Home,84,90,174,0
+2024,2024-02-22,Eastern Washington,2024 Eastern Washington,Northern Arizona,2024 Northern Arizona,Away,71,78,149,0
+2024,2024-02-24,Eastern Washington,2024 Eastern Washington,Northern Colorado,2024 Northern Colorado,Away,85,76,161,1
+2024,2024-02-29,Eastern Washington,2024 Eastern Washington,Montana,2024 Montana,Home,89,79,168,1
+2024,2024-03-02,Eastern Washington,2024 Eastern Washington,Montana St.,2024 Montana St.,Home,108,84,192,1
+2024,2024-03-04,Eastern Washington,2024 Eastern Washington,Sacramento St.,2024 Sacramento St.,Away,91,88,179,1
+2024,2023-12-28,Idaho St.,2024 Idaho St.,Montana St.,2024 Montana St.,Home,66,74,140,0
+2024,2023-12-30,Idaho St.,2024 Idaho St.,Montana,2024 Montana,Home,68,76,144,0
+2024,2024-01-11,Idaho St.,2024 Idaho St.,Portland St.,2024 Portland St.,Away,69,63,132,1
+2024,2024-01-13,Idaho St.,2024 Idaho St.,Sacramento St.,2024 Sacramento St.,Away,64,66,130,0
+2024,2024-01-18,Idaho St.,2024 Idaho St.,Idaho,2024 Idaho,Home,64,59,123,1
+2024,2024-01-20,Idaho St.,2024 Idaho St.,Eastern Washington,2024 Eastern Washington,Home,67,79,146,0
+2024,2024-01-22,Idaho St.,2024 Idaho St.,Montana St.,2024 Montana St.,Away,70,77,147,0
+2024,2024-01-27,Idaho St.,2024 Idaho St.,Weber St.,2024 Weber St.,Away,74,64,138,1
+2024,2024-02-01,Idaho St.,2024 Idaho St.,Northern Colorado,2024 Northern Colorado,Away,86,91,177,0
+2024,2024-02-03,Idaho St.,2024 Idaho St.,Northern Arizona,2024 Northern Arizona,Away,81,79,160,1
+2024,2024-02-08,Idaho St.,2024 Idaho St.,Sacramento St.,2024 Sacramento St.,Home,68,40,108,1
+2024,2024-02-10,Idaho St.,2024 Idaho St.,Portland St.,2024 Portland St.,Home,68,65,133,1
+2024,2024-02-15,Idaho St.,2024 Idaho St.,Eastern Washington,2024 Eastern Washington,Away,82,88,170,0
+2024,2024-02-17,Idaho St.,2024 Idaho St.,Idaho,2024 Idaho,Away,53,55,108,0
+2024,2024-02-24,Idaho St.,2024 Idaho St.,Weber St.,2024 Weber St.,Home,80,62,142,1
+2024,2024-02-29,Idaho St.,2024 Idaho St.,Northern Arizona,2024 Northern Arizona,Home,88,92,180,0
+2024,2024-03-02,Idaho St.,2024 Idaho St.,Northern Colorado,2024 Northern Colorado,Home,79,81,160,0
+2024,2024-03-04,Idaho St.,2024 Idaho St.,Montana,2024 Montana,Away,65,79,144,0
+2024,2023-12-28,Idaho,2024 Idaho,Sacramento St.,2024 Sacramento St.,Home,61,58,119,1
+2024,2023-12-30,Idaho,2024 Idaho,Portland St.,2024 Portland St.,Home,72,77,149,0
+2024,2024-01-13,Idaho,2024 Idaho,Eastern Washington,2024 Eastern Washington,Home,58,79,137,0
+2024,2024-01-18,Idaho,2024 Idaho,Idaho St.,2024 Idaho St.,Away,59,64,123,0
+2024,2024-01-20,Idaho,2024 Idaho,Weber St.,2024 Weber St.,Away,65,88,153,0
+2024,2024-01-25,Idaho,2024 Idaho,Northern Arizona,2024 Northern Arizona,Home,60,75,135,0
+2024,2024-01-27,Idaho,2024 Idaho,Northern Colorado,2024 Northern Colorado,Home,68,89,157,0
+2024,2024-02-01,Idaho,2024 Idaho,Montana,2024 Montana,Away,70,73,143,0
+2024,2024-02-03,Idaho,2024 Idaho,Montana St.,2024 Montana St.,Away,81,75,156,1
+2024,2024-02-05,Idaho,2024 Idaho,Sacramento St.,2024 Sacramento St.,Away,61,45,106,1
+2024,2024-02-10,Idaho,2024 Idaho,Eastern Washington,2024 Eastern Washington,Away,79,87,166,0
+2024,2024-02-15,Idaho,2024 Idaho,Weber St.,2024 Weber St.,Home,69,70,139,0
+2024,2024-02-17,Idaho,2024 Idaho,Idaho St.,2024 Idaho St.,Home,55,53,108,1
+2024,2024-02-22,Idaho,2024 Idaho,Northern Colorado,2024 Northern Colorado,Away,62,76,138,0
+2024,2024-02-24,Idaho,2024 Idaho,Northern Arizona,2024 Northern Arizona,Away,86,76,162,1
+2024,2024-02-29,Idaho,2024 Idaho,Montana St.,2024 Montana St.,Home,48,62,110,0
+2024,2024-03-02,Idaho,2024 Idaho,Montana,2024 Montana,Home,57,80,137,0
+2024,2024-03-04,Idaho,2024 Idaho,Portland St.,2024 Portland St.,Away,57,72,129,0
+2024,2023-12-28,Montana,2024 Montana,Weber St.,2024 Weber St.,Away,63,93,156,0
+2024,2023-12-30,Montana,2024 Montana,Idaho St.,2024 Idaho St.,Away,76,68,144,1
+2024,2024-01-11,Montana,2024 Montana,Northern Colorado,2024 Northern Colorado,Home,92,98,190,0
+2024,2024-01-13,Montana,2024 Montana,Northern Arizona,2024 Northern Arizona,Home,90,47,137,1
+2024,2024-01-20,Montana,2024 Montana,Montana St.,2024 Montana St.,Away,87,77,164,1
+2024,2024-01-22,Montana,2024 Montana,Weber St.,2024 Weber St.,Home,77,62,139,1
+2024,2024-01-25,Montana,2024 Montana,Portland St.,2024 Portland St.,Away,46,72,118,0
+2024,2024-01-27,Montana,2024 Montana,Sacramento St.,2024 Sacramento St.,Away,70,67,137,1
+2024,2024-02-01,Montana,2024 Montana,Idaho,2024 Idaho,Home,73,70,143,1
+2024,2024-02-03,Montana,2024 Montana,Eastern Washington,2024 Eastern Washington,Home,65,78,143,0
+2024,2024-02-08,Montana,2024 Montana,Northern Arizona,2024 Northern Arizona,Away,94,66,160,1
+2024,2024-02-10,Montana,2024 Montana,Northern Colorado,2024 Northern Colorado,Away,71,87,158,0
+2024,2024-02-17,Montana,2024 Montana,Montana St.,2024 Montana St.,Home,88,69,157,1
+2024,2024-02-22,Montana,2024 Montana,Sacramento St.,2024 Sacramento St.,Home,68,61,129,1
+2024,2024-02-24,Montana,2024 Montana,Portland St.,2024 Portland St.,Home,82,73,155,1
+2024,2024-02-29,Montana,2024 Montana,Eastern Washington,2024 Eastern Washington,Away,79,89,168,0
+2024,2024-03-02,Montana,2024 Montana,Idaho,2024 Idaho,Away,80,57,137,1
+2024,2024-03-04,Montana,2024 Montana,Idaho St.,2024 Idaho St.,Home,79,65,144,1
+2024,2023-12-28,Montana St.,2024 Montana St.,Idaho St.,2024 Idaho St.,Away,74,66,140,1
+2024,2023-12-30,Montana St.,2024 Montana St.,Weber St.,2024 Weber St.,Home,64,86,150,0
+2024,2024-01-11,Montana St.,2024 Montana St.,Northern Arizona,2024 Northern Arizona,Home,79,50,129,1
+2024,2024-01-13,Montana St.,2024 Montana St.,Northern Colorado,2024 Northern Colorado,Home,90,81,171,1
+2024,2024-01-20,Montana St.,2024 Montana St.,Montana,2024 Montana,Home,77,87,164,0
+2024,2024-01-22,Montana St.,2024 Montana St.,Idaho St.,2024 Idaho St.,Home,77,70,147,1
+2024,2024-01-25,Montana St.,2024 Montana St.,Sacramento St.,2024 Sacramento St.,Away,70,62,132,1
+2024,2024-01-27,Montana St.,2024 Montana St.,Portland St.,2024 Portland St.,Away,91,94,185,0
+2024,2024-02-01,Montana St.,2024 Montana St.,Eastern Washington,2024 Eastern Washington,Home,70,60,130,1
+2024,2024-02-03,Montana St.,2024 Montana St.,Idaho,2024 Idaho,Home,75,81,156,0
+2024,2024-02-08,Montana St.,2024 Montana St.,Northern Colorado,2024 Northern Colorado,Away,70,73,143,0
+2024,2024-02-10,Montana St.,2024 Montana St.,Northern Arizona,2024 Northern Arizona,Away,71,76,147,0
+2024,2024-02-17,Montana St.,2024 Montana St.,Montana,2024 Montana,Away,69,88,157,0
+2024,2024-02-22,Montana St.,2024 Montana St.,Portland St.,2024 Portland St.,Home,72,67,139,1
+2024,2024-02-24,Montana St.,2024 Montana St.,Sacramento St.,2024 Sacramento St.,Home,63,66,129,0
+2024,2024-02-29,Montana St.,2024 Montana St.,Idaho,2024 Idaho,Away,62,48,110,1
+2024,2024-03-02,Montana St.,2024 Montana St.,Eastern Washington,2024 Eastern Washington,Away,104,108,212,0
+2024,2024-03-04,Montana St.,2024 Montana St.,Weber St.,2024 Weber St.,Home,76,64,140,1
+2024,2023-12-30,Northern Arizona,2024 Northern Arizona,Northern Colorado,2024 Northern Colorado,Away,77,92,169,0
+2024,2024-01-11,Northern Arizona,2024 Northern Arizona,Montana St.,2024 Montana St.,Away,50,79,129,0
+2024,2024-01-13,Northern Arizona,2024 Northern Arizona,Montana,2024 Montana,Away,47,90,137,0
+2024,2024-01-18,Northern Arizona,2024 Northern Arizona,Portland St.,2024 Portland St.,Home,84,65,149,1
+2024,2024-01-20,Northern Arizona,2024 Northern Arizona,Sacramento St.,2024 Sacramento St.,Home,70,61,131,1
+2024,2024-01-25,Northern Arizona,2024 Northern Arizona,Idaho,2024 Idaho,Away,75,60,135,1
+2024,2024-01-27,Northern Arizona,2024 Northern Arizona,Eastern Washington,2024 Eastern Washington,Away,70,85,155,0
+2024,2024-02-01,Northern Arizona,2024 Northern Arizona,Weber St.,2024 Weber St.,Home,70,72,142,0
+2024,2024-02-03,Northern Arizona,2024 Northern Arizona,Idaho St.,2024 Idaho St.,Home,79,81,160,0
+2024,2024-02-08,Northern Arizona,2024 Northern Arizona,Montana,2024 Montana,Home,66,94,160,0
+2024,2024-02-10,Northern Arizona,2024 Northern Arizona,Montana St.,2024 Montana St.,Home,76,71,147,1
+2024,2024-02-15,Northern Arizona,2024 Northern Arizona,Sacramento St.,2024 Sacramento St.,Away,73,58,131,1
+2024,2024-02-17,Northern Arizona,2024 Northern Arizona,Portland St.,2024 Portland St.,Away,68,83,151,0
+2024,2024-02-22,Northern Arizona,2024 Northern Arizona,Eastern Washington,2024 Eastern Washington,Home,78,71,149,1
+2024,2024-02-24,Northern Arizona,2024 Northern Arizona,Idaho,2024 Idaho,Home,76,86,162,0
+2024,2024-02-29,Northern Arizona,2024 Northern Arizona,Idaho St.,2024 Idaho St.,Away,92,88,180,1
+2024,2024-03-02,Northern Arizona,2024 Northern Arizona,Weber St.,2024 Weber St.,Away,58,85,143,0
+2024,2024-03-04,Northern Arizona,2024 Northern Arizona,Northern Colorado,2024 Northern Colorado,Home,74,82,156,0
+2024,2023-12-30,Northern Colorado,2024 Northern Colorado,Northern Arizona,2024 Northern Arizona,Home,92,77,169,1
+2024,2024-01-11,Northern Colorado,2024 Northern Colorado,Montana,2024 Montana,Away,98,92,190,1
+2024,2024-01-13,Northern Colorado,2024 Northern Colorado,Montana St.,2024 Montana St.,Away,81,90,171,0
+2024,2024-01-18,Northern Colorado,2024 Northern Colorado,Sacramento St.,2024 Sacramento St.,Home,77,75,152,1
+2024,2024-01-20,Northern Colorado,2024 Northern Colorado,Portland St.,2024 Portland St.,Home,90,61,151,1
+2024,2024-01-25,Northern Colorado,2024 Northern Colorado,Eastern Washington,2024 Eastern Washington,Away,74,77,151,0
+2024,2024-01-27,Northern Colorado,2024 Northern Colorado,Idaho,2024 Idaho,Away,89,68,157,1
+2024,2024-02-01,Northern Colorado,2024 Northern Colorado,Idaho St.,2024 Idaho St.,Home,91,86,177,1
+2024,2024-02-03,Northern Colorado,2024 Northern Colorado,Weber St.,2024 Weber St.,Home,63,82,145,0
+2024,2024-02-08,Northern Colorado,2024 Northern Colorado,Montana St.,2024 Montana St.,Home,73,70,143,1
+2024,2024-02-10,Northern Colorado,2024 Northern Colorado,Montana,2024 Montana,Home,87,71,158,1
+2024,2024-02-15,Northern Colorado,2024 Northern Colorado,Portland St.,2024 Portland St.,Away,72,82,154,0
+2024,2024-02-17,Northern Colorado,2024 Northern Colorado,Sacramento St.,2024 Sacramento St.,Away,80,75,155,1
+2024,2024-02-22,Northern Colorado,2024 Northern Colorado,Idaho,2024 Idaho,Home,76,62,138,1
+2024,2024-02-24,Northern Colorado,2024 Northern Colorado,Eastern Washington,2024 Eastern Washington,Home,76,85,161,0
+2024,2024-02-29,Northern Colorado,2024 Northern Colorado,Weber St.,2024 Weber St.,Away,81,85,166,0
+2024,2024-03-02,Northern Colorado,2024 Northern Colorado,Idaho St.,2024 Idaho St.,Away,81,79,160,1
+2024,2024-03-04,Northern Colorado,2024 Northern Colorado,Northern Arizona,2024 Northern Arizona,Away,82,74,156,1
+2024,2023-12-28,Portland St.,2024 Portland St.,Eastern Washington,2024 Eastern Washington,Away,57,91,148,0
+2024,2023-12-30,Portland St.,2024 Portland St.,Idaho,2024 Idaho,Away,77,72,149,1
+2024,2024-01-11,Portland St.,2024 Portland St.,Idaho St.,2024 Idaho St.,Home,63,69,132,0
+2024,2024-01-13,Portland St.,2024 Portland St.,Weber St.,2024 Weber St.,Home,69,66,135,1
+2024,2024-01-18,Portland St.,2024 Portland St.,Northern Arizona,2024 Northern Arizona,Away,65,84,149,0
+2024,2024-01-20,Portland St.,2024 Portland St.,Northern Colorado,2024 Northern Colorado,Away,61,90,151,0
+2024,2024-01-25,Portland St.,2024 Portland St.,Montana,2024 Montana,Home,72,46,118,1
+2024,2024-01-27,Portland St.,2024 Portland St.,Montana St.,2024 Montana St.,Home,94,91,185,1
+2024,2024-02-03,Portland St.,2024 Portland St.,Sacramento St.,2024 Sacramento St.,Home,58,51,109,1
+2024,2024-02-05,Portland St.,2024 Portland St.,Eastern Washington,2024 Eastern Washington,Home,77,90,167,0
+2024,2024-02-08,Portland St.,2024 Portland St.,Weber St.,2024 Weber St.,Away,72,84,156,0
+2024,2024-02-10,Portland St.,2024 Portland St.,Idaho St.,2024 Idaho St.,Away,65,68,133,0
+2024,2024-02-15,Portland St.,2024 Portland St.,Northern Colorado,2024 Northern Colorado,Home,82,72,154,1
+2024,2024-02-17,Portland St.,2024 Portland St.,Northern Arizona,2024 Northern Arizona,Home,83,68,151,1
+2024,2024-02-22,Portland St.,2024 Portland St.,Montana St.,2024 Montana St.,Away,67,72,139,0
+2024,2024-02-24,Portland St.,2024 Portland St.,Montana,2024 Montana,Away,73,82,155,0
+2024,2024-03-02,Portland St.,2024 Portland St.,Sacramento St.,2024 Sacramento St.,Away,61,73,134,0
+2024,2024-03-04,Portland St.,2024 Portland St.,Idaho,2024 Idaho,Home,72,57,129,1
+2024,2023-12-28,Sacramento St.,2024 Sacramento St.,Idaho,2024 Idaho,Away,58,61,119,0
+2024,2023-12-30,Sacramento St.,2024 Sacramento St.,Eastern Washington,2024 Eastern Washington,Away,61,87,148,0
+2024,2024-01-11,Sacramento St.,2024 Sacramento St.,Weber St.,2024 Weber St.,Home,71,69,140,1
+2024,2024-01-13,Sacramento St.,2024 Sacramento St.,Idaho St.,2024 Idaho St.,Home,66,64,130,1
+2024,2024-01-18,Sacramento St.,2024 Sacramento St.,Northern Colorado,2024 Northern Colorado,Away,75,77,152,0
+2024,2024-01-20,Sacramento St.,2024 Sacramento St.,Northern Arizona,2024 Northern Arizona,Away,61,70,131,0
+2024,2024-01-25,Sacramento St.,2024 Sacramento St.,Montana St.,2024 Montana St.,Home,62,70,132,0
+2024,2024-01-27,Sacramento St.,2024 Sacramento St.,Montana,2024 Montana,Home,67,70,137,0
+2024,2024-02-03,Sacramento St.,2024 Sacramento St.,Portland St.,2024 Portland St.,Away,51,58,109,0
+2024,2024-02-05,Sacramento St.,2024 Sacramento St.,Idaho,2024 Idaho,Home,45,61,106,0
+2024,2024-02-08,Sacramento St.,2024 Sacramento St.,Idaho St.,2024 Idaho St.,Away,40,68,108,0
+2024,2024-02-10,Sacramento St.,2024 Sacramento St.,Weber St.,2024 Weber St.,Away,53,58,111,0
+2024,2024-02-15,Sacramento St.,2024 Sacramento St.,Northern Arizona,2024 Northern Arizona,Home,58,73,131,0
+2024,2024-02-17,Sacramento St.,2024 Sacramento St.,Northern Colorado,2024 Northern Colorado,Home,75,80,155,0
+2024,2024-02-22,Sacramento St.,2024 Sacramento St.,Montana,2024 Montana,Away,61,68,129,0
+2024,2024-02-24,Sacramento St.,2024 Sacramento St.,Montana St.,2024 Montana St.,Away,66,63,129,1
+2024,2024-03-02,Sacramento St.,2024 Sacramento St.,Portland St.,2024 Portland St.,Home,73,61,134,1
+2024,2024-03-04,Sacramento St.,2024 Sacramento St.,Eastern Washington,2024 Eastern Washington,Home,88,91,179,0
+2024,2023-12-28,Weber St.,2024 Weber St.,Montana,2024 Montana,Home,93,63,156,1
+2024,2023-12-30,Weber St.,2024 Weber St.,Montana St.,2024 Montana St.,Home,86,64,150,1
+2024,2024-01-11,Weber St.,2024 Weber St.,Sacramento St.,2024 Sacramento St.,Away,69,71,140,0
+2024,2024-01-13,Weber St.,2024 Weber St.,Portland St.,2024 Portland St.,Away,66,69,135,0
+2024,2024-01-18,Weber St.,2024 Weber St.,Eastern Washington,2024 Eastern Washington,Home,78,80,158,0
+2024,2024-01-20,Weber St.,2024 Weber St.,Idaho,2024 Idaho,Home,88,65,153,1
+2024,2024-01-22,Weber St.,2024 Weber St.,Montana,2024 Montana,Away,62,77,139,0
+2024,2024-01-27,Weber St.,2024 Weber St.,Idaho St.,2024 Idaho St.,Home,64,74,138,0
+2024,2024-02-01,Weber St.,2024 Weber St.,Northern Arizona,2024 Northern Arizona,Away,72,70,142,1
+2024,2024-02-03,Weber St.,2024 Weber St.,Northern Colorado,2024 Northern Colorado,Away,82,63,145,1
+2024,2024-02-08,Weber St.,2024 Weber St.,Portland St.,2024 Portland St.,Home,84,72,156,1
+2024,2024-02-10,Weber St.,2024 Weber St.,Sacramento St.,2024 Sacramento St.,Home,58,53,111,1
+2024,2024-02-15,Weber St.,2024 Weber St.,Idaho,2024 Idaho,Away,70,69,139,1
+2024,2024-02-17,Weber St.,2024 Weber St.,Eastern Washington,2024 Eastern Washington,Away,90,84,174,1
+2024,2024-02-24,Weber St.,2024 Weber St.,Idaho St.,2024 Idaho St.,Away,62,80,142,0
+2024,2024-02-29,Weber St.,2024 Weber St.,Northern Colorado,2024 Northern Colorado,Home,85,81,166,1
+2024,2024-03-02,Weber St.,2024 Weber St.,Northern Arizona,2024 Northern Arizona,Home,85,58,143,1
+2024,2024-03-04,Weber St.,2024 Weber St.,Montana St.,2024 Montana St.,Away,64,76,140,0
+2025,2025-01-02,Eastern Washington,2025 Eastern Washington,Montana,2025 Montana,Home,81,92,173,0
+2025,2025-01-04,Eastern Washington,2025 Eastern Washington,Montana St.,2025 Montana St.,Home,68,63,131,1
+2025,2025-01-09,Eastern Washington,2025 Eastern Washington,Portland St.,2025 Portland St.,Away,59,64,123,0
+2025,2025-01-11,Eastern Washington,2025 Eastern Washington,Sacramento St.,2025 Sacramento St.,Away,65,54,119,1
+2025,2025-01-18,Eastern Washington,2025 Eastern Washington,Idaho,2025 Idaho,Away,76,83,159,0
+2025,2025-01-20,Eastern Washington,2025 Eastern Washington,Montana St.,2025 Montana St.,Away,64,74,138,0
+2025,2025-01-23,Eastern Washington,2025 Eastern Washington,Northern Arizona,2025 Northern Arizona,Home,61,70,131,0
+2025,2025-01-25,Eastern Washington,2025 Eastern Washington,Northern Colorado,2025 Northern Colorado,Home,62,67,129,0
+2025,2025-01-30,Eastern Washington,2025 Eastern Washington,Idaho St.,2025 Idaho St.,Away,70,78,148,0
+2025,2025-02-01,Eastern Washington,2025 Eastern Washington,Weber St.,2025 Weber St.,Away,72,49,121,1
+2025,2025-02-06,Eastern Washington,2025 Eastern Washington,Sacramento St.,2025 Sacramento St.,Home,83,80,163,1
+2025,2025-02-08,Eastern Washington,2025 Eastern Washington,Portland St.,2025 Portland St.,Home,72,67,139,1
+2025,2025-02-15,Eastern Washington,2025 Eastern Washington,Idaho,2025 Idaho,Home,75,73,148,1
+2025,2025-02-20,Eastern Washington,2025 Eastern Washington,Northern Colorado,2025 Northern Colorado,Away,76,95,171,0
+2025,2025-02-22,Eastern Washington,2025 Eastern Washington,Northern Arizona,2025 Northern Arizona,Away,67,87,154,0
+2025,2025-02-27,Eastern Washington,2025 Eastern Washington,Weber St.,2025 Weber St.,Home,64,66,130,0
+2025,2025-03-01,Eastern Washington,2025 Eastern Washington,Idaho St.,2025 Idaho St.,Home,54,78,132,0
+2025,2025-03-03,Eastern Washington,2025 Eastern Washington,Montana,2025 Montana,Away,72,83,155,0
+2025,2025-01-02,Idaho St.,2025 Idaho St.,Northern Arizona,2025 Northern Arizona,Away,72,67,139,1
+2025,2025-01-04,Idaho St.,2025 Idaho St.,Northern Colorado,2025 Northern Colorado,Away,92,93,185,0
+2025,2025-01-11,Idaho St.,2025 Idaho St.,Weber St.,2025 Weber St.,Home,69,77,146,0
+2025,2025-01-16,Idaho St.,2025 Idaho St.,Montana St.,2025 Montana St.,Home,70,67,137,1
+2025,2025-01-18,Idaho St.,2025 Idaho St.,Montana,2025 Montana,Home,86,62,148,1
+2025,2025-01-23,Idaho St.,2025 Idaho St.,Sacramento St.,2025 Sacramento St.,Away,71,75,146,0
+2025,2025-01-25,Idaho St.,2025 Idaho St.,Portland St.,2025 Portland St.,Away,59,76,135,0
+2025,2025-01-30,Idaho St.,2025 Idaho St.,Eastern Washington,2025 Eastern Washington,Home,78,70,148,1
+2025,2025-02-01,Idaho St.,2025 Idaho St.,Idaho,2025 Idaho,Home,87,71,158,1
+2025,2025-02-03,Idaho St.,2025 Idaho St.,Northern Colorado,2025 Northern Colorado,Home,72,86,158,0
+2025,2025-02-08,Idaho St.,2025 Idaho St.,Weber St.,2025 Weber St.,Away,72,67,139,1
+2025,2025-02-13,Idaho St.,2025 Idaho St.,Montana,2025 Montana,Away,68,81,149,0
+2025,2025-02-15,Idaho St.,2025 Idaho St.,Montana St.,2025 Montana St.,Away,69,74,143,0
+2025,2025-02-20,Idaho St.,2025 Idaho St.,Portland St.,2025 Portland St.,Home,82,74,156,1
+2025,2025-02-22,Idaho St.,2025 Idaho St.,Sacramento St.,2025 Sacramento St.,Home,83,66,149,1
+2025,2025-02-27,Idaho St.,2025 Idaho St.,Idaho,2025 Idaho,Away,69,65,134,1
+2025,2025-03-01,Idaho St.,2025 Idaho St.,Eastern Washington,2025 Eastern Washington,Away,78,54,132,1
+2025,2025-03-03,Idaho St.,2025 Idaho St.,Northern Arizona,2025 Northern Arizona,Home,79,82,161,0
+2025,2025-01-02,Idaho,2025 Idaho,Montana St.,2025 Montana St.,Home,69,64,133,1
+2025,2025-01-04,Idaho,2025 Idaho,Montana,2025 Montana,Home,71,73,144,0
+2025,2025-01-09,Idaho,2025 Idaho,Sacramento St.,2025 Sacramento St.,Away,80,67,147,1
+2025,2025-01-11,Idaho,2025 Idaho,Portland St.,2025 Portland St.,Away,63,75,138,0
+2025,2025-01-18,Idaho,2025 Idaho,Eastern Washington,2025 Eastern Washington,Home,83,76,159,1
+2025,2025-01-20,Idaho,2025 Idaho,Montana,2025 Montana,Away,67,72,139,0
+2025,2025-01-23,Idaho,2025 Idaho,Northern Colorado,2025 Northern Colorado,Home,77,76,153,1
+2025,2025-01-25,Idaho,2025 Idaho,Northern Arizona,2025 Northern Arizona,Home,72,80,152,0
+2025,2025-01-30,Idaho,2025 Idaho,Weber St.,2025 Weber St.,Away,82,74,156,1
+2025,2025-02-01,Idaho,2025 Idaho,Idaho St.,2025 Idaho St.,Away,71,87,158,0
+2025,2025-02-06,Idaho,2025 Idaho,Portland St.,2025 Portland St.,Home,69,76,145,0
+2025,2025-02-08,Idaho,2025 Idaho,Sacramento St.,2025 Sacramento St.,Home,78,76,154,1
+2025,2025-02-15,Idaho,2025 Idaho,Eastern Washington,2025 Eastern Washington,Away,73,75,148,0
+2025,2025-02-20,Idaho,2025 Idaho,Northern Arizona,2025 Northern Arizona,Away,83,78,161,1
+2025,2025-02-22,Idaho,2025 Idaho,Northern Colorado,2025 Northern Colorado,Away,74,92,166,0
+2025,2025-02-27,Idaho,2025 Idaho,Idaho St.,2025 Idaho St.,Home,65,69,134,0
+2025,2025-03-01,Idaho,2025 Idaho,Weber St.,2025 Weber St.,Home,81,79,160,1
+2025,2025-03-03,Idaho,2025 Idaho,Montana St.,2025 Montana St.,Away,60,75,135,0
+2025,2025-01-02,Montana,2025 Montana,Eastern Washington,2025 Eastern Washington,Away,92,81,173,1
+2025,2025-01-04,Montana,2025 Montana,Idaho,2025 Idaho,Away,73,71,144,1
+2025,2025-01-09,Montana,2025 Montana,Northern Arizona,2025 Northern Arizona,Home,81,76,157,1
+2025,2025-01-11,Montana,2025 Montana,Northern Colorado,2025 Northern Colorado,Home,57,81,138,0
+2025,2025-01-16,Montana,2025 Montana,Weber St.,2025 Weber St.,Away,63,59,122,1
+2025,2025-01-18,Montana,2025 Montana,Idaho St.,2025 Idaho St.,Away,62,86,148,0
+2025,2025-01-20,Montana,2025 Montana,Idaho,2025 Idaho,Home,72,67,139,1
+2025,2025-01-25,Montana,2025 Montana,Montana St.,2025 Montana St.,Home,77,70,147,1
+2025,2025-01-30,Montana,2025 Montana,Portland St.,2025 Portland St.,Home,92,78,170,1
+2025,2025-02-01,Montana,2025 Montana,Sacramento St.,2025 Sacramento St.,Home,87,59,146,1
+2025,2025-02-06,Montana,2025 Montana,Northern Colorado,2025 Northern Colorado,Away,86,78,164,1
+2025,2025-02-08,Montana,2025 Montana,Northern Arizona,2025 Northern Arizona,Away,83,80,163,1
+2025,2025-02-13,Montana,2025 Montana,Idaho St.,2025 Idaho St.,Home,81,68,149,1
+2025,2025-02-15,Montana,2025 Montana,Weber St.,2025 Weber St.,Home,65,58,123,1
+2025,2025-02-22,Montana,2025 Montana,Montana St.,2025 Montana St.,Away,89,85,174,1
+2025,2025-02-27,Montana,2025 Montana,Sacramento St.,2025 Sacramento St.,Away,60,54,114,1
+2025,2025-03-01,Montana,2025 Montana,Portland St.,2025 Portland St.,Away,76,79,155,0
+2025,2025-03-03,Montana,2025 Montana,Eastern Washington,2025 Eastern Washington,Home,83,72,155,1
+2025,2025-01-02,Montana St.,2025 Montana St.,Idaho,2025 Idaho,Away,64,69,133,0
+2025,2025-01-04,Montana St.,2025 Montana St.,Eastern Washington,2025 Eastern Washington,Away,63,68,131,0
+2025,2025-01-09,Montana St.,2025 Montana St.,Northern Colorado,2025 Northern Colorado,Home,83,82,165,1
+2025,2025-01-11,Montana St.,2025 Montana St.,Northern Arizona,2025 Northern Arizona,Home,58,53,111,1
+2025,2025-01-16,Montana St.,2025 Montana St.,Idaho St.,2025 Idaho St.,Away,67,70,137,0
+2025,2025-01-18,Montana St.,2025 Montana St.,Weber St.,2025 Weber St.,Away,80,71,151,1
+2025,2025-01-20,Montana St.,2025 Montana St.,Eastern Washington,2025 Eastern Washington,Home,74,64,138,1
+2025,2025-01-25,Montana St.,2025 Montana St.,Montana,2025 Montana,Away,70,77,147,0
+2025,2025-01-30,Montana St.,2025 Montana St.,Sacramento St.,2025 Sacramento St.,Home,70,58,128,1
+2025,2025-02-01,Montana St.,2025 Montana St.,Portland St.,2025 Portland St.,Home,74,73,147,1
+2025,2025-02-06,Montana St.,2025 Montana St.,Northern Arizona,2025 Northern Arizona,Away,64,69,133,0
+2025,2025-02-08,Montana St.,2025 Montana St.,Northern Colorado,2025 Northern Colorado,Away,66,73,139,0
+2025,2025-02-13,Montana St.,2025 Montana St.,Weber St.,2025 Weber St.,Home,74,66,140,1
+2025,2025-02-15,Montana St.,2025 Montana St.,Idaho St.,2025 Idaho St.,Home,74,69,143,1
+2025,2025-02-22,Montana St.,2025 Montana St.,Montana,2025 Montana,Home,85,89,174,0
+2025,2025-02-27,Montana St.,2025 Montana St.,Portland St.,2025 Portland St.,Away,52,69,121,0
+2025,2025-03-01,Montana St.,2025 Montana St.,Sacramento St.,2025 Sacramento St.,Away,87,60,147,1
+2025,2025-03-03,Montana St.,2025 Montana St.,Idaho,2025 Idaho,Home,75,60,135,1
+2025,2025-01-02,Northern Arizona,2025 Northern Arizona,Idaho St.,2025 Idaho St.,Home,67,72,139,0
+2025,2025-01-04,Northern Arizona,2025 Northern Arizona,Weber St.,2025 Weber St.,Home,80,77,157,1
+2025,2025-01-09,Northern Arizona,2025 Northern Arizona,Montana,2025 Montana,Away,76,81,157,0
+2025,2025-01-11,Northern Arizona,2025 Northern Arizona,Montana St.,2025 Montana St.,Away,53,58,111,0
+2025,2025-01-16,Northern Arizona,2025 Northern Arizona,Sacramento St.,2025 Sacramento St.,Home,77,53,130,1
+2025,2025-01-18,Northern Arizona,2025 Northern Arizona,Portland St.,2025 Portland St.,Home,69,80,149,0
+2025,2025-01-23,Northern Arizona,2025 Northern Arizona,Eastern Washington,2025 Eastern Washington,Away,70,61,131,1
+2025,2025-01-25,Northern Arizona,2025 Northern Arizona,Idaho,2025 Idaho,Away,80,72,152,1
+2025,2025-02-01,Northern Arizona,2025 Northern Arizona,Northern Colorado,2025 Northern Colorado,Away,69,87,156,0
+2025,2025-02-03,Northern Arizona,2025 Northern Arizona,Weber St.,2025 Weber St.,Away,73,77,150,0
+2025,2025-02-06,Northern Arizona,2025 Northern Arizona,Montana St.,2025 Montana St.,Home,69,64,133,1
+2025,2025-02-08,Northern Arizona,2025 Northern Arizona,Montana,2025 Montana,Home,80,83,163,0
+2025,2025-02-13,Northern Arizona,2025 Northern Arizona,Portland St.,2025 Portland St.,Away,46,58,104,0
+2025,2025-02-15,Northern Arizona,2025 Northern Arizona,Sacramento St.,2025 Sacramento St.,Away,65,61,126,1
+2025,2025-02-20,Northern Arizona,2025 Northern Arizona,Idaho,2025 Idaho,Home,78,83,161,0
+2025,2025-02-22,Northern Arizona,2025 Northern Arizona,Eastern Washington,2025 Eastern Washington,Home,87,67,154,1
+2025,2025-03-01,Northern Arizona,2025 Northern Arizona,Northern Colorado,2025 Northern Colorado,Home,73,83,156,0
+2025,2025-03-03,Northern Arizona,2025 Northern Arizona,Idaho St.,2025 Idaho St.,Away,82,79,161,1
+2025,2025-01-02,Northern Colorado,2025 Northern Colorado,Weber St.,2025 Weber St.,Home,89,72,161,1
+2025,2025-01-04,Northern Colorado,2025 Northern Colorado,Idaho St.,2025 Idaho St.,Home,93,92,185,1
+2025,2025-01-09,Northern Colorado,2025 Northern Colorado,Montana St.,2025 Montana St.,Away,83,82,165,1
+2025,2025-01-11,Northern Colorado,2025 Northern Colorado,Montana,2025 Montana,Away,81,57,138,1
+2025,2025-01-16,Northern Colorado,2025 Northern Colorado,Portland St.,2025 Portland St.,Home,72,69,141,1
+2025,2025-01-18,Northern Colorado,2025 Northern Colorado,Sacramento St.,2025 Sacramento St.,Home,68,64,132,1
+2025,2025-01-23,Northern Colorado,2025 Northern Colorado,Idaho,2025 Idaho,Away,76,77,153,0
+2025,2025-01-25,Northern Colorado,2025 Northern Colorado,Eastern Washington,2025 Eastern Washington,Away,67,62,129,1
+2025,2025-02-01,Northern Colorado,2025 Northern Colorado,Northern Arizona,2025 Northern Arizona,Home,87,69,156,1
+2025,2025-02-03,Northern Colorado,2025 Northern Colorado,Idaho St.,2025 Idaho St.,Away,86,72,158,1
+2025,2025-02-06,Northern Colorado,2025 Northern Colorado,Montana,2025 Montana,Home,78,86,164,0
+2025,2025-02-08,Northern Colorado,2025 Northern Colorado,Montana St.,2025 Montana St.,Home,73,66,139,1
+2025,2025-02-13,Northern Colorado,2025 Northern Colorado,Sacramento St.,2025 Sacramento St.,Away,77,61,138,1
+2025,2025-02-15,Northern Colorado,2025 Northern Colorado,Portland St.,2025 Portland St.,Away,71,82,153,0
+2025,2025-02-20,Northern Colorado,2025 Northern Colorado,Eastern Washington,2025 Eastern Washington,Home,95,76,171,1
+2025,2025-02-22,Northern Colorado,2025 Northern Colorado,Idaho,2025 Idaho,Home,92,74,166,1
+2025,2025-03-01,Northern Colorado,2025 Northern Colorado,Northern Arizona,2025 Northern Arizona,Away,83,73,156,1
+2025,2025-03-03,Northern Colorado,2025 Northern Colorado,Weber St.,2025 Weber St.,Away,68,63,131,1
+2025,2025-01-04,Portland St.,2025 Portland St.,Sacramento St.,2025 Sacramento St.,Away,53,56,109,0
+2025,2025-01-09,Portland St.,2025 Portland St.,Eastern Washington,2025 Eastern Washington,Home,64,59,123,1
+2025,2025-01-11,Portland St.,2025 Portland St.,Idaho,2025 Idaho,Home,75,63,138,1
+2025,2025-01-16,Portland St.,2025 Portland St.,Northern Colorado,2025 Northern Colorado,Away,69,72,141,0
+2025,2025-01-18,Portland St.,2025 Portland St.,Northern Arizona,2025 Northern Arizona,Away,80,69,149,1
+2025,2025-01-23,Portland St.,2025 Portland St.,Weber St.,2025 Weber St.,Home,74,56,130,1
+2025,2025-01-25,Portland St.,2025 Portland St.,Idaho St.,2025 Idaho St.,Home,76,59,135,1
+2025,2025-01-30,Portland St.,2025 Portland St.,Montana,2025 Montana,Away,78,92,170,0
+2025,2025-02-01,Portland St.,2025 Portland St.,Montana St.,2025 Montana St.,Away,73,74,147,0
+2025,2025-02-06,Portland St.,2025 Portland St.,Idaho,2025 Idaho,Away,76,69,145,1
+2025,2025-02-08,Portland St.,2025 Portland St.,Eastern Washington,2025 Eastern Washington,Away,67,72,139,0
+2025,2025-02-13,Portland St.,2025 Portland St.,Northern Arizona,2025 Northern Arizona,Home,58,46,104,1
+2025,2025-02-15,Portland St.,2025 Portland St.,Northern Colorado,2025 Northern Colorado,Home,82,71,153,1
+2025,2025-02-20,Portland St.,2025 Portland St.,Idaho St.,2025 Idaho St.,Away,74,82,156,0
+2025,2025-02-22,Portland St.,2025 Portland St.,Weber St.,2025 Weber St.,Away,58,60,118,0
+2025,2025-02-27,Portland St.,2025 Portland St.,Montana St.,2025 Montana St.,Home,69,52,121,1
+2025,2025-03-01,Portland St.,2025 Portland St.,Montana,2025 Montana,Home,79,76,155,1
+2025,2025-03-03,Portland St.,2025 Portland St.,Sacramento St.,2025 Sacramento St.,Home,59,56,115,1
+2025,2025-01-04,Sacramento St.,2025 Sacramento St.,Portland St.,2025 Portland St.,Home,56,53,109,1
+2025,2025-01-09,Sacramento St.,2025 Sacramento St.,Idaho,2025 Idaho,Home,67,80,147,0
+2025,2025-01-11,Sacramento St.,2025 Sacramento St.,Eastern Washington,2025 Eastern Washington,Home,54,65,119,0
+2025,2025-01-16,Sacramento St.,2025 Sacramento St.,Northern Arizona,2025 Northern Arizona,Away,53,77,130,0
+2025,2025-01-18,Sacramento St.,2025 Sacramento St.,Northern Colorado,2025 Northern Colorado,Away,64,68,132,0
+2025,2025-01-23,Sacramento St.,2025 Sacramento St.,Idaho St.,2025 Idaho St.,Home,75,71,146,1
+2025,2025-01-25,Sacramento St.,2025 Sacramento St.,Weber St.,2025 Weber St.,Home,81,87,168,0
+2025,2025-01-30,Sacramento St.,2025 Sacramento St.,Montana St.,2025 Montana St.,Away,58,70,128,0
+2025,2025-02-01,Sacramento St.,2025 Sacramento St.,Montana,2025 Montana,Away,59,87,146,0
+2025,2025-02-06,Sacramento St.,2025 Sacramento St.,Eastern Washington,2025 Eastern Washington,Away,80,83,163,0
+2025,2025-02-08,Sacramento St.,2025 Sacramento St.,Idaho,2025 Idaho,Away,76,78,154,0
+2025,2025-02-13,Sacramento St.,2025 Sacramento St.,Northern Colorado,2025 Northern Colorado,Home,61,77,138,0
+2025,2025-02-15,Sacramento St.,2025 Sacramento St.,Northern Arizona,2025 Northern Arizona,Home,61,65,126,0
+2025,2025-02-20,Sacramento St.,2025 Sacramento St.,Weber St.,2025 Weber St.,Away,80,77,157,1
+2025,2025-02-22,Sacramento St.,2025 Sacramento St.,Idaho St.,2025 Idaho St.,Away,66,83,149,0
+2025,2025-02-27,Sacramento St.,2025 Sacramento St.,Montana,2025 Montana,Home,54,60,114,0
+2025,2025-03-01,Sacramento St.,2025 Sacramento St.,Montana St.,2025 Montana St.,Home,60,87,147,0
+2025,2025-03-03,Sacramento St.,2025 Sacramento St.,Portland St.,2025 Portland St.,Away,56,59,115,0
+2025,2025-01-02,Weber St.,2025 Weber St.,Northern Colorado,2025 Northern Colorado,Away,72,89,161,0
+2025,2025-01-04,Weber St.,2025 Weber St.,Northern Arizona,2025 Northern Arizona,Away,77,80,157,0
+2025,2025-01-11,Weber St.,2025 Weber St.,Idaho St.,2025 Idaho St.,Away,77,69,146,1
+2025,2025-01-16,Weber St.,2025 Weber St.,Montana,2025 Montana,Home,59,63,122,0
+2025,2025-01-18,Weber St.,2025 Weber St.,Montana St.,2025 Montana St.,Home,71,80,151,0
+2025,2025-01-23,Weber St.,2025 Weber St.,Portland St.,2025 Portland St.,Away,56,74,130,0
+2025,2025-01-25,Weber St.,2025 Weber St.,Sacramento St.,2025 Sacramento St.,Away,87,81,168,1
+2025,2025-01-30,Weber St.,2025 Weber St.,Idaho,2025 Idaho,Home,74,82,156,0
+2025,2025-02-01,Weber St.,2025 Weber St.,Eastern Washington,2025 Eastern Washington,Home,49,72,121,0
+2025,2025-02-03,Weber St.,2025 Weber St.,Northern Arizona,2025 Northern Arizona,Home,77,73,150,1
+2025,2025-02-08,Weber St.,2025 Weber St.,Idaho St.,2025 Idaho St.,Home,67,72,139,0
+2025,2025-02-13,Weber St.,2025 Weber St.,Montana St.,2025 Montana St.,Away,66,74,140,0
+2025,2025-02-15,Weber St.,2025 Weber St.,Montana,2025 Montana,Away,58,65,123,0
+2025,2025-02-20,Weber St.,2025 Weber St.,Sacramento St.,2025 Sacramento St.,Home,77,80,157,0
+2025,2025-02-22,Weber St.,2025 Weber St.,Portland St.,2025 Portland St.,Home,60,58,118,1
+2025,2025-02-27,Weber St.,2025 Weber St.,Eastern Washington,2025 Eastern Washington,Away,66,64,130,1
+2025,2025-03-01,Weber St.,2025 Weber St.,Idaho,2025 Idaho,Away,79,81,160,0
+2025,2025-03-03,Weber St.,2025 Weber St.,Northern Colorado,2025 Northern Colorado,Home,63,68,131,0
