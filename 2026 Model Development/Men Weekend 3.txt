@@ -1,0 +1,175 @@
+
+
+================================================================================
+Weekend 3 FEATURE SELECTION & HYPERPARAMETER OPTIMIZATION
+  60 games, 108 features
+  Model type: logistic_regression
+================================================================================
+
+  Train: 42, Test: 18
+
+================================================================================
+PART 1: FEATURE SELECTION
+================================================================================
+
+--- Method 1: RF Gini Importance ---
+  torvik_rtg: 0.0454
+  wab: 0.0448
+  kenpom_rtg: 0.0377
+  5man_bpm: 0.0324
+  astd_pct: 0.0217
+  3man_prpg: 0.0206
+  3man_bpm: 0.0205
+  def_close2_fg_pct: 0.0196
+  3man_dprpg: 0.0191
+  def_shot_quality_variance: 0.0191
+  def_dunk_fg_pct: 0.0191
+  offense_defense_balance: 0.0182
+  def_paint_touch_rate: 0.0181
+  torvik_def: 0.0162
+  ftrd: 0.0154
+
+--- Method 2: Permutation Importance ---
+  5man_bpm: 0.0370
+  wab: 0.0074
+  3man_prpg: 0.0037
+  3man_bpm: 0.0000
+  experience: 0.0000
+  5man_prpg: 0.0000
+  5man_dprpg: 0.0000
+  size: 0.0000
+  height: 0.0000
+  adj_tempo: 0.0000
+  raw_tempo: 0.0000
+  bench: 0.0000
+  torvik_off: 0.0000
+  efg_pct: 0.0000
+  2p_pct: 0.0000
+
+--- Method 3: Mutual Information ---
+  torvik_rtg: 0.2845
+  kenpom_rtg: 0.2549
+  def_close2_share: 0.2500
+  5man_bpm: 0.2362
+  blk_pct: 0.2101
+  ftrd: 0.2095
+  wab: 0.1934
+  block_efficiency: 0.1301
+  def_size_speed_index: 0.1293
+  size_speed_index: 0.1293
+  3man_obpm: 0.1256
+  offense_defense_balance: 0.1251
+  def_four_factors_composite: 0.1058
+  3man_prpg: 0.1047
+  kenpom_off: 0.1011
+
+--- Consensus Ranking (Top 30) ---
+   1. 5man_bpm                                      avg=  3.0  (G=  4 P=  1 MI=  4)
+   2. wab                                           avg=  3.7  (G=  2 P=  2 MI=  7)
+   3. 3man_prpg                                     avg=  7.7  (G=  6 P=  3 MI= 14)
+   4. offense_defense_balance                       avg= 25.5  (G= 12 P= 52 MI= 12)
+   5. def_close2_fg_pct                             avg= 26.2  (G=  8 P= 52 MI= 18)
+   6. blk_pct                                       avg= 26.8  (G= 23 P= 52 MI=  5)
+   7. 3man_bpm                                      avg= 28.5  (G=  7 P= 52 MI= 26)
+   8. def_paint_touch_rate                          avg= 29.2  (G= 13 P= 52 MI= 22)
+   9. def_dunk_fg_pct                               avg= 29.5  (G= 11 P= 52 MI= 25)
+  10. kenpom_off                                    avg= 29.5  (G= 21 P= 52 MI= 15)
+  11. orb_pct                                       avg= 31.8  (G= 24 P= 52 MI= 19)
+  12. def_effective_possession_rate                 avg= 32.2  (G= 20 P= 52 MI= 24)
+  13. block_efficiency                              avg= 32.5  (G= 37 P= 52 MI=  8)
+  14. def_four_factors_composite                    avg= 32.8  (G= 33 P= 52 MI= 13)
+  15. def_shot_quality_variance                     avg= 33.8  (G= 10 P= 52 MI= 39)
+  16. 3man_obpm                                     avg= 33.8  (G= 38 P= 52 MI= 11)
+  17. def_close2_share                              avg= 34.2  (G= 47 P= 52 MI=  3)
+  18. torvik_rtg                                    avg= 35.0  (G=  1 P=103 MI=  1)
+  19. 2pd_pct                                       avg= 35.5  (G= 17 P= 52 MI= 37)
+  20. kenpom_rtg                                    avg= 35.7  (G=  3 P=102 MI=  2)
+  21. def_rim_to_three_ratio                        avg= 36.8  (G= 27 P= 52 MI= 31)
+  22. kenpom_def                                    avg= 37.8  (G= 40 P= 52 MI= 21)
+  23. def_block_efficiency                          avg= 38.8  (G= 18 P= 52 MI= 46)
+  24. tor                                           avg= 39.2  (G= 42 P= 52 MI= 23)
+  25. 5man_dbpm                                     avg= 40.2  (G= 25 P= 52 MI= 43)
+  26. def_dunk_share                                avg= 40.5  (G= 19 P= 52 MI= 50)
+  27. torvik_def                                    avg= 40.5  (G= 14 P= 52 MI= 55)
+  28. ftd_pct                                       avg= 40.8  (G= 32 P= 52 MI= 38)
+  29. ftrd                                          avg= 42.0  (G= 15 P=105 MI=  6)
+  30. size_speed_index                              avg= 42.0  (G= 64 P= 52 MI=  9)
+
+--- Greedy Selection (|r| < 0.7) ---
+   1. 5man_bpm
+   2. 3man_prpg
+   3. offense_defense_balance
+   4. def_close2_fg_pct
+   5. blk_pct
+   6. def_paint_touch_rate
+   7. def_dunk_fg_pct
+   8. kenpom_off
+   9. orb_pct
+  10. def_effective_possession_rate
+  11. block_efficiency
+  12. def_close2_share
+  13. kenpom_def
+  14. tor
+  15. def_dunk_share
+  16. ftd_pct
+  17. ftrd
+  18. size_speed_index
+  19. shot_quality_variance
+  20. 5man_dprpg
+  21. ast_pct
+  22. def_three_point_volume_efficiency
+  23. tord
+  24. effective_possession_rate
+  25. rim_efficiency
+
+--- Correlations Among Selected (|r| > 0.5) ---
+  offense_defense_balance                  vs kenpom_off                              : 0.6007
+  offense_defense_balance                  vs kenpom_def                              : -0.5871
+  def_close2_fg_pct                        vs kenpom_def                              : 0.5233
+  def_paint_touch_rate                     vs def_effective_possession_rate           : 0.6307
+  def_effective_possession_rate            vs def_close2_share                        : 0.5239
+
+================================================================================
+PART 2: EVALUATE FEATURE SUBSETS
+================================================================================
+
+ Feats    CV ACC   Test ACC   Train AUC   Test AUC      Gap       Prob Range
+---------------------------------------------------------------------------
+Top  5   0.7139    0.6667     1.0000     0.7160   +0.2840   [0.147, 0.933]
+Top  7   0.7389    0.5556     1.0000     0.6543   +0.3457   [0.137, 0.893]
+Top  9   0.7389    0.6667     1.0000     0.6543   +0.3457   [0.105, 0.880]
+Top 11   0.7389    0.6111     1.0000     0.6667   +0.3333   [0.155, 0.847]
+Top 13   0.6917    0.5000     1.0000     0.6667   +0.3333   [0.142, 0.852]
+Top 15   0.6694    0.6111     1.0000     0.6543   +0.3457   [0.200, 0.857]
+
+================================================================================
+PART 3: HYPERPARAMETER OPTIMIZATION
+================================================================================
+
+Optimizing with 7 features: ['5man_bpm', '3man_prpg', 'offense_defense_balance', 'def_close2_fg_pct', 'blk_pct', 'def_paint_touch_rate', 'def_dunk_fg_pct']
+
+Running RandomizedSearchCV (200 iterations, 5-fold CV)...
+
+Best params:
+  solver: liblinear
+  penalty: l2
+  max_iter: 1000
+  C: 0.001
+
+Results:
+  CV AUC:       0.8675
+  Train AUC:    0.8912
+  Test AUC:     0.5679
+  Train ACC:    0.7857
+  Test ACC:     0.5000
+  Brier (test): 0.2488
+  AUC gap:      +0.3233
+  Prob range:   [0.489, 0.518]
+
+================================================================================
+PART 4: REGULARIZATION SWEEP (on best params)
+================================================================================
+
+================================================================================
+DONE — Copy your chosen features and params into men_generate_matchups.py
+================================================================================

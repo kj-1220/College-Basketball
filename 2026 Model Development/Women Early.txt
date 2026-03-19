@@ -1,0 +1,164 @@
+================================================================================
+Early Rounds FEATURE SELECTION & HYPERPARAMETER OPTIMIZATION
+  480 games, 19 features
+  Model type: xgboost
+================================================================================
+
+  Train: 336, Test: 144
+
+================================================================================
+PART 1: FEATURE SELECTION
+================================================================================
+
+--- Method 1: RF Gini Importance ---
+  wab: 0.2444
+  barthag: 0.2219
+  adj_de: 0.0456
+  3pr: 0.0423
+  adj_oe: 0.0400
+  adj_tempo: 0.0395
+  drb_pct: 0.0368
+  orb_pct: 0.0339
+  tord: 0.0292
+  3prd: 0.0289
+  efg_pct: 0.0280
+  ftr: 0.0280
+  ftrd: 0.0276
+  2p_pct: 0.0271
+  3pd_pct: 0.0262
+
+--- Method 2: Permutation Importance ---
+  wab: 0.1194
+  barthag: 0.0713
+  adj_de: 0.0148
+  2pd_pct: 0.0139
+  ftrd: 0.0130
+  2p_pct: 0.0130
+  3pr: 0.0111
+  orb_pct: 0.0111
+  efg_pct: 0.0111
+  ftr: 0.0088
+  efgd_pct: 0.0079
+  drb_pct: 0.0060
+  adj_tempo: 0.0056
+  3pd_pct: 0.0042
+  3prd: 0.0019
+
+--- Method 3: Mutual Information ---
+  wab: 0.3599
+  barthag: 0.3169
+  tor: 0.0574
+  3pd_pct: 0.0524
+  orb_pct: 0.0419
+  3p_pct: 0.0381
+  2p_pct: 0.0196
+  efg_pct: 0.0121
+  adj_oe: 0.0102
+  tord: 0.0093
+  3pr: 0.0087
+  drb_pct: 0.0083
+  adj_tempo: 0.0000
+  adj_de: 0.0000
+  efgd_pct: 0.0000
+
+--- Consensus Ranking (Top 30) ---
+   1. wab                                           avg=  1.0  (G=  1 P=  1 MI=  1)
+   2. barthag                                       avg=  2.0  (G=  2 P=  2 MI=  2)
+   3. orb_pct                                       avg=  6.8  (G=  8 P=  7 MI=  5)
+   4. adj_de                                        avg=  7.3  (G=  3 P=  3 MI= 16)
+   5. 3pr                                           avg=  7.5  (G=  4 P=  7 MI= 11)
+   6. 2p_pct                                        avg=  8.8  (G= 14 P=  5 MI=  7)
+   7. efg_pct                                       avg=  9.3  (G= 11 P=  9 MI=  8)
+   8. adj_oe                                        avg= 10.0  (G=  5 P= 16 MI=  9)
+   9. drb_pct                                       avg= 10.3  (G=  7 P= 12 MI= 12)
+  10. 3pd_pct                                       avg= 11.0  (G= 15 P= 14 MI=  4)
+  11. ftrd                                          avg= 11.5  (G= 13 P=  5 MI= 16)
+  12. adj_tempo                                     avg= 11.7  (G=  6 P= 13 MI= 16)
+  13. tord                                          avg= 12.3  (G=  9 P= 18 MI= 10)
+  14. 2pd_pct                                       avg= 12.3  (G= 17 P=  4 MI= 16)
+  15. ftr                                           avg= 12.7  (G= 12 P= 10 MI= 16)
+  16. 3p_pct                                        avg= 13.0  (G= 16 P= 17 MI=  6)
+  17. tor                                           avg= 13.7  (G= 19 P= 19 MI=  3)
+  18. 3prd                                          avg= 13.7  (G= 10 P= 15 MI= 16)
+  19. efgd_pct                                      avg= 15.0  (G= 18 P= 11 MI= 16)
+
+--- Greedy Selection (|r| < 0.7) ---
+   1. wab
+   2. orb_pct
+   3. adj_de
+   4. 3pr
+   5. 2p_pct
+   6. adj_oe
+   7. drb_pct
+   8. 3pd_pct
+   9. ftrd
+  10. adj_tempo
+  11. tord
+  12. 2pd_pct
+  13. ftr
+  14. 3p_pct
+  15. tor
+  16. 3prd
+
+--- Correlations Among Selected (|r| > 0.5) ---
+
+================================================================================
+PART 2: EVALUATE FEATURE SUBSETS
+================================================================================
+
+ Feats    CV ACC   Test ACC   Train AUC   Test AUC      Gap       Prob Range
+---------------------------------------------------------------------------
+Top  3   0.7796    0.7708     0.9923     0.8916   +0.1007   [0.025, 1.000]
+Top  5   0.7796    0.7431     0.9971     0.8860   +0.1111   [0.003, 0.993]
+Top  7   0.7797    0.7569     0.9985     0.8810   +0.1175   [0.048, 0.979]
+Top  9   0.7737    0.7361     0.9993     0.8819   +0.1173   [0.021, 0.977]
+Top 11   0.7618    0.7431     0.9996     0.8818   +0.1178   [0.029, 0.971]
+Top 13   0.7588    0.7500     0.9998     0.8773   +0.1225   [0.034, 0.986]
+
+================================================================================
+PART 3: HYPERPARAMETER OPTIMIZATION
+================================================================================
+
+Optimizing with 7 features: ['wab', 'orb_pct', 'adj_de', '3pr', '2p_pct', 'adj_oe', 'drb_pct']
+
+Running RandomizedSearchCV (200 iterations, 5-fold CV)...
+
+Best params:
+  subsample: 0.8
+  scale_pos_weight: 0.8
+  reg_lambda: 5.0
+  reg_alpha: 2.0
+  n_estimators: 250
+  min_child_weight: 1
+  max_depth: 5
+  max_delta_step: 0
+  learning_rate: 0.15
+  gamma: 0.5
+  colsample_bytree: 0.7
+  colsample_bynode: 0.6
+  colsample_bylevel: 0.6
+
+Results:
+  CV AUC:       0.8919
+  Train AUC:    0.9466
+  Test AUC:     0.8929
+  Train ACC:    0.8839
+  Test ACC:     0.7778
+  Brier (test): 0.1360
+  AUC gap:      +0.0536
+  Prob range:   [0.038, 0.962]
+
+================================================================================
+PART 4: REGULARIZATION SWEEP (on best params)
+================================================================================
+
+                        Config   Train AUC   Test AUC      Gap   Test ACC       Prob Range
+------------------------------------------------------------------------------------------
+                   best params    0.9466     0.8929   +0.0536    0.7778   [0.038, 0.962]
+                       depth-1    0.9465     0.8939   +0.0526    0.7708   [0.036, 0.964]
+             depth-2, more reg    0.9443     0.8945   +0.0498    0.7708   [0.030, 0.958]
+        subsample=0.4, col=0.4    0.9290     0.9018   +0.0271    0.8056   [0.043, 0.947]
+
+================================================================================
+DONE — Copy your chosen features and params into women_generate_outputs.py
+================================================================================

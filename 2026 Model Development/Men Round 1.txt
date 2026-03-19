@@ -1,0 +1,194 @@
+================================================================================
+Round 1 FEATURE SELECTION & HYPERPARAMETER OPTIMIZATION
+  620 games, 108 features
+  Model type: xgboost
+================================================================================
+
+  Train: 432, Val: 95, Test: 93
+
+================================================================================
+PART 1: FEATURE SELECTION
+================================================================================
+
+--- Method 1: RF Gini Importance ---
+  5man_bpm: 0.0459
+  torvik_rtg: 0.0453
+  3man_bpm: 0.0384
+  kenpom_rtg: 0.0364
+  3man_obpm: 0.0323
+  3man_dbpm: 0.0309
+  wab: 0.0280
+  3man_prpg: 0.0253
+  5man_prpg: 0.0250
+  5man_dbpm: 0.0233
+  5man_obpm: 0.0211
+  3man_dprpg: 0.0207
+  5man_dprpg: 0.0199
+  experience_weighted_production: 0.0194
+  def_lineup_depth_quality: 0.0161
+
+--- Method 2: Permutation Importance ---
+  bench: 0.0215
+  lineup_depth_quality: 0.0143
+  def_effective_possession_rate: 0.0122
+  def_block_efficiency: 0.0108
+  bench_scoring_ratio: 0.0100
+  experience: 0.0100
+  def_experience_impact: 0.0100
+  def_net_efg_margin: 0.0100
+  5man_dbpm: 0.0100
+  5man_dprpg: 0.0100
+  adj_tempo: 0.0093
+  orb_pct: 0.0079
+  3man_dbpm: 0.0079
+  shooting_variance_resilience: 0.0065
+  tempo_advantage: 0.0057
+
+--- Method 3: Mutual Information ---
+  wab: 0.2336
+  3man_bpm: 0.2044
+  5man_bpm: 0.1765
+  torvik_rtg: 0.1650
+  kenpom_rtg: 0.1590
+  5man_prpg: 0.1561
+  5man_dbpm: 0.1540
+  5man_obpm: 0.1444
+  3man_dbpm: 0.1281
+  def_lineup_depth_quality: 0.1162
+  def_experience_impact: 0.1135
+  experience_weighted_production: 0.1122
+  3man_dprpg: 0.1114
+  3man_prpg: 0.1111
+  lineup_depth_quality: 0.1102
+
+--- Consensus Ranking (Top 30) ---
+   1. 5man_dbpm                                     avg=  8.2  (G= 10 P=  7 MI=  7)
+   2. 3man_dbpm                                     avg=  9.2  (G=  6 P= 12 MI=  9)
+   3. lineup_depth_quality                          avg= 11.7  (G= 18 P=  2 MI= 15)
+   4. def_experience_impact                         avg= 11.8  (G= 17 P=  7 MI= 11)
+   5. 5man_dprpg                                    avg= 12.5  (G= 13 P=  7 MI= 17)
+   6. 5man_obpm                                     avg= 13.8  (G= 11 P= 22 MI=  8)
+   7. 3man_dprpg                                    avg= 14.8  (G= 12 P= 19 MI= 13)
+   8. ast_pct                                       avg= 23.5  (G= 23 P= 16 MI= 31)
+   9. 5man_bpm                                      avg= 24.0  (G=  1 P= 68 MI=  3)
+  10. torvik_rtg                                    avg= 24.7  (G=  2 P= 68 MI=  4)
+  11. off_far2_share                                avg= 29.5  (G= 24 P= 16 MI= 48)
+  12. def_dunk_share                                avg= 29.7  (G= 26 P= 38 MI= 25)
+  13. size_speed_index                              avg= 30.7  (G= 37 P= 19 MI= 35)
+  14. tempo_advantage                               avg= 32.2  (G= 33 P= 16 MI= 47)
+  15. kenpom_rtg                                    avg= 33.8  (G=  4 P= 92 MI=  5)
+  16. effective_possession_rate                     avg= 34.3  (G= 31 P= 38 MI= 34)
+  17. 3man_bpm                                      avg= 34.5  (G=  3 P= 98 MI=  2)
+  18. def_block_efficiency                          avg= 35.3  (G= 78 P=  4 MI= 24)
+  19. rotation_balance                              avg= 36.3  (G= 19 P= 53 MI= 37)
+  20. wab                                           avg= 36.7  (G=  7 P=102 MI=  1)
+  21. 3man_prpg                                     avg= 36.8  (G=  8 P= 88 MI= 14)
+  22. experience_weighted_production                avg= 38.2  (G= 14 P= 88 MI= 12)
+  23. adj_tempo                                     avg= 38.7  (G= 43 P= 11 MI= 62)
+  24. perimeter_efficiency                          avg= 39.2  (G= 50 P= 45 MI= 22)
+  25. 5man_prpg                                     avg= 40.3  (G=  9 P=106 MI=  6)
+  26. bench                                         avg= 41.2  (G= 35 P=  1 MI= 87)
+  27. def_lineup_depth_quality                      avg= 41.8  (G= 15 P=100 MI= 10)
+  28. def_paint_touch_rate                          avg= 42.2  (G= 56 P= 26 MI= 44)
+  29. rim_to_three_ratio                            avg= 42.8  (G= 69 P= 26 MI= 33)
+  30. def_effective_possession_rate                 avg= 43.0  (G= 81 P=  3 MI= 45)
+
+--- Greedy Selection (|r| < 0.7) ---
+   1. 5man_dbpm
+   2. lineup_depth_quality
+   3. ast_pct
+   4. off_far2_share
+   5. def_dunk_share
+   6. size_speed_index
+   7. tempo_advantage
+   8. effective_possession_rate
+   9. def_block_efficiency
+  10. rotation_balance
+  11. 3man_prpg
+  12. perimeter_efficiency
+  13. bench
+  14. def_paint_touch_rate
+  15. rim_to_three_ratio
+  16. def_effective_possession_rate
+  17. def_close2_share
+  18. shooting_variance_resilience
+  19. def_close2_fg_pct
+  20. def_four_factors_composite
+  21. off_close2_fg_pct
+  22. orb_pct
+  23. def_far2_share
+  24. def_3pt_fg_pct
+  25. four_factors_composite
+
+--- Correlations Among Selected (|r| > 0.5) ---
+  5man_dbpm                                vs lineup_depth_quality                    : -0.6509
+  5man_dbpm                                vs 3man_prpg                               : 0.5736
+  lineup_depth_quality                     vs 3man_prpg                               : -0.6116
+  effective_possession_rate                vs 3man_prpg                               : 0.5463
+  perimeter_efficiency                     vs rim_to_three_ratio                      : -0.6232
+
+================================================================================
+PART 2: EVALUATE FEATURE SUBSETS
+================================================================================
+
+ Feats    CV ACC   Test ACC   Train AUC   Test AUC      Gap       Prob Range
+---------------------------------------------------------------------------
+Top  5   0.7060    0.7742     0.9872     0.8298   +0.1574   [0.036, 0.972]
+Top  7   0.7129    0.7957     0.9912     0.8511   +0.1402   [0.059, 0.972]
+Top  9   0.7430    0.8065     0.9958     0.8506   +0.1452   [0.047, 0.948]
+Top 11   0.7383    0.8172     0.9962     0.8779   +0.1183   [0.029, 0.947]
+Top 13   0.7314    0.7957     0.9979     0.8747   +0.1232   [0.042, 0.945]
+Top 15   0.7176    0.7957     0.9989     0.8844   +0.1146   [0.066, 0.945]
+Top 18   0.7199    0.7527     0.9991     0.8580   +0.1411   [0.051, 0.941]
+Top 20   0.7314    0.7742     0.9998     0.8640   +0.1358   [0.076, 0.955]
+
+================================================================================
+PART 3: HYPERPARAMETER OPTIMIZATION
+================================================================================
+
+Optimizing with 15 features: ['5man_dbpm', 'lineup_depth_quality', 'ast_pct', 'off_far2_share', 'def_dunk_share', 'size_speed_index', 'tempo_advantage', 'effective_possession_rate', 'def_block_efficiency', 'rotation_balance', '3man_prpg', 'perimeter_efficiency', 'bench', 'def_paint_touch_rate', 'rim_to_three_ratio']
+
+Running RandomizedSearchCV (200 iterations, 5-fold CV)...
+
+Best params:
+  subsample: 0.3
+  scale_pos_weight: 0.8
+  reg_lambda: 2.0
+  reg_alpha: 1.0
+  n_estimators: 150
+  min_child_weight: 7
+  max_depth: 3
+  max_delta_step: 2
+  learning_rate: 0.05
+  gamma: 0.05
+  colsample_bytree: 0.8
+  colsample_bynode: 0.3
+  colsample_bylevel: 0.8
+
+Results:
+  CV AUC:       0.8118
+  Train AUC:    0.8507
+  Test AUC:     0.8483
+  Train ACC:    0.7755
+  Test ACC:     0.7849
+  Brier (test): 0.1702
+  AUC gap:      +0.0024
+  Prob range:   [0.125, 0.847]
+  Val AUC:      0.8347
+  Val ACC:      0.7368
+
+================================================================================
+PART 4: REGULARIZATION SWEEP (on best params)
+================================================================================
+
+                        Config   Train AUC   Test AUC      Gap   Test ACC       Prob Range
+------------------------------------------------------------------------------------------
+                   best params    0.8507     0.8483   +0.0024    0.7849   [0.125, 0.847]
+                       depth-1    0.8510     0.8247   +0.0263    0.7527   [0.114, 0.873]
+             depth-2, more reg    0.8464     0.8228   +0.0236    0.7527   [0.142, 0.841]
+        subsample=0.4, col=0.4    0.8659     0.8219   +0.0440    0.7312   [0.099, 0.849]
+
+================================================================================
+DONE — Copy your chosen features and params into men_generate_matchups.py
+================================================================================
+

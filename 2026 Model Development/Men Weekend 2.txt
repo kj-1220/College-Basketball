@@ -1,0 +1,174 @@
+================================================================================
+Weekend 2 FEATURE SELECTION & HYPERPARAMETER OPTIMIZATION
+  238 games, 108 features
+  Model type: logistic_regression
+================================================================================
+
+  Train: 178, Test: 60
+
+================================================================================
+PART 1: FEATURE SELECTION
+================================================================================
+
+--- Method 1: RF Gini Importance ---
+  wab: 0.0302
+  5man_bpm: 0.0271
+  3man_bpm: 0.0238
+  5man_dprpg: 0.0187
+  height: 0.0178
+  def_size_speed_index: 0.0177
+  size_speed_index: 0.0176
+  kenpom_rtg: 0.0168
+  3man_obpm: 0.0166
+  5man_dbpm: 0.0154
+  size: 0.0151
+  orb_pct: 0.0140
+  rotation_balance: 0.0139
+  def_far2_share: 0.0131
+  def_experience_impact: 0.0131
+
+--- Method 2: Permutation Importance ---
+  offense_defense_balance: 0.0111
+  rotation_balance: 0.0100
+  def_paint_touch_rate: 0.0100
+  torvik_def: 0.0089
+  5man_prpg: 0.0067
+  shot_quality_variance: 0.0067
+  net_turnover_margin: 0.0044
+  shooting_variance_resilience: 0.0033
+  3pr: 0.0033
+  off_3pt_fg_pct: 0.0011
+  bench: 0.0011
+  adj_tempo: 0.0011
+  bench_scoring_ratio: 0.0011
+  ast_pct: 0.0011
+  tempo_advantage: 0.0011
+
+--- Method 3: Mutual Information ---
+  wab: 0.1470
+  height: 0.1063
+  kenpom_def: 0.0912
+  def_close2_share: 0.0771
+  torvik_off: 0.0730
+  ast_pct: 0.0661
+  def_experience_impact: 0.0610
+  ftr: 0.0575
+  def_shot_quality_variance: 0.0514
+  effective_possession_rate: 0.0491
+  3man_bpm: 0.0487
+  kenpom_off: 0.0474
+  def_close2_fg_pct: 0.0448
+  efgd_pct: 0.0431
+  5man_dprpg: 0.0415
+
+--- Consensus Ranking (Top 30) ---
+   1. 3man_bpm                                      avg= 11.3  (G=  3 P= 20 MI= 11)
+   2. rotation_balance                              avg= 12.3  (G= 13 P=  2 MI= 22)
+   3. torvik_def                                    avg= 17.3  (G= 30 P=  4 MI= 18)
+   4. wab                                           avg= 20.7  (G=  1 P= 60 MI=  1)
+   5. offense_defense_balance                       avg= 21.0  (G= 28 P=  1 MI= 34)
+   6. kenpom_def                                    avg= 23.2  (G= 27 P= 39 MI=  3)
+   7. effective_possession_rate                     avg= 24.7  (G= 50 P= 14 MI= 10)
+   8. 5man_bpm                                      avg= 26.0  (G=  2 P= 59 MI= 17)
+   9. def_paint_touch_rate                          avg= 27.0  (G= 38 P=  3 MI= 40)
+  10. shot_quality_variance                         avg= 27.2  (G= 25 P=  5 MI= 51)
+  11. ast_pct                                       avg= 29.3  (G= 68 P= 14 MI=  6)
+  12. def_close2_share                              avg= 30.5  (G= 48 P= 39 MI=  4)
+  13. 5man_prpg                                     avg= 32.8  (G= 44 P=  5 MI= 49)
+  14. 3pr                                           avg= 34.0  (G= 40 P=  9 MI= 53)
+  15. ftr                                           avg= 34.5  (G= 56 P= 39 MI=  8)
+  16. height                                        avg= 35.0  (G=  5 P= 98 MI=  2)
+  17. torvik_off                                    avg= 38.8  (G= 42 P= 69 MI=  5)
+  18. kenpom_rtg                                    avg= 39.7  (G=  8 P= 90 MI= 21)
+  19. def_experience_impact                         avg= 40.0  (G= 15 P= 98 MI=  7)
+  20. torvik_rtg                                    avg= 40.8  (G= 18 P= 66 MI= 38)
+  21. 5man_dprpg                                    avg= 41.0  (G=  4 P=104 MI= 15)
+  22. def_shot_quality_variance                     avg= 41.2  (G= 75 P= 39 MI=  9)
+  23. three_point_volume_efficiency                 avg= 42.3  (G= 29 P= 74 MI= 24)
+  24. def_four_factors_composite                    avg= 42.3  (G= 17 P= 91 MI= 19)
+  25. def_effective_possession_rate                 avg= 42.3  (G= 26 P= 68 MI= 33)
+  26. experience_weighted_production                avg= 42.5  (G= 20 P= 87 MI= 20)
+  27. kenpom_off                                    avg= 42.7  (G= 23 P= 93 MI= 12)
+  28. def_size_speed_index                          avg= 43.2  (G=  6 P= 98 MI= 25)
+  29. efgd_pct                                      avg= 43.8  (G= 54 P= 63 MI= 14)
+  30. 5man_dbpm                                     avg= 44.7  (G= 10 P=108 MI= 16)
+
+--- Greedy Selection (|r| < 0.7) ---
+   1. 3man_bpm
+   2. rotation_balance
+   3. torvik_def
+   4. effective_possession_rate
+   5. def_paint_touch_rate
+   6. shot_quality_variance
+   7. ast_pct
+   8. def_close2_share
+   9. 5man_prpg
+  10. 3pr
+  11. ftr
+  12. height
+  13. torvik_off
+  14. def_experience_impact
+  15. 5man_dprpg
+  16. def_shot_quality_variance
+  17. three_point_volume_efficiency
+  18. def_four_factors_composite
+  19. def_effective_possession_rate
+  20. experience_weighted_production
+  21. def_close2_fg_pct
+  22. blked_pct
+  23. off_far2_share
+  24. size
+  25. def_assist_suppression
+
+--- Correlations Among Selected (|r| > 0.5) ---
+  3man_bpm                                 vs 5man_prpg                               : 0.6208
+  3man_bpm                                 vs 5man_dprpg                              : -0.6246
+  effective_possession_rate                vs 5man_prpg                               : 0.5735
+  def_experience_impact                    vs 5man_dprpg                              : -0.6327
+
+================================================================================
+PART 2: EVALUATE FEATURE SUBSETS
+================================================================================
+
+ Feats    CV ACC   Test ACC   Train AUC   Test AUC      Gap       Prob Range
+---------------------------------------------------------------------------
+Top  5   0.5957    0.7500     0.9984     0.8267   +0.1717   [0.134, 0.876]
+Top  7   0.6068    0.6500     0.9995     0.7667   +0.2328   [0.174, 0.852]
+Top  9   0.6349    0.7000     1.0000     0.7578   +0.2422   [0.154, 0.859]
+Top 11   0.6297    0.7167     1.0000     0.7578   +0.2422   [0.183, 0.847]
+Top 13   0.6803    0.7167     1.0000     0.7600   +0.2400   [0.190, 0.867]
+Top 15   0.6238    0.6500     1.0000     0.7111   +0.2889   [0.094, 0.857]
+Top 18   0.5900    0.6500     1.0000     0.7267   +0.2733   [0.116, 0.810]
+Top 20   0.5903    0.6333     1.0000     0.6878   +0.3122   [0.135, 0.812]
+
+================================================================================
+PART 3: HYPERPARAMETER OPTIMIZATION
+================================================================================
+
+Optimizing with 15 features: ['3man_bpm', 'rotation_balance', 'torvik_def', 'effective_possession_rate', 'def_paint_touch_rate', 'shot_quality_variance', 'ast_pct', 'def_close2_share', '5man_prpg', '3pr', 'ftr', 'height', 'torvik_off', 'def_experience_impact', '5man_dprpg']
+
+Running RandomizedSearchCV (200 iterations, 5-fold CV)...
+
+Best params:
+  solver: liblinear
+  penalty: l2
+  max_iter: 1000
+  C: 0.1
+
+Results:
+  CV AUC:       0.7402
+  Train AUC:    0.7978
+  Test AUC:     0.7456
+  Train ACC:    0.7247
+  Test ACC:     0.7167
+  Brier (test): 0.2151
+  AUC gap:      +0.0522
+  Prob range:   [0.085, 0.942]
+
+================================================================================
+PART 4: REGULARIZATION SWEEP (on best params)
+================================================================================
+
+================================================================================
+DONE — Copy your chosen features and params into men_generate_matchups.py
+================================================================================
