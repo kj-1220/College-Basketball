@@ -1,0 +1,1536 @@
+"game_date","season","conference","home_team","away_team","home_score","away_score","neutral_site_flag"
+2024-12-07,2025,"Atlantic Coast Conference","California Golden Bears","Stanford Cardinal",81,89,0
+2024-12-07,2025,"Atlantic Coast Conference","Miami Hurricanes","Clemson Tigers",55,65,0
+2024-12-07,2025,"Atlantic Coast Conference","NC State Wolfpack","Florida State Seminoles",84,74,0
+2024-12-07,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Georgia Tech Yellow Jackets",68,65,0
+2024-12-07,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Syracuse Orange",69,64,0
+2024-12-07,2025,"Atlantic Coast Conference","SMU Mustangs","Virginia Cavaliers",63,51,0
+2024-12-07,2025,"Atlantic Coast Conference","Virginia Tech Hokies","Pittsburgh Panthers",59,64,0
+2024-12-07,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Boston College Eagles",72,66,0
+2024-12-08,2025,"Atlantic Coast Conference","Louisville Cardinals","Duke Blue Devils",65,76,0
+2024-12-21,2025,"Atlantic Coast Conference","Boston College Eagles","SMU Mustangs",77,103,0
+2024-12-21,2025,"Atlantic Coast Conference","Clemson Tigers","Wake Forest Demon Deacons",73,62,0
+2024-12-21,2025,"Atlantic Coast Conference","Florida State Seminoles","Louisville Cardinals",76,90,0
+2024-12-21,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Duke Blue Devils",56,82,0
+2024-12-31,2025,"Atlantic Coast Conference","Duke Blue Devils","Virginia Tech Hokies",88,65,0
+2024-12-31,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Notre Dame Fighting Irish",86,75,0
+2024-12-31,2025,"Atlantic Coast Conference","Syracuse Orange","Wake Forest Demon Deacons",71,81,0
+2024-12-31,2025,"Atlantic Coast Conference","Virginia Cavaliers","NC State Wolfpack",70,67,0
+2025-01-01,2025,"Atlantic Coast Conference","Boston College Eagles","Miami Hurricanes",78,68,0
+2025-01-01,2025,"Atlantic Coast Conference","Clemson Tigers","Stanford Cardinal",85,71,0
+2025-01-01,2025,"Atlantic Coast Conference","Louisville Cardinals","North Carolina Tar Heels",83,70,0
+2025-01-01,2025,"Atlantic Coast Conference","Pittsburgh Panthers","California Golden Bears",86,74,0
+2025-01-04,2025,"Atlantic Coast Conference","Clemson Tigers","California Golden Bears",80,68,0
+2025-01-04,2025,"Atlantic Coast Conference","Florida State Seminoles","Syracuse Orange",90,74,0
+2025-01-04,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Boston College Eagles",85,64,0
+2025-01-04,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","North Carolina Tar Heels",73,74,0
+2025-01-04,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Stanford Cardinal",83,68,0
+2025-01-04,2025,"Atlantic Coast Conference","SMU Mustangs","Duke Blue Devils",62,89,0
+2025-01-04,2025,"Atlantic Coast Conference","Virginia Cavaliers","Louisville Cardinals",50,70,0
+2025-01-04,2025,"Atlantic Coast Conference","Virginia Tech Hokies","Miami Hurricanes",86,85,0
+2025-01-04,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","NC State Wolfpack",77,59,0
+2025-01-07,2025,"Atlantic Coast Conference","Duke Blue Devils","Pittsburgh Panthers",76,47,0
+2025-01-07,2025,"Atlantic Coast Conference","Louisville Cardinals","Clemson Tigers",74,64,0
+2025-01-07,2025,"Atlantic Coast Conference","North Carolina Tar Heels","SMU Mustangs",82,67,0
+2025-01-07,2025,"Atlantic Coast Conference","Syracuse Orange","Georgia Tech Yellow Jackets",62,55,0
+2025-01-08,2025,"Atlantic Coast Conference","California Golden Bears","Virginia Cavaliers",75,61,0
+2025-01-08,2025,"Atlantic Coast Conference","Miami Hurricanes","Florida State Seminoles",65,80,0
+2025-01-08,2025,"Atlantic Coast Conference","NC State Wolfpack","Notre Dame Fighting Irish",66,65,0
+2025-01-08,2025,"Atlantic Coast Conference","Stanford Cardinal","Virginia Tech Hokies",70,59,0
+2025-01-11,2025,"Atlantic Coast Conference","Boston College Eagles","Syracuse Orange",71,79,0
+2025-01-11,2025,"Atlantic Coast Conference","California Golden Bears","Virginia Tech Hokies",68,71,0
+2025-01-11,2025,"Atlantic Coast Conference","Clemson Tigers","Florida State Seminoles",77,57,0
+2025-01-11,2025,"Atlantic Coast Conference","Duke Blue Devils","Notre Dame Fighting Irish",86,78,0
+2025-01-11,2025,"Atlantic Coast Conference","Miami Hurricanes","Wake Forest Demon Deacons",78,88,0
+2025-01-11,2025,"Atlantic Coast Conference","NC State Wolfpack","North Carolina Tar Heels",61,63,0
+2025-01-11,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Louisville Cardinals",78,82,0
+2025-01-11,2025,"Atlantic Coast Conference","SMU Mustangs","Georgia Tech Yellow Jackets",93,71,0
+2025-01-11,2025,"Atlantic Coast Conference","Stanford Cardinal","Virginia Cavaliers",88,65,0
+2025-01-13,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Boston College Eagles",78,60,0
+2025-01-14,2025,"Atlantic Coast Conference","Duke Blue Devils","Miami Hurricanes",89,54,0
+2025-01-14,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Clemson Tigers",59,70,0
+2025-01-14,2025,"Atlantic Coast Conference","Syracuse Orange","Louisville Cardinals",61,85,0
+2025-01-15,2025,"Atlantic Coast Conference","Florida State Seminoles","Pittsburgh Panthers",82,70,0
+2025-01-15,2025,"Atlantic Coast Conference","North Carolina Tar Heels","California Golden Bears",79,53,0
+2025-01-15,2025,"Atlantic Coast Conference","Virginia Cavaliers","SMU Mustangs",52,54,0
+2025-01-15,2025,"Atlantic Coast Conference","Virginia Tech Hokies","NC State Wolfpack",79,76,0
+2025-01-15,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Stanford Cardinal",80,67,0
+2025-01-18,2025,"Atlantic Coast Conference","Boston College Eagles","Duke Blue Devils",63,88,0
+2025-01-18,2025,"Atlantic Coast Conference","Florida State Seminoles","Georgia Tech Yellow Jackets",91,78,0
+2025-01-18,2025,"Atlantic Coast Conference","Louisville Cardinals","Virginia Cavaliers",81,67,0
+2025-01-18,2025,"Atlantic Coast Conference","Miami Hurricanes","SMU Mustangs",74,117,0
+2025-01-18,2025,"Atlantic Coast Conference","NC State Wolfpack","California Golden Bears",62,65,0
+2025-01-18,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Stanford Cardinal",71,72,0
+2025-01-18,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Clemson Tigers",75,78,0
+2025-01-18,2025,"Atlantic Coast Conference","Syracuse Orange","Notre Dame Fighting Irish",77,69,0
+2025-01-18,2025,"Atlantic Coast Conference","Virginia Tech Hokies","Wake Forest Demon Deacons",63,72,0
+2025-01-21,2025,"Atlantic Coast Conference","SMU Mustangs","Louisville Cardinals",73,98,0
+2025-01-21,2025,"Atlantic Coast Conference","Virginia Cavaliers","Boston College Eagles",74,56,0
+2025-01-21,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","North Carolina Tar Heels",67,66,0
+2025-01-22,2025,"Atlantic Coast Conference","California Golden Bears","Florida State Seminoles",77,68,0
+2025-01-22,2025,"Atlantic Coast Conference","Clemson Tigers","Syracuse Orange",86,72,0
+2025-01-22,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Virginia Tech Hokies",71,64,0
+2025-01-22,2025,"Atlantic Coast Conference","Stanford Cardinal","Miami Hurricanes",88,51,0
+2025-01-25,2025,"Atlantic Coast Conference","California Golden Bears","Miami Hurricanes",98,94,0
+2025-01-25,2025,"Atlantic Coast Conference","NC State Wolfpack","SMU Mustangs",57,63,0
+2025-01-25,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Boston College Eagles",102,96,0
+2025-01-25,2025,"Atlantic Coast Conference","Stanford Cardinal","Florida State Seminoles",78,71,0
+2025-01-25,2025,"Atlantic Coast Conference","Syracuse Orange","Pittsburgh Panthers",73,77,0
+2025-01-25,2025,"Atlantic Coast Conference","Virginia Cavaliers","Notre Dame Fighting Irish",59,74,0
+2025-01-25,2025,"Atlantic Coast Conference","Virginia Tech Hokies","Clemson Tigers",57,72,0
+2025-01-25,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Duke Blue Devils",56,63,0
+2025-01-27,2025,"Atlantic Coast Conference","Duke Blue Devils","NC State Wolfpack",74,64,0
+2025-01-28,2025,"Atlantic Coast Conference","Louisville Cardinals","Wake Forest Demon Deacons",72,59,0
+2025-01-28,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Georgia Tech Yellow Jackets",71,68,0
+2025-01-28,2025,"Atlantic Coast Conference","Pittsburgh Panthers","North Carolina Tar Heels",73,65,0
+2025-01-29,2025,"Atlantic Coast Conference","Florida State Seminoles","Virginia Tech Hokies",66,76,0
+2025-01-29,2025,"Atlantic Coast Conference","Miami Hurricanes","Virginia Cavaliers",71,82,0
+2025-01-29,2025,"Atlantic Coast Conference","SMU Mustangs","California Golden Bears",76,65,0
+2025-01-29,2025,"Atlantic Coast Conference","Stanford Cardinal","Syracuse Orange",70,61,0
+2025-02-01,2025,"Atlantic Coast Conference","Boston College Eagles","Florida State Seminoles",77,76,0
+2025-02-01,2025,"Atlantic Coast Conference","California Golden Bears","Syracuse Orange",66,75,0
+2025-02-01,2025,"Atlantic Coast Conference","Duke Blue Devils","North Carolina Tar Heels",87,70,0
+2025-02-01,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Louisville Cardinals",77,70,0
+2025-02-01,2025,"Atlantic Coast Conference","Miami Hurricanes","Notre Dame Fighting Irish",63,57,0
+2025-02-01,2025,"Atlantic Coast Conference","NC State Wolfpack","Clemson Tigers",58,68,0
+2025-02-01,2025,"Atlantic Coast Conference","SMU Mustangs","Stanford Cardinal",85,61,0
+2025-02-01,2025,"Atlantic Coast Conference","Virginia Cavaliers","Virginia Tech Hokies",74,75,0
+2025-02-01,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Pittsburgh Panthers",76,74,0
+2025-02-03,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Virginia Cavaliers",57,73,0
+2025-02-04,2025,"Atlantic Coast Conference","Clemson Tigers","Georgia Tech Yellow Jackets",86,89,0
+2025-02-04,2025,"Atlantic Coast Conference","Florida State Seminoles","Notre Dame Fighting Irish",67,60,0
+2025-02-05,2025,"Atlantic Coast Conference","Boston College Eagles","Louisville Cardinals",58,84,0
+2025-02-05,2025,"Atlantic Coast Conference","California Golden Bears","NC State Wolfpack",74,62,0
+2025-02-05,2025,"Atlantic Coast Conference","Stanford Cardinal","Wake Forest Demon Deacons",73,79,0
+2025-02-05,2025,"Atlantic Coast Conference","Syracuse Orange","Duke Blue Devils",54,83,0
+2025-02-05,2025,"Atlantic Coast Conference","Virginia Tech Hokies","SMU Mustangs",75,81,0
+2025-02-08,2025,"Atlantic Coast Conference","California Golden Bears","Wake Forest Demon Deacons",66,76,0
+2025-02-08,2025,"Atlantic Coast Conference","Clemson Tigers","Duke Blue Devils",77,71,0
+2025-02-08,2025,"Atlantic Coast Conference","Louisville Cardinals","Miami Hurricanes",88,78,0
+2025-02-08,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Pittsburgh Panthers",67,66,0
+2025-02-08,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Virginia Tech Hokies",63,65,0
+2025-02-08,2025,"Atlantic Coast Conference","Stanford Cardinal","NC State Wolfpack",74,73,0
+2025-02-08,2025,"Atlantic Coast Conference","Syracuse Orange","Boston College Eagles",95,86,0
+2025-02-08,2025,"Atlantic Coast Conference","Virginia Cavaliers","Georgia Tech Yellow Jackets",75,61,0
+2025-02-10,2025,"Atlantic Coast Conference","Clemson Tigers","North Carolina Tar Heels",85,65,0
+2025-02-11,2025,"Atlantic Coast Conference","Miami Hurricanes","Syracuse Orange",91,84,0
+2025-02-11,2025,"Atlantic Coast Conference","SMU Mustangs","Pittsburgh Panthers",83,63,0
+2025-02-12,2025,"Atlantic Coast Conference","Boston College Eagles","Notre Dame Fighting Irish",94,97,0
+2025-02-12,2025,"Atlantic Coast Conference","Duke Blue Devils","California Golden Bears",78,57,0
+2025-02-12,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Stanford Cardinal",60,52,0
+2025-02-12,2025,"Atlantic Coast Conference","NC State Wolfpack","Louisville Cardinals",66,91,0
+2025-02-12,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Florida State Seminoles",70,72,0
+2025-02-15,2025,"Atlantic Coast Conference","Duke Blue Devils","Stanford Cardinal",106,70,0
+2025-02-15,2025,"Atlantic Coast Conference","Florida State Seminoles","Clemson Tigers",46,72,0
+2025-02-15,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","California Golden Bears",90,88,0
+2025-02-15,2025,"Atlantic Coast Conference","NC State Wolfpack","Boston College Eagles",70,62,0
+2025-02-15,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Miami Hurricanes",74,65,0
+2025-02-15,2025,"Atlantic Coast Conference","SMU Mustangs","Wake Forest Demon Deacons",66,77,0
+2025-02-15,2025,"Atlantic Coast Conference","Syracuse Orange","North Carolina Tar Heels",82,88,0
+2025-02-15,2025,"Atlantic Coast Conference","Virginia Tech Hokies","Virginia Cavaliers",70,73,0
+2025-02-16,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Louisville Cardinals",60,75,0
+2025-02-17,2025,"Atlantic Coast Conference","Virginia Cavaliers","Duke Blue Devils",62,80,0
+2025-02-18,2025,"Atlantic Coast Conference","Boston College Eagles","Virginia Tech Hokies",54,36,0
+2025-02-18,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Syracuse Orange",80,69,0
+2025-02-19,2025,"Atlantic Coast Conference","Florida State Seminoles","Miami Hurricanes",74,66,0
+2025-02-19,2025,"Atlantic Coast Conference","North Carolina Tar Heels","NC State Wolfpack",97,73,0
+2025-02-19,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","SMU Mustangs",73,97,0
+2025-02-22,2025,"Atlantic Coast Conference","Boston College Eagles","Georgia Tech Yellow Jackets",69,54,0
+2025-02-22,2025,"Atlantic Coast Conference","Louisville Cardinals","Florida State Seminoles",89,81,0
+2025-02-22,2025,"Atlantic Coast Conference","Miami Hurricanes","Virginia Tech Hokies",68,81,0
+2025-02-22,2025,"Atlantic Coast Conference","NC State Wolfpack","Wake Forest Demon Deacons",85,73,0
+2025-02-22,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Virginia Cavaliers",81,66,0
+2025-02-22,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Pittsburgh Panthers",76,72,0
+2025-02-22,2025,"Atlantic Coast Conference","SMU Mustangs","Clemson Tigers",69,79,0
+2025-02-22,2025,"Atlantic Coast Conference","Stanford Cardinal","California Golden Bears",66,61,0
+2025-02-24,2025,"Atlantic Coast Conference","Florida State Seminoles","North Carolina Tar Heels",85,96,0
+2025-02-25,2025,"Atlantic Coast Conference","Miami Hurricanes","Duke Blue Devils",60,97,0
+2025-02-25,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Georgia Tech Yellow Jackets",67,73,0
+2025-02-25,2025,"Atlantic Coast Conference","Virginia Tech Hokies","Louisville Cardinals",66,71,0
+2025-02-26,2025,"Atlantic Coast Conference","California Golden Bears","SMU Mustangs",77,81,0
+2025-02-26,2025,"Atlantic Coast Conference","Clemson Tigers","Notre Dame Fighting Irish",83,68,0
+2025-02-26,2025,"Atlantic Coast Conference","Stanford Cardinal","Boston College Eagles",78,60,0
+2025-02-26,2025,"Atlantic Coast Conference","Syracuse Orange","NC State Wolfpack",74,60,0
+2025-02-26,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Virginia Cavaliers",75,83,0
+2025-03-01,2025,"Atlantic Coast Conference","California Golden Bears","Boston College Eagles",82,71,0
+2025-03-01,2025,"Atlantic Coast Conference","Duke Blue Devils","Florida State Seminoles",100,65,0
+2025-03-01,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","NC State Wolfpack",87,62,0
+2025-03-01,2025,"Atlantic Coast Conference","Louisville Cardinals","Pittsburgh Panthers",79,68,0
+2025-03-01,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Miami Hurricanes",92,73,0
+2025-03-01,2025,"Atlantic Coast Conference","Stanford Cardinal","SMU Mustangs",73,68,0
+2025-03-01,2025,"Atlantic Coast Conference","Virginia Cavaliers","Clemson Tigers",58,71,0
+2025-03-01,2025,"Atlantic Coast Conference","Virginia Tech Hokies","Syracuse Orange",101,95,0
+2025-03-01,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Notre Dame Fighting Irish",74,71,0
+2025-03-03,2025,"Atlantic Coast Conference","Duke Blue Devils","Wake Forest Demon Deacons",93,60,0
+2025-03-04,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Miami Hurricanes",89,74,0
+2025-03-04,2025,"Atlantic Coast Conference","SMU Mustangs","Syracuse Orange",77,75,0
+2025-03-04,2025,"Atlantic Coast Conference","Virginia Cavaliers","Florida State Seminoles",60,57,0
+2025-03-04,2025,"Atlantic Coast Conference","Virginia Tech Hokies","North Carolina Tar Heels",59,91,0
+2025-03-05,2025,"Atlantic Coast Conference","Boston College Eagles","Clemson Tigers",69,78,0
+2025-03-05,2025,"Atlantic Coast Conference","Louisville Cardinals","California Golden Bears",85,68,0
+2025-03-05,2025,"Atlantic Coast Conference","NC State Wolfpack","Pittsburgh Panthers",71,63,0
+2025-03-05,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Stanford Cardinal",56,54,0
+2025-03-08,2025,"Atlantic Coast Conference","Clemson Tigers","Virginia Tech Hokies",65,47,0
+2025-03-08,2025,"Atlantic Coast Conference","Florida State Seminoles","SMU Mustangs",76,69,0
+2025-03-08,2025,"Atlantic Coast Conference","Louisville Cardinals","Stanford Cardinal",68,48,0
+2025-03-08,2025,"Atlantic Coast Conference","Miami Hurricanes","NC State Wolfpack",72,70,0
+2025-03-08,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Duke Blue Devils",69,82,0
+2025-03-08,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","California Golden Bears",112,110,0
+2025-03-08,2025,"Atlantic Coast Conference","Pittsburgh Panthers","Boston College Eagles",93,67,0
+2025-03-08,2025,"Atlantic Coast Conference","Syracuse Orange","Virginia Cavaliers",84,70,0
+2025-03-08,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","Georgia Tech Yellow Jackets",69,43,0
+2025-03-11,2025,"Atlantic Coast Conference","Florida State Seminoles","Syracuse Orange",62,66,1
+2025-03-11,2025,"Atlantic Coast Conference","Notre Dame Fighting Irish","Pittsburgh Panthers",55,54,1
+2025-03-11,2025,"Atlantic Coast Conference","Virginia Tech Hokies","California Golden Bears",73,82,1
+2025-03-12,2025,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Virginia Cavaliers",66,60,1
+2025-03-12,2025,"Atlantic Coast Conference","North Carolina Tar Heels","Notre Dame Fighting Irish",76,56,1
+2025-03-12,2025,"Atlantic Coast Conference","SMU Mustangs","Syracuse Orange",73,53,1
+2025-03-12,2025,"Atlantic Coast Conference","Stanford Cardinal","California Golden Bears",78,73,1
+2025-03-13,2025,"Atlantic Coast Conference","Clemson Tigers","SMU Mustangs",57,54,1
+2025-03-13,2025,"Atlantic Coast Conference","Duke Blue Devils","Georgia Tech Yellow Jackets",78,70,1
+2025-03-13,2025,"Atlantic Coast Conference","Louisville Cardinals","Stanford Cardinal",75,73,1
+2025-03-13,2025,"Atlantic Coast Conference","Wake Forest Demon Deacons","North Carolina Tar Heels",59,68,1
+2025-03-14,2025,"Atlantic Coast Conference","Duke Blue Devils","North Carolina Tar Heels",74,71,1
+2025-03-14,2025,"Atlantic Coast Conference","Louisville Cardinals","Clemson Tigers",76,73,1
+2025-03-15,2025,"Atlantic Coast Conference","Duke Blue Devils","Louisville Cardinals",73,62,1
+2025-12-30,2026,"Atlantic Coast Conference","California Golden Bears","Louisville Cardinals",70,90,0
+2025-12-30,2026,"Atlantic Coast Conference","Miami Hurricanes","Pittsburgh Panthers",76,69,0
+2025-12-30,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Florida State Seminoles",79,66,0
+2025-12-30,2026,"Atlantic Coast Conference","Stanford Cardinal","Notre Dame Fighting Irish",40,47,0
+2025-12-31,2026,"Atlantic Coast Conference","Duke Blue Devils","Georgia Tech Yellow Jackets",85,79,0
+2025-12-31,2026,"Atlantic Coast Conference","NC State Wolfpack","Wake Forest Demon Deacons",70,57,0
+2025-12-31,2026,"Atlantic Coast Conference","Syracuse Orange","Clemson Tigers",61,64,0
+2025-12-31,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Virginia Cavaliers",95,85,0
+2026-01-02,2026,"Atlantic Coast Conference","California Golden Bears","Notre Dame Fighting Irish",72,71,0
+2026-01-02,2026,"Atlantic Coast Conference","Stanford Cardinal","Louisville Cardinals",80,76,0
+2026-01-03,2026,"Atlantic Coast Conference","Florida State Seminoles","Duke Blue Devils",87,91,0
+2026-01-03,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Boston College Eagles",65,53,0
+2026-01-03,2026,"Atlantic Coast Conference","NC State Wolfpack","Virginia Cavaliers",61,76,0
+2026-01-03,2026,"Atlantic Coast Conference","Pittsburgh Panthers","Clemson Tigers",68,73,0
+2026-01-03,2026,"Atlantic Coast Conference","SMU Mustangs","North Carolina Tar Heels",97,83,0
+2026-01-03,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","Virginia Tech Hokies",81,78,0
+2026-01-06,2026,"Atlantic Coast Conference","Boston College Eagles","NC State Wolfpack",71,79,0
+2026-01-06,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Syracuse Orange",72,82,0
+2026-01-06,2026,"Atlantic Coast Conference","Louisville Cardinals","Duke Blue Devils",73,84,0
+2026-01-07,2026,"Atlantic Coast Conference","Clemson Tigers","SMU Mustangs",74,70,0
+2026-01-07,2026,"Atlantic Coast Conference","Virginia Cavaliers","California Golden Bears",84,60,0
+2026-01-07,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Stanford Cardinal",68,69,0
+2026-01-07,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","Miami Hurricanes",77,81,0
+2026-01-10,2026,"Atlantic Coast Conference","Duke Blue Devils","SMU Mustangs",82,75,0
+2026-01-10,2026,"Atlantic Coast Conference","Florida State Seminoles","NC State Wolfpack",69,113,0
+2026-01-10,2026,"Atlantic Coast Conference","Louisville Cardinals","Boston College Eagles",75,62,0
+2026-01-10,2026,"Atlantic Coast Conference","Miami Hurricanes","Georgia Tech Yellow Jackets",91,81,0
+2026-01-10,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Wake Forest Demon Deacons",87,84,0
+2026-01-10,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Clemson Tigers",61,76,0
+2026-01-10,2026,"Atlantic Coast Conference","Pittsburgh Panthers","Syracuse Orange",72,83,0
+2026-01-10,2026,"Atlantic Coast Conference","Virginia Cavaliers","Stanford Cardinal",70,55,0
+2026-01-10,2026,"Atlantic Coast Conference","Virginia Tech Hokies","California Golden Bears",78,75,0
+2026-01-13,2026,"Atlantic Coast Conference","Clemson Tigers","Boston College Eagles",74,50,0
+2026-01-13,2026,"Atlantic Coast Conference","Louisville Cardinals","Virginia Cavaliers",70,79,0
+2026-01-13,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Miami Hurricanes",69,81,0
+2026-01-13,2026,"Atlantic Coast Conference","Syracuse Orange","Florida State Seminoles",94,86,0
+2026-01-14,2026,"Atlantic Coast Conference","California Golden Bears","Duke Blue Devils",56,71,0
+2026-01-14,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Pittsburgh Panthers",66,89,0
+2026-01-14,2026,"Atlantic Coast Conference","SMU Mustangs","Virginia Tech Hokies",77,76,0
+2026-01-14,2026,"Atlantic Coast Conference","Stanford Cardinal","North Carolina Tar Heels",95,90,0
+2026-01-17,2026,"Atlantic Coast Conference","Boston College Eagles","Syracuse Orange",81,73,0
+2026-01-17,2026,"Atlantic Coast Conference","California Golden Bears","North Carolina Tar Heels",84,78,0
+2026-01-17,2026,"Atlantic Coast Conference","Clemson Tigers","Miami Hurricanes",69,59,0
+2026-01-17,2026,"Atlantic Coast Conference","Florida State Seminoles","Wake Forest Demon Deacons",68,69,0
+2026-01-17,2026,"Atlantic Coast Conference","NC State Wolfpack","Georgia Tech Yellow Jackets",74,78,0
+2026-01-17,2026,"Atlantic Coast Conference","Pittsburgh Panthers","Louisville Cardinals",59,100,0
+2026-01-17,2026,"Atlantic Coast Conference","SMU Mustangs","Virginia Cavaliers",68,72,0
+2026-01-17,2026,"Atlantic Coast Conference","Stanford Cardinal","Duke Blue Devils",50,80,0
+2026-01-17,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Notre Dame Fighting Irish",89,76,0
+2026-01-20,2026,"Atlantic Coast Conference","Clemson Tigers","NC State Wolfpack",76,80,0
+2026-01-20,2026,"Atlantic Coast Conference","Miami Hurricanes","Florida State Seminoles",63,65,0
+2026-01-20,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","SMU Mustangs",79,91,0
+2026-01-21,2026,"Atlantic Coast Conference","Boston College Eagles","Pittsburgh Panthers",65,62,0
+2026-01-21,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Notre Dame Fighting Irish",91,69,0
+2026-01-21,2026,"Atlantic Coast Conference","Syracuse Orange","Virginia Tech Hokies",74,76,0
+2026-01-24,2026,"Atlantic Coast Conference","Duke Blue Devils","Wake Forest Demon Deacons",90,69,0
+2026-01-24,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Clemson Tigers",63,77,0
+2026-01-24,2026,"Atlantic Coast Conference","Louisville Cardinals","Virginia Tech Hokies",85,71,0
+2026-01-24,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Boston College Eagles",68,64,0
+2026-01-24,2026,"Atlantic Coast Conference","Pittsburgh Panthers","NC State Wolfpack",72,81,0
+2026-01-24,2026,"Atlantic Coast Conference","SMU Mustangs","Florida State Seminoles",83,80,0
+2026-01-24,2026,"Atlantic Coast Conference","Stanford Cardinal","California Golden Bears",66,78,0
+2026-01-24,2026,"Atlantic Coast Conference","Syracuse Orange","Miami Hurricanes",76,85,0
+2026-01-24,2026,"Atlantic Coast Conference","Virginia Cavaliers","North Carolina Tar Heels",80,85,0
+2026-01-26,2026,"Atlantic Coast Conference","Duke Blue Devils","Louisville Cardinals",83,52,0
+2026-01-27,2026,"Atlantic Coast Conference","NC State Wolfpack","Syracuse Orange",88,68,0
+2026-01-27,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Virginia Cavaliers",97,100,0
+2026-01-27,2026,"Atlantic Coast Conference","Pittsburgh Panthers","Wake Forest Demon Deacons",80,76,0
+2026-01-27,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Georgia Tech Yellow Jackets",71,65,0
+2026-01-28,2026,"Atlantic Coast Conference","Florida State Seminoles","California Golden Bears",63,61,0
+2026-01-28,2026,"Atlantic Coast Conference","Miami Hurricanes","Stanford Cardinal",79,70,0
+2026-01-31,2026,"Atlantic Coast Conference","Boston College Eagles","Virginia Cavaliers",66,73,0
+2026-01-31,2026,"Atlantic Coast Conference","Clemson Tigers","Pittsburgh Panthers",63,52,0
+2026-01-31,2026,"Atlantic Coast Conference","Florida State Seminoles","Stanford Cardinal",88,80,0
+2026-01-31,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","North Carolina Tar Heels",75,91,0
+2026-01-31,2026,"Atlantic Coast Conference","Louisville Cardinals","SMU Mustangs",88,74,0
+2026-01-31,2026,"Atlantic Coast Conference","Miami Hurricanes","California Golden Bears",85,86,0
+2026-01-31,2026,"Atlantic Coast Conference","Syracuse Orange","Notre Dame Fighting Irish",86,72,0
+2026-01-31,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Duke Blue Devils",58,72,0
+2026-01-31,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","NC State Wolfpack",78,96,0
+2026-02-02,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Syracuse Orange",87,77,0
+2026-02-03,2026,"Atlantic Coast Conference","Duke Blue Devils","Boston College Eagles",67,49,0
+2026-02-03,2026,"Atlantic Coast Conference","SMU Mustangs","NC State Wolfpack",83,84,0
+2026-02-03,2026,"Atlantic Coast Conference","Virginia Cavaliers","Pittsburgh Panthers",67,47,0
+2026-02-04,2026,"Atlantic Coast Conference","California Golden Bears","Georgia Tech Yellow Jackets",90,85,0
+2026-02-04,2026,"Atlantic Coast Conference","Louisville Cardinals","Notre Dame Fighting Irish",76,65,0
+2026-02-04,2026,"Atlantic Coast Conference","Stanford Cardinal","Clemson Tigers",64,66,0
+2026-02-07,2026,"Atlantic Coast Conference","Boston College Eagles","Miami Hurricanes",68,74,0
+2026-02-07,2026,"Atlantic Coast Conference","California Golden Bears","Clemson Tigers",55,77,0
+2026-02-07,2026,"Atlantic Coast Conference","NC State Wolfpack","Virginia Tech Hokies",82,73,0
+2026-02-07,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Duke Blue Devils",71,68,0
+2026-02-07,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Florida State Seminoles",79,82,0
+2026-02-07,2026,"Atlantic Coast Conference","Pittsburgh Panthers","SMU Mustangs",67,86,0
+2026-02-07,2026,"Atlantic Coast Conference","Stanford Cardinal","Georgia Tech Yellow Jackets",95,72,0
+2026-02-07,2026,"Atlantic Coast Conference","Virginia Cavaliers","Syracuse Orange",72,59,0
+2026-02-07,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","Louisville Cardinals",80,88,0
+2026-02-09,2026,"Atlantic Coast Conference","Louisville Cardinals","NC State Wolfpack",118,77,0
+2026-02-10,2026,"Atlantic Coast Conference","Florida State Seminoles","Virginia Cavaliers",58,61,0
+2026-02-10,2026,"Atlantic Coast Conference","Miami Hurricanes","North Carolina Tar Heels",75,66,0
+2026-02-10,2026,"Atlantic Coast Conference","Pittsburgh Panthers","Duke Blue Devils",54,70,0
+2026-02-10,2026,"Atlantic Coast Conference","SMU Mustangs","Notre Dame Fighting Irish",89,81,0
+2026-02-11,2026,"Atlantic Coast Conference","Boston College Eagles","Stanford Cardinal",64,70,0
+2026-02-11,2026,"Atlantic Coast Conference","Clemson Tigers","Virginia Tech Hokies",66,76,0
+2026-02-11,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Wake Forest Demon Deacons",67,83,0
+2026-02-11,2026,"Atlantic Coast Conference","Syracuse Orange","California Golden Bears",107,100,0
+2026-02-14,2026,"Atlantic Coast Conference","Boston College Eagles","California Golden Bears",75,86,0
+2026-02-14,2026,"Atlantic Coast Conference","Duke Blue Devils","Clemson Tigers",67,54,0
+2026-02-14,2026,"Atlantic Coast Conference","NC State Wolfpack","Miami Hurricanes",76,77,0
+2026-02-14,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Pittsburgh Panthers",79,65,0
+2026-02-14,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Georgia Tech Yellow Jackets",89,74,0
+2026-02-14,2026,"Atlantic Coast Conference","Syracuse Orange","SMU Mustangs",79,78,0
+2026-02-14,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Florida State Seminoles",69,92,0
+2026-02-14,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","Stanford Cardinal",68,63,0
+2026-02-16,2026,"Atlantic Coast Conference","Duke Blue Devils","Syracuse Orange",101,64,0
+2026-02-17,2026,"Atlantic Coast Conference","Florida State Seminoles","Boston College Eagles",80,72,0
+2026-02-17,2026,"Atlantic Coast Conference","Miami Hurricanes","Virginia Tech Hokies",67,66,0
+2026-02-17,2026,"Atlantic Coast Conference","NC State Wolfpack","North Carolina Tar Heels",82,58,0
+2026-02-17,2026,"Atlantic Coast Conference","SMU Mustangs","Louisville Cardinals",95,85,0
+2026-02-18,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Virginia Cavaliers",68,94,0
+2026-02-18,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","Clemson Tigers",85,77,0
+2026-02-21,2026,"Atlantic Coast Conference","California Golden Bears","Stanford Cardinal",72,66,0
+2026-02-21,2026,"Atlantic Coast Conference","Clemson Tigers","Florida State Seminoles",65,70,0
+2026-02-21,2026,"Atlantic Coast Conference","Louisville Cardinals","Georgia Tech Yellow Jackets",87,70,0
+2026-02-21,2026,"Atlantic Coast Conference","Pittsburgh Panthers","Notre Dame Fighting Irish",73,68,0
+2026-02-21,2026,"Atlantic Coast Conference","SMU Mustangs","Boston College Eagles",94,70,0
+2026-02-21,2026,"Atlantic Coast Conference","Syracuse Orange","North Carolina Tar Heels",64,77,0
+2026-02-21,2026,"Atlantic Coast Conference","Virginia Cavaliers","Miami Hurricanes",86,83,0
+2026-02-21,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Wake Forest Demon Deacons",82,63,0
+2026-02-23,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Louisville Cardinals",77,74,0
+2026-02-24,2026,"Atlantic Coast Conference","Florida State Seminoles","Miami Hurricanes",73,83,0
+2026-02-24,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Duke Blue Devils",56,100,0
+2026-02-24,2026,"Atlantic Coast Conference","Virginia Cavaliers","NC State Wolfpack",90,61,0
+2026-02-25,2026,"Atlantic Coast Conference","Boston College Eagles","Wake Forest Demon Deacons",68,67,0
+2026-02-25,2026,"Atlantic Coast Conference","California Golden Bears","SMU Mustangs",73,69,0
+2026-02-25,2026,"Atlantic Coast Conference","Stanford Cardinal","Pittsburgh Panthers",75,67,0
+2026-02-28,2026,"Atlantic Coast Conference","California Golden Bears","Pittsburgh Panthers",56,72,0
+2026-02-28,2026,"Atlantic Coast Conference","Clemson Tigers","Louisville Cardinals",80,75,0
+2026-02-28,2026,"Atlantic Coast Conference","Duke Blue Devils","Virginia Cavaliers",77,51,0
+2026-02-28,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","Florida State Seminoles",71,80,0
+2026-02-28,2026,"Atlantic Coast Conference","Miami Hurricanes","Boston College Eagles",76,54,0
+2026-02-28,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Virginia Tech Hokies",89,82,0
+2026-02-28,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","NC State Wolfpack",96,90,0
+2026-02-28,2026,"Atlantic Coast Conference","Stanford Cardinal","SMU Mustangs",95,75,0
+2026-02-28,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","Syracuse Orange",88,83,0
+2026-03-02,2026,"Atlantic Coast Conference","NC State Wolfpack","Duke Blue Devils",64,93,0
+2026-03-03,2026,"Atlantic Coast Conference","Louisville Cardinals","Syracuse Orange",77,62,0
+2026-03-03,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Clemson Tigers",67,63,0
+2026-03-03,2026,"Atlantic Coast Conference","Virginia Cavaliers","Wake Forest Demon Deacons",75,70,0
+2026-03-03,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Boston College Eagles",72,63,0
+2026-03-04,2026,"Atlantic Coast Conference","Georgia Tech Yellow Jackets","California Golden Bears",65,76,0
+2026-03-04,2026,"Atlantic Coast Conference","Notre Dame Fighting Irish","Stanford Cardinal",78,86,0
+2026-03-04,2026,"Atlantic Coast Conference","Pittsburgh Panthers","Florida State Seminoles",74,75,0
+2026-03-04,2026,"Atlantic Coast Conference","SMU Mustangs","Miami Hurricanes",69,77,0
+2026-03-07,2026,"Atlantic Coast Conference","Boston College Eagles","Notre Dame Fighting Irish",77,69,0
+2026-03-07,2026,"Atlantic Coast Conference","Clemson Tigers","Georgia Tech Yellow Jackets",79,76,0
+2026-03-07,2026,"Atlantic Coast Conference","Duke Blue Devils","North Carolina Tar Heels",76,61,0
+2026-03-07,2026,"Atlantic Coast Conference","Florida State Seminoles","SMU Mustangs",91,78,0
+2026-03-07,2026,"Atlantic Coast Conference","Miami Hurricanes","Louisville Cardinals",89,92,0
+2026-03-07,2026,"Atlantic Coast Conference","NC State Wolfpack","Stanford Cardinal",84,85,0
+2026-03-07,2026,"Atlantic Coast Conference","Syracuse Orange","Pittsburgh Panthers",69,71,0
+2026-03-07,2026,"Atlantic Coast Conference","Virginia Cavaliers","Virginia Tech Hokies",76,72,0
+2026-03-07,2026,"Atlantic Coast Conference","Wake Forest Demon Deacons","California Golden Bears",80,73,0
+2026-03-10,2026,"Atlantic Coast Conference","SMU Mustangs","Syracuse Orange",86,69,1
+2026-03-10,2026,"Atlantic Coast Conference","Stanford Cardinal","Pittsburgh Panthers",63,64,1
+2026-03-10,2026,"Atlantic Coast Conference","Virginia Tech Hokies","Wake Forest Demon Deacons",89,95,1
+2026-03-11,2026,"Atlantic Coast Conference","Clemson Tigers","Wake Forest Demon Deacons",71,62,1
+2026-03-11,2026,"Atlantic Coast Conference","Florida State Seminoles","California Golden Bears",95,89,1
+2026-03-11,2026,"Atlantic Coast Conference","Louisville Cardinals","SMU Mustangs",62,58,1
+2026-03-11,2026,"Atlantic Coast Conference","NC State Wolfpack","Pittsburgh Panthers",98,88,1
+2026-03-12,2026,"Atlantic Coast Conference","Duke Blue Devils","Florida State Seminoles",80,79,1
+2026-03-12,2026,"Atlantic Coast Conference","Miami Hurricanes","Louisville Cardinals",78,73,1
+2026-03-12,2026,"Atlantic Coast Conference","North Carolina Tar Heels","Clemson Tigers",79,80,1
+2026-03-12,2026,"Atlantic Coast Conference","Virginia Cavaliers","NC State Wolfpack",81,74,1
+2026-03-13,2026,"Atlantic Coast Conference","Duke Blue Devils","Clemson Tigers",73,61,1
+2026-03-13,2026,"Atlantic Coast Conference","Virginia Cavaliers","Miami Hurricanes",84,62,1
+2026-03-14,2026,"Atlantic Coast Conference","Duke Blue Devils","Virginia Cavaliers",74,70,1
+2024-11-27,2025,"Big 12 Conference","Iowa State Cyclones","Colorado Buffaloes",99,71,1
+2024-11-29,2025,"Big 12 Conference","West Virginia Mountaineers","Arizona Wildcats",83,76,1
+2024-12-30,2025,"Big 12 Conference","Arizona Wildcats","TCU Horned Frogs",90,81,0
+2024-12-30,2025,"Big 12 Conference","Colorado Buffaloes","Iowa State Cyclones",69,79,0
+2024-12-30,2025,"Big 12 Conference","Kansas State Wildcats","Cincinnati Bearcats",70,67,0
+2024-12-30,2025,"Big 12 Conference","Oklahoma State Cowboys","Houston Cougars",47,60,0
+2024-12-31,2025,"Big 12 Conference","BYU Cougars","Arizona State Sun Devils",76,56,0
+2024-12-31,2025,"Big 12 Conference","Baylor Bears","Utah Utes",81,56,0
+2024-12-31,2025,"Big 12 Conference","Kansas Jayhawks","West Virginia Mountaineers",61,62,0
+2024-12-31,2025,"Big 12 Conference","Texas Tech Red Raiders","UCF Knights",83,87,0
+2025-01-04,2025,"Big 12 Conference","Arizona State Sun Devils","Colorado Buffaloes",81,61,0
+2025-01-04,2025,"Big 12 Conference","Cincinnati Bearcats","Arizona Wildcats",67,72,0
+2025-01-04,2025,"Big 12 Conference","Houston Cougars","BYU Cougars",86,55,0
+2025-01-04,2025,"Big 12 Conference","Iowa State Cyclones","Baylor Bears",74,55,0
+2025-01-04,2025,"Big 12 Conference","TCU Horned Frogs","Kansas State Wildcats",63,62,0
+2025-01-04,2025,"Big 12 Conference","Utah Utes","Texas Tech Red Raiders",65,93,0
+2025-01-04,2025,"Big 12 Conference","West Virginia Mountaineers","Oklahoma State Cowboys",69,50,0
+2025-01-05,2025,"Big 12 Conference","UCF Knights","Kansas Jayhawks",48,99,0
+2025-01-06,2025,"Big 12 Conference","Houston Cougars","TCU Horned Frogs",65,46,0
+2025-01-07,2025,"Big 12 Conference","BYU Cougars","Texas Tech Red Raiders",67,72,0
+2025-01-07,2025,"Big 12 Conference","Baylor Bears","Cincinnati Bearcats",68,48,0
+2025-01-07,2025,"Big 12 Conference","Iowa State Cyclones","Utah Utes",82,59,0
+2025-01-07,2025,"Big 12 Conference","Oklahoma State Cowboys","Kansas State Wildcats",79,66,0
+2025-01-07,2025,"Big 12 Conference","West Virginia Mountaineers","Arizona Wildcats",56,75,0
+2025-01-08,2025,"Big 12 Conference","Kansas Jayhawks","Arizona State Sun Devils",74,55,0
+2025-01-08,2025,"Big 12 Conference","UCF Knights","Colorado Buffaloes",75,74,0
+2025-01-11,2025,"Big 12 Conference","Arizona State Sun Devils","Baylor Bears",66,72,0
+2025-01-11,2025,"Big 12 Conference","Arizona Wildcats","UCF Knights",88,80,0
+2025-01-11,2025,"Big 12 Conference","Cincinnati Bearcats","Kansas Jayhawks",40,54,0
+2025-01-11,2025,"Big 12 Conference","Kansas State Wildcats","Houston Cougars",57,87,0
+2025-01-11,2025,"Big 12 Conference","TCU Horned Frogs","BYU Cougars",71,67,0
+2025-01-11,2025,"Big 12 Conference","Texas Tech Red Raiders","Iowa State Cyclones",84,85,0
+2025-01-11,2025,"Big 12 Conference","Utah Utes","Oklahoma State Cowboys",83,62,0
+2025-01-12,2025,"Big 12 Conference","Colorado Buffaloes","West Virginia Mountaineers",70,78,0
+2025-01-14,2025,"Big 12 Conference","Arizona State Sun Devils","UCF Knights",89,95,0
+2025-01-14,2025,"Big 12 Conference","Arizona Wildcats","Baylor Bears",81,70,0
+2025-01-14,2025,"Big 12 Conference","BYU Cougars","Oklahoma State Cowboys",85,69,0
+2025-01-14,2025,"Big 12 Conference","Kansas State Wildcats","Texas Tech Red Raiders",57,61,0
+2025-01-15,2025,"Big 12 Conference","Colorado Buffaloes","Cincinnati Bearcats",62,68,0
+2025-01-15,2025,"Big 12 Conference","Houston Cougars","West Virginia Mountaineers",70,54,0
+2025-01-15,2025,"Big 12 Conference","Iowa State Cyclones","Kansas Jayhawks",74,57,0
+2025-01-15,2025,"Big 12 Conference","TCU Horned Frogs","Utah Utes",65,73,0
+2025-01-18,2025,"Big 12 Conference","Cincinnati Bearcats","Arizona State Sun Devils",67,60,0
+2025-01-18,2025,"Big 12 Conference","Kansas Jayhawks","Kansas State Wildcats",84,74,0
+2025-01-18,2025,"Big 12 Conference","Oklahoma State Cowboys","Colorado Buffaloes",83,73,0
+2025-01-18,2025,"Big 12 Conference","Texas Tech Red Raiders","Arizona Wildcats",70,54,0
+2025-01-18,2025,"Big 12 Conference","UCF Knights","Houston Cougars",68,69,0
+2025-01-18,2025,"Big 12 Conference","Utah Utes","BYU Cougars",73,72,0
+2025-01-18,2025,"Big 12 Conference","West Virginia Mountaineers","Iowa State Cyclones",64,57,0
+2025-01-19,2025,"Big 12 Conference","Baylor Bears","TCU Horned Frogs",71,74,0
+2025-01-21,2025,"Big 12 Conference","Cincinnati Bearcats","Texas Tech Red Raiders",71,81,0
+2025-01-21,2025,"Big 12 Conference","Colorado Buffaloes","BYU Cougars",67,83,0
+2025-01-21,2025,"Big 12 Conference","Iowa State Cyclones","UCF Knights",108,83,0
+2025-01-21,2025,"Big 12 Conference","Oklahoma State Cowboys","Arizona Wildcats",78,92,0
+2025-01-21,2025,"Big 12 Conference","West Virginia Mountaineers","Arizona State Sun Devils",57,65,0
+2025-01-22,2025,"Big 12 Conference","Baylor Bears","Kansas State Wildcats",70,62,0
+2025-01-22,2025,"Big 12 Conference","Houston Cougars","Utah Utes",70,36,0
+2025-01-22,2025,"Big 12 Conference","TCU Horned Frogs","Kansas Jayhawks",61,74,0
+2025-01-25,2025,"Big 12 Conference","Arizona State Sun Devils","Iowa State Cyclones",61,76,0
+2025-01-25,2025,"Big 12 Conference","Arizona Wildcats","Colorado Buffaloes",78,63,0
+2025-01-25,2025,"Big 12 Conference","BYU Cougars","Cincinnati Bearcats",80,52,0
+2025-01-25,2025,"Big 12 Conference","Kansas Jayhawks","Houston Cougars",86,92,0
+2025-01-25,2025,"Big 12 Conference","Kansas State Wildcats","West Virginia Mountaineers",73,60,0
+2025-01-25,2025,"Big 12 Conference","UCF Knights","TCU Horned Frogs",85,58,0
+2025-01-25,2025,"Big 12 Conference","Utah Utes","Baylor Bears",61,76,0
+2025-01-26,2025,"Big 12 Conference","Texas Tech Red Raiders","Oklahoma State Cowboys",64,54,0
+2025-01-27,2025,"Big 12 Conference","Arizona Wildcats","Iowa State Cyclones",86,75,0
+2025-01-28,2025,"Big 12 Conference","BYU Cougars","Baylor Bears",93,89,0
+2025-01-28,2025,"Big 12 Conference","Colorado Buffaloes","Arizona State Sun Devils",68,70,0
+2025-01-28,2025,"Big 12 Conference","Kansas Jayhawks","UCF Knights",91,87,0
+2025-01-28,2025,"Big 12 Conference","Utah Utes","Cincinnati Bearcats",69,66,0
+2025-01-29,2025,"Big 12 Conference","Kansas State Wildcats","Oklahoma State Cowboys",85,57,0
+2025-01-29,2025,"Big 12 Conference","Texas Tech Red Raiders","TCU Horned Frogs",71,57,0
+2025-01-29,2025,"Big 12 Conference","West Virginia Mountaineers","Houston Cougars",49,63,0
+2025-02-01,2025,"Big 12 Conference","Arizona State Sun Devils","Arizona Wildcats",72,81,0
+2025-02-01,2025,"Big 12 Conference","Baylor Bears","Kansas Jayhawks",81,70,0
+2025-02-01,2025,"Big 12 Conference","Houston Cougars","Texas Tech Red Raiders",81,82,0
+2025-02-01,2025,"Big 12 Conference","Iowa State Cyclones","Kansas State Wildcats",61,80,0
+2025-02-01,2025,"Big 12 Conference","Oklahoma State Cowboys","Utah Utes",81,72,0
+2025-02-01,2025,"Big 12 Conference","UCF Knights","BYU Cougars",75,81,0
+2025-02-02,2025,"Big 12 Conference","Cincinnati Bearcats","West Virginia Mountaineers",50,63,0
+2025-02-02,2025,"Big 12 Conference","TCU Horned Frogs","Colorado Buffaloes",68,57,0
+2025-02-03,2025,"Big 12 Conference","Kansas Jayhawks","Iowa State Cyclones",69,52,0
+2025-02-04,2025,"Big 12 Conference","Arizona State Sun Devils","Kansas State Wildcats",70,71,0
+2025-02-04,2025,"Big 12 Conference","BYU Cougars","Arizona Wildcats",74,85,0
+2025-02-04,2025,"Big 12 Conference","Houston Cougars","Oklahoma State Cowboys",72,63,0
+2025-02-04,2025,"Big 12 Conference","Texas Tech Red Raiders","Baylor Bears",73,59,0
+2025-02-05,2025,"Big 12 Conference","TCU Horned Frogs","West Virginia Mountaineers",65,60,0
+2025-02-05,2025,"Big 12 Conference","UCF Knights","Cincinnati Bearcats",83,93,0
+2025-02-05,2025,"Big 12 Conference","Utah Utes","Colorado Buffaloes",72,59,0
+2025-02-08,2025,"Big 12 Conference","Arizona Wildcats","Texas Tech Red Raiders",82,73,0
+2025-02-08,2025,"Big 12 Conference","Baylor Bears","UCF Knights",91,76,0
+2025-02-08,2025,"Big 12 Conference","Cincinnati Bearcats","BYU Cougars",84,66,0
+2025-02-08,2025,"Big 12 Conference","Colorado Buffaloes","Houston Cougars",59,69,0
+2025-02-08,2025,"Big 12 Conference","Iowa State Cyclones","TCU Horned Frogs",82,52,0
+2025-02-08,2025,"Big 12 Conference","Kansas State Wildcats","Kansas Jayhawks",81,73,0
+2025-02-08,2025,"Big 12 Conference","West Virginia Mountaineers","Utah Utes",72,61,0
+2025-02-09,2025,"Big 12 Conference","Oklahoma State Cowboys","Arizona State Sun Devils",86,73,0
+2025-02-10,2025,"Big 12 Conference","Houston Cougars","Baylor Bears",76,65,0
+2025-02-11,2025,"Big 12 Conference","Cincinnati Bearcats","Utah Utes",85,75,0
+2025-02-11,2025,"Big 12 Conference","Kansas Jayhawks","Colorado Buffaloes",71,59,0
+2025-02-11,2025,"Big 12 Conference","Kansas State Wildcats","Arizona Wildcats",73,70,0
+2025-02-11,2025,"Big 12 Conference","UCF Knights","Iowa State Cyclones",65,77,0
+2025-02-11,2025,"Big 12 Conference","West Virginia Mountaineers","BYU Cougars",69,73,0
+2025-02-12,2025,"Big 12 Conference","TCU Horned Frogs","Oklahoma State Cowboys",73,72,0
+2025-02-12,2025,"Big 12 Conference","Texas Tech Red Raiders","Arizona State Sun Devils",111,106,0
+2025-02-15,2025,"Big 12 Conference","Arizona State Sun Devils","TCU Horned Frogs",70,74,0
+2025-02-15,2025,"Big 12 Conference","Arizona Wildcats","Houston Cougars",58,62,0
+2025-02-15,2025,"Big 12 Conference","BYU Cougars","Kansas State Wildcats",80,65,0
+2025-02-15,2025,"Big 12 Conference","Baylor Bears","West Virginia Mountaineers",74,71,0
+2025-02-15,2025,"Big 12 Conference","Colorado Buffaloes","UCF Knights",76,63,0
+2025-02-15,2025,"Big 12 Conference","Iowa State Cyclones","Cincinnati Bearcats",81,70,0
+2025-02-15,2025,"Big 12 Conference","Oklahoma State Cowboys","Texas Tech Red Raiders",55,93,0
+2025-02-15,2025,"Big 12 Conference","Utah Utes","Kansas Jayhawks",74,67,0
+2025-02-17,2025,"Big 12 Conference","Baylor Bears","Arizona Wildcats",67,74,0
+2025-02-17,2025,"Big 12 Conference","Utah Utes","Kansas State Wildcats",74,69,0
+2025-02-18,2025,"Big 12 Conference","Arizona State Sun Devils","Houston Cougars",65,80,0
+2025-02-18,2025,"Big 12 Conference","BYU Cougars","Kansas Jayhawks",91,57,0
+2025-02-18,2025,"Big 12 Conference","Iowa State Cyclones","Colorado Buffaloes",79,65,0
+2025-02-18,2025,"Big 12 Conference","TCU Horned Frogs","Texas Tech Red Raiders",69,66,0
+2025-02-19,2025,"Big 12 Conference","Oklahoma State Cowboys","UCF Knights",104,95,0
+2025-02-19,2025,"Big 12 Conference","West Virginia Mountaineers","Cincinnati Bearcats",62,59,0
+2025-02-22,2025,"Big 12 Conference","Arizona Wildcats","BYU Cougars",95,96,0
+2025-02-22,2025,"Big 12 Conference","Cincinnati Bearcats","TCU Horned Frogs",75,63,0
+2025-02-22,2025,"Big 12 Conference","Colorado Buffaloes","Baylor Bears",76,74,0
+2025-02-22,2025,"Big 12 Conference","Houston Cougars","Iowa State Cyclones",68,59,0
+2025-02-22,2025,"Big 12 Conference","Kansas Jayhawks","Oklahoma State Cowboys",96,64,0
+2025-02-22,2025,"Big 12 Conference","Texas Tech Red Raiders","West Virginia Mountaineers",73,51,0
+2025-02-23,2025,"Big 12 Conference","Kansas State Wildcats","Arizona State Sun Devils",54,66,0
+2025-02-23,2025,"Big 12 Conference","UCF Knights","Utah Utes",76,72,0
+2025-02-24,2025,"Big 12 Conference","Colorado Buffaloes","Kansas Jayhawks",64,71,0
+2025-02-24,2025,"Big 12 Conference","Texas Tech Red Raiders","Houston Cougars",61,69,0
+2025-02-25,2025,"Big 12 Conference","Cincinnati Bearcats","Baylor Bears",69,67,0
+2025-02-25,2025,"Big 12 Conference","Oklahoma State Cowboys","Iowa State Cyclones",74,68,0
+2025-02-25,2025,"Big 12 Conference","West Virginia Mountaineers","TCU Horned Frogs",73,55,0
+2025-02-26,2025,"Big 12 Conference","Arizona State Sun Devils","BYU Cougars",81,91,0
+2025-02-26,2025,"Big 12 Conference","Arizona Wildcats","Utah Utes",83,66,0
+2025-02-26,2025,"Big 12 Conference","UCF Knights","Kansas State Wildcats",80,76,0
+2025-03-01,2025,"Big 12 Conference","BYU Cougars","West Virginia Mountaineers",77,56,0
+2025-03-01,2025,"Big 12 Conference","Baylor Bears","Oklahoma State Cowboys",71,61,0
+2025-03-01,2025,"Big 12 Conference","Houston Cougars","Cincinnati Bearcats",73,64,0
+2025-03-01,2025,"Big 12 Conference","Iowa State Cyclones","Arizona Wildcats",84,67,0
+2025-03-01,2025,"Big 12 Conference","Kansas Jayhawks","Texas Tech Red Raiders",73,78,0
+2025-03-01,2025,"Big 12 Conference","TCU Horned Frogs","UCF Knights",89,78,0
+2025-03-01,2025,"Big 12 Conference","Utah Utes","Arizona State Sun Devils",99,73,0
+2025-03-02,2025,"Big 12 Conference","Kansas State Wildcats","Colorado Buffaloes",65,56,0
+2025-03-03,2025,"Big 12 Conference","Houston Cougars","Kansas Jayhawks",65,59,0
+2025-03-04,2025,"Big 12 Conference","Arizona Wildcats","Arizona State Sun Devils",113,100,0
+2025-03-04,2025,"Big 12 Conference","Iowa State Cyclones","BYU Cougars",85,88,0
+2025-03-04,2025,"Big 12 Conference","TCU Horned Frogs","Baylor Bears",58,61,0
+2025-03-04,2025,"Big 12 Conference","Utah Utes","West Virginia Mountaineers",69,71,0
+2025-03-05,2025,"Big 12 Conference","Cincinnati Bearcats","Kansas State Wildcats",49,54,0
+2025-03-05,2025,"Big 12 Conference","Texas Tech Red Raiders","Colorado Buffaloes",91,75,0
+2025-03-05,2025,"Big 12 Conference","UCF Knights","Oklahoma State Cowboys",83,70,0
+2025-03-08,2025,"Big 12 Conference","Arizona State Sun Devils","Texas Tech Red Raiders",57,85,0
+2025-03-08,2025,"Big 12 Conference","BYU Cougars","Utah Utes",85,74,0
+2025-03-08,2025,"Big 12 Conference","Baylor Bears","Houston Cougars",61,65,0
+2025-03-08,2025,"Big 12 Conference","Colorado Buffaloes","TCU Horned Frogs",76,56,0
+2025-03-08,2025,"Big 12 Conference","Kansas Jayhawks","Arizona Wildcats",83,76,0
+2025-03-08,2025,"Big 12 Conference","Kansas State Wildcats","Iowa State Cyclones",57,73,0
+2025-03-08,2025,"Big 12 Conference","Oklahoma State Cowboys","Cincinnati Bearcats",78,67,0
+2025-03-08,2025,"Big 12 Conference","West Virginia Mountaineers","UCF Knights",72,65,0
+2025-03-11,2025,"Big 12 Conference","Kansas State Wildcats","Arizona State Sun Devils",71,66,1
+2025-03-11,2025,"Big 12 Conference","Oklahoma State Cowboys","Cincinnati Bearcats",68,87,1
+2025-03-11,2025,"Big 12 Conference","TCU Horned Frogs","Colorado Buffaloes",67,69,1
+2025-03-11,2025,"Big 12 Conference","Utah Utes","UCF Knights",72,87,1
+2025-03-12,2025,"Big 12 Conference","Baylor Bears","Kansas State Wildcats",70,56,1
+2025-03-12,2025,"Big 12 Conference","Iowa State Cyclones","Cincinnati Bearcats",76,56,1
+2025-03-12,2025,"Big 12 Conference","Kansas Jayhawks","UCF Knights",98,94,1
+2025-03-12,2025,"Big 12 Conference","West Virginia Mountaineers","Colorado Buffaloes",60,67,1
+2025-03-13,2025,"Big 12 Conference","Arizona Wildcats","Kansas Jayhawks",88,77,1
+2025-03-13,2025,"Big 12 Conference","BYU Cougars","Iowa State Cyclones",96,92,1
+2025-03-13,2025,"Big 12 Conference","Houston Cougars","Colorado Buffaloes",77,68,1
+2025-03-13,2025,"Big 12 Conference","Texas Tech Red Raiders","Baylor Bears",76,74,1
+2025-03-14,2025,"Big 12 Conference","Houston Cougars","BYU Cougars",74,54,1
+2025-03-14,2025,"Big 12 Conference","Texas Tech Red Raiders","Arizona Wildcats",80,86,1
+2025-03-15,2025,"Big 12 Conference","Houston Cougars","Arizona Wildcats",72,64,1
+2026-01-02,2026,"Big 12 Conference","Iowa State Cyclones","West Virginia Mountaineers",80,59,0
+2026-01-03,2026,"Big 12 Conference","Arizona State Sun Devils","Colorado Buffaloes",89,95,0
+2026-01-03,2026,"Big 12 Conference","Cincinnati Bearcats","Houston Cougars",60,67,0
+2026-01-03,2026,"Big 12 Conference","Kansas State Wildcats","BYU Cougars",73,83,0
+2026-01-03,2026,"Big 12 Conference","TCU Horned Frogs","Baylor Bears",69,63,0
+2026-01-03,2026,"Big 12 Conference","Texas Tech Red Raiders","Oklahoma State Cowboys",102,80,0
+2026-01-03,2026,"Big 12 Conference","UCF Knights","Kansas Jayhawks",81,75,0
+2026-01-03,2026,"Big 12 Conference","Utah Utes","Arizona Wildcats",78,97,0
+2026-01-06,2026,"Big 12 Conference","Houston Cougars","Texas Tech Red Raiders",69,65,0
+2026-01-06,2026,"Big 12 Conference","Kansas Jayhawks","TCU Horned Frogs",104,100,0
+2026-01-06,2026,"Big 12 Conference","Oklahoma State Cowboys","UCF Knights",87,76,0
+2026-01-06,2026,"Big 12 Conference","West Virginia Mountaineers","Cincinnati Bearcats",62,60,0
+2026-01-07,2026,"Big 12 Conference","Arizona Wildcats","Kansas State Wildcats",101,76,0
+2026-01-07,2026,"Big 12 Conference","BYU Cougars","Arizona State Sun Devils",104,76,0
+2026-01-07,2026,"Big 12 Conference","Baylor Bears","Iowa State Cyclones",60,70,0
+2026-01-07,2026,"Big 12 Conference","Colorado Buffaloes","Utah Utes",85,73,0
+2026-01-10,2026,"Big 12 Conference","Arizona State Sun Devils","Kansas State Wildcats",87,84,0
+2026-01-10,2026,"Big 12 Conference","Baylor Bears","Houston Cougars",55,77,0
+2026-01-10,2026,"Big 12 Conference","Colorado Buffaloes","Texas Tech Red Raiders",71,73,0
+2026-01-10,2026,"Big 12 Conference","Iowa State Cyclones","Oklahoma State Cowboys",83,71,0
+2026-01-10,2026,"Big 12 Conference","TCU Horned Frogs","Arizona Wildcats",73,86,0
+2026-01-10,2026,"Big 12 Conference","Utah Utes","BYU Cougars",84,89,0
+2026-01-10,2026,"Big 12 Conference","West Virginia Mountaineers","Kansas Jayhawks",86,75,0
+2026-01-11,2026,"Big 12 Conference","UCF Knights","Cincinnati Bearcats",73,72,0
+2026-01-13,2026,"Big 12 Conference","Houston Cougars","West Virginia Mountaineers",77,48,0
+2026-01-13,2026,"Big 12 Conference","Kansas Jayhawks","Iowa State Cyclones",84,63,0
+2026-01-13,2026,"Big 12 Conference","Oklahoma State Cowboys","Baylor Bears",79,94,0
+2026-01-14,2026,"Big 12 Conference","Arizona Wildcats","Arizona State Sun Devils",89,82,0
+2026-01-14,2026,"Big 12 Conference","BYU Cougars","TCU Horned Frogs",76,70,0
+2026-01-14,2026,"Big 12 Conference","Cincinnati Bearcats","Colorado Buffaloes",77,68,0
+2026-01-14,2026,"Big 12 Conference","Kansas State Wildcats","UCF Knights",73,82,0
+2026-01-14,2026,"Big 12 Conference","Texas Tech Red Raiders","Utah Utes",88,74,0
+2026-01-16,2026,"Big 12 Conference","Kansas Jayhawks","Baylor Bears",80,62,0
+2026-01-17,2026,"Big 12 Conference","Cincinnati Bearcats","Iowa State Cyclones",79,70,0
+2026-01-17,2026,"Big 12 Conference","Oklahoma State Cowboys","Kansas State Wildcats",84,83,0
+2026-01-17,2026,"Big 12 Conference","Texas Tech Red Raiders","BYU Cougars",84,71,0
+2026-01-17,2026,"Big 12 Conference","UCF Knights","Arizona Wildcats",77,84,0
+2026-01-17,2026,"Big 12 Conference","Utah Utes","TCU Horned Frogs",82,79,0
+2026-01-17,2026,"Big 12 Conference","West Virginia Mountaineers","Colorado Buffaloes",72,61,0
+2026-01-18,2026,"Big 12 Conference","Houston Cougars","Arizona State Sun Devils",103,73,0
+2026-01-20,2026,"Big 12 Conference","Baylor Bears","Texas Tech Red Raiders",73,92,0
+2026-01-20,2026,"Big 12 Conference","Colorado Buffaloes","Kansas Jayhawks",69,75,0
+2026-01-20,2026,"Big 12 Conference","Iowa State Cyclones","UCF Knights",87,57,0
+2026-01-20,2026,"Big 12 Conference","Kansas State Wildcats","Utah Utes",81,78,0
+2026-01-20,2026,"Big 12 Conference","TCU Horned Frogs","Oklahoma State Cowboys",68,65,0
+2026-01-21,2026,"Big 12 Conference","Arizona State Sun Devils","West Virginia Mountaineers",63,75,0
+2026-01-21,2026,"Big 12 Conference","Arizona Wildcats","Cincinnati Bearcats",77,51,0
+2026-01-24,2026,"Big 12 Conference","Arizona State Sun Devils","Cincinnati Bearcats",82,68,0
+2026-01-24,2026,"Big 12 Conference","Arizona Wildcats","West Virginia Mountaineers",88,53,0
+2026-01-24,2026,"Big 12 Conference","BYU Cougars","Utah Utes",91,78,0
+2026-01-24,2026,"Big 12 Conference","Baylor Bears","TCU Horned Frogs",90,97,0
+2026-01-24,2026,"Big 12 Conference","Colorado Buffaloes","UCF Knights",86,95,0
+2026-01-24,2026,"Big 12 Conference","Kansas State Wildcats","Kansas Jayhawks",62,86,0
+2026-01-24,2026,"Big 12 Conference","Oklahoma State Cowboys","Iowa State Cyclones",71,84,0
+2026-01-24,2026,"Big 12 Conference","Texas Tech Red Raiders","Houston Cougars",90,86,0
+2026-01-26,2026,"Big 12 Conference","BYU Cougars","Arizona Wildcats",83,86,0
+2026-01-27,2026,"Big 12 Conference","UCF Knights","Arizona State Sun Devils",79,76,0
+2026-01-27,2026,"Big 12 Conference","West Virginia Mountaineers","Kansas State Wildcats",59,54,0
+2026-01-28,2026,"Big 12 Conference","Cincinnati Bearcats","Baylor Bears",67,57,0
+2026-01-28,2026,"Big 12 Conference","TCU Horned Frogs","Houston Cougars",70,79,0
+2026-01-29,2026,"Big 12 Conference","Iowa State Cyclones","Colorado Buffaloes",97,67,0
+2026-01-31,2026,"Big 12 Conference","Arizona State Sun Devils","Arizona Wildcats",74,87,0
+2026-01-31,2026,"Big 12 Conference","Houston Cougars","Cincinnati Bearcats",76,54,0
+2026-01-31,2026,"Big 12 Conference","Kansas Jayhawks","BYU Cougars",90,82,0
+2026-01-31,2026,"Big 12 Conference","UCF Knights","Texas Tech Red Raiders",88,80,0
+2026-01-31,2026,"Big 12 Conference","Utah Utes","Oklahoma State Cowboys",69,81,0
+2026-01-31,2026,"Big 12 Conference","West Virginia Mountaineers","Baylor Bears",53,63,0
+2026-02-01,2026,"Big 12 Conference","Colorado Buffaloes","TCU Horned Frogs",87,61,0
+2026-02-01,2026,"Big 12 Conference","Kansas State Wildcats","Iowa State Cyclones",61,95,0
+2026-02-02,2026,"Big 12 Conference","Texas Tech Red Raiders","Kansas Jayhawks",61,64,0
+2026-02-04,2026,"Big 12 Conference","Baylor Bears","Colorado Buffaloes",86,67,0
+2026-02-04,2026,"Big 12 Conference","Houston Cougars","UCF Knights",79,55,0
+2026-02-04,2026,"Big 12 Conference","Oklahoma State Cowboys","BYU Cougars",99,92,0
+2026-02-04,2026,"Big 12 Conference","Utah Utes","Arizona State Sun Devils",63,71,0
+2026-02-05,2026,"Big 12 Conference","Cincinnati Bearcats","West Virginia Mountaineers",54,59,0
+2026-02-07,2026,"Big 12 Conference","Arizona Wildcats","Oklahoma State Cowboys",84,47,0
+2026-02-07,2026,"Big 12 Conference","BYU Cougars","Houston Cougars",66,77,0
+2026-02-07,2026,"Big 12 Conference","Colorado Buffaloes","Arizona State Sun Devils",78,70,0
+2026-02-07,2026,"Big 12 Conference","Iowa State Cyclones","Baylor Bears",72,69,0
+2026-02-07,2026,"Big 12 Conference","Kansas Jayhawks","Utah Utes",71,59,0
+2026-02-07,2026,"Big 12 Conference","TCU Horned Frogs","Kansas State Wildcats",84,82,0
+2026-02-08,2026,"Big 12 Conference","Cincinnati Bearcats","UCF Knights",92,72,0
+2026-02-08,2026,"Big 12 Conference","West Virginia Mountaineers","Texas Tech Red Raiders",63,70,0
+2026-02-09,2026,"Big 12 Conference","Kansas Jayhawks","Arizona Wildcats",82,78,0
+2026-02-10,2026,"Big 12 Conference","Arizona State Sun Devils","Oklahoma State Cowboys",85,76,0
+2026-02-10,2026,"Big 12 Conference","Baylor Bears","BYU Cougars",94,99,0
+2026-02-10,2026,"Big 12 Conference","TCU Horned Frogs","Iowa State Cyclones",62,55,0
+2026-02-10,2026,"Big 12 Conference","Utah Utes","Houston Cougars",52,66,0
+2026-02-11,2026,"Big 12 Conference","Kansas State Wildcats","Cincinnati Bearcats",62,91,0
+2026-02-11,2026,"Big 12 Conference","Texas Tech Red Raiders","Colorado Buffaloes",78,44,0
+2026-02-14,2026,"Big 12 Conference","Arizona Wildcats","Texas Tech Red Raiders",75,78,0
+2026-02-14,2026,"Big 12 Conference","BYU Cougars","Colorado Buffaloes",90,86,0
+2026-02-14,2026,"Big 12 Conference","Houston Cougars","Kansas State Wildcats",78,64,0
+2026-02-14,2026,"Big 12 Conference","Iowa State Cyclones","Kansas Jayhawks",74,56,0
+2026-02-14,2026,"Big 12 Conference","Oklahoma State Cowboys","TCU Horned Frogs",92,95,0
+2026-02-14,2026,"Big 12 Conference","UCF Knights","West Virginia Mountaineers",67,74,0
+2026-02-15,2026,"Big 12 Conference","Cincinnati Bearcats","Utah Utes",69,65,0
+2026-02-16,2026,"Big 12 Conference","Iowa State Cyclones","Houston Cougars",70,67,0
+2026-02-17,2026,"Big 12 Conference","Arizona State Sun Devils","Texas Tech Red Raiders",72,67,0
+2026-02-17,2026,"Big 12 Conference","Kansas State Wildcats","Baylor Bears",90,74,0
+2026-02-17,2026,"Big 12 Conference","UCF Knights","TCU Horned Frogs",82,71,0
+2026-02-18,2026,"Big 12 Conference","Arizona Wildcats","BYU Cougars",75,68,0
+2026-02-18,2026,"Big 12 Conference","Oklahoma State Cowboys","Kansas Jayhawks",69,81,0
+2026-02-18,2026,"Big 12 Conference","West Virginia Mountaineers","Utah Utes",56,61,0
+2026-02-21,2026,"Big 12 Conference","BYU Cougars","Iowa State Cyclones",79,69,0
+2026-02-21,2026,"Big 12 Conference","Baylor Bears","Arizona State Sun Devils",73,68,0
+2026-02-21,2026,"Big 12 Conference","Colorado Buffaloes","Oklahoma State Cowboys",83,69,0
+2026-02-21,2026,"Big 12 Conference","Houston Cougars","Arizona Wildcats",66,73,0
+2026-02-21,2026,"Big 12 Conference","Kansas Jayhawks","Cincinnati Bearcats",68,84,0
+2026-02-21,2026,"Big 12 Conference","TCU Horned Frogs","West Virginia Mountaineers",60,54,0
+2026-02-21,2026,"Big 12 Conference","Texas Tech Red Raiders","Kansas State Wildcats",100,72,0
+2026-02-21,2026,"Big 12 Conference","Utah Utes","UCF Knights",71,73,0
+2026-02-23,2026,"Big 12 Conference","Kansas Jayhawks","Houston Cougars",69,56,0
+2026-02-24,2026,"Big 12 Conference","BYU Cougars","UCF Knights",84,97,0
+2026-02-24,2026,"Big 12 Conference","Baylor Bears","Arizona Wildcats",80,87,0
+2026-02-24,2026,"Big 12 Conference","Oklahoma State Cowboys","West Virginia Mountaineers",91,84,0
+2026-02-24,2026,"Big 12 Conference","TCU Horned Frogs","Arizona State Sun Devils",90,78,0
+2026-02-24,2026,"Big 12 Conference","Texas Tech Red Raiders","Cincinnati Bearcats",80,68,0
+2026-02-24,2026,"Big 12 Conference","Utah Utes","Iowa State Cyclones",59,75,0
+2026-02-25,2026,"Big 12 Conference","Colorado Buffaloes","Kansas State Wildcats",79,70,0
+2026-02-28,2026,"Big 12 Conference","Arizona State Sun Devils","Utah Utes",73,60,0
+2026-02-28,2026,"Big 12 Conference","Arizona Wildcats","Kansas Jayhawks",84,61,0
+2026-02-28,2026,"Big 12 Conference","Cincinnati Bearcats","Oklahoma State Cowboys",91,68,0
+2026-02-28,2026,"Big 12 Conference","Houston Cougars","Colorado Buffaloes",102,62,0
+2026-02-28,2026,"Big 12 Conference","Iowa State Cyclones","Texas Tech Red Raiders",73,82,0
+2026-02-28,2026,"Big 12 Conference","Kansas State Wildcats","TCU Horned Frogs",68,77,0
+2026-02-28,2026,"Big 12 Conference","UCF Knights","Baylor Bears",86,87,0
+2026-02-28,2026,"Big 12 Conference","West Virginia Mountaineers","BYU Cougars",79,71,0
+2026-03-02,2026,"Big 12 Conference","Arizona Wildcats","Iowa State Cyclones",73,57,0
+2026-03-03,2026,"Big 12 Conference","Arizona State Sun Devils","Kansas Jayhawks",70,60,0
+2026-03-03,2026,"Big 12 Conference","Cincinnati Bearcats","BYU Cougars",90,68,0
+2026-03-03,2026,"Big 12 Conference","Kansas State Wildcats","West Virginia Mountaineers",65,63,0
+2026-03-03,2026,"Big 12 Conference","Texas Tech Red Raiders","TCU Horned Frogs",65,73,0
+2026-03-03,2026,"Big 12 Conference","UCF Knights","Oklahoma State Cowboys",104,111,0
+2026-03-03,2026,"Big 12 Conference","Utah Utes","Colorado Buffaloes",78,92,0
+2026-03-04,2026,"Big 12 Conference","Houston Cougars","Baylor Bears",77,64,0
+2026-03-06,2026,"Big 12 Conference","West Virginia Mountaineers","UCF Knights",77,62,0
+2026-03-07,2026,"Big 12 Conference","BYU Cougars","Texas Tech Red Raiders",82,76,0
+2026-03-07,2026,"Big 12 Conference","Baylor Bears","Utah Utes",101,75,0
+2026-03-07,2026,"Big 12 Conference","Colorado Buffaloes","Arizona Wildcats",79,89,0
+2026-03-07,2026,"Big 12 Conference","Iowa State Cyclones","Arizona State Sun Devils",86,65,0
+2026-03-07,2026,"Big 12 Conference","Kansas Jayhawks","Kansas State Wildcats",104,85,0
+2026-03-07,2026,"Big 12 Conference","Oklahoma State Cowboys","Houston Cougars",75,82,0
+2026-03-07,2026,"Big 12 Conference","TCU Horned Frogs","Cincinnati Bearcats",73,63,0
+2026-03-10,2026,"Big 12 Conference","Arizona State Sun Devils","Baylor Bears",83,79,1
+2026-03-10,2026,"Big 12 Conference","BYU Cougars","Kansas State Wildcats",105,91,1
+2026-03-10,2026,"Big 12 Conference","Cincinnati Bearcats","Utah Utes",73,66,1
+2026-03-10,2026,"Big 12 Conference","Colorado Buffaloes","Oklahoma State Cowboys",83,92,1
+2026-03-11,2026,"Big 12 Conference","Iowa State Cyclones","Arizona State Sun Devils",91,42,1
+2026-03-11,2026,"Big 12 Conference","TCU Horned Frogs","Oklahoma State Cowboys",95,88,1
+2026-03-11,2026,"Big 12 Conference","UCF Knights","Cincinnati Bearcats",66,65,1
+2026-03-11,2026,"Big 12 Conference","West Virginia Mountaineers","BYU Cougars",48,68,1
+2026-03-12,2026,"Big 12 Conference","Arizona Wildcats","UCF Knights",81,59,1
+2026-03-12,2026,"Big 12 Conference","Houston Cougars","BYU Cougars",73,66,1
+2026-03-12,2026,"Big 12 Conference","Kansas Jayhawks","TCU Horned Frogs",78,73,1
+2026-03-12,2026,"Big 12 Conference","Texas Tech Red Raiders","Iowa State Cyclones",53,75,1
+2026-03-13,2026,"Big 12 Conference","Arizona Wildcats","Iowa State Cyclones",82,80,1
+2026-03-13,2026,"Big 12 Conference","Houston Cougars","Kansas Jayhawks",69,47,1
+2026-03-14,2026,"Big 12 Conference","Arizona Wildcats","Houston Cougars",79,74,1
+2024-12-10,2025,"Big East Conference","DePaul Blue Demons","Providence Friars",63,70,0
+2024-12-17,2025,"Big East Conference","St. John's Red Storm","DePaul Blue Demons",89,61,0
+2024-12-17,2025,"Big East Conference","Villanova Wildcats","Seton Hall Pirates",79,67,0
+2024-12-18,2025,"Big East Conference","Georgetown Hoyas","Creighton Bluejays",81,57,0
+2024-12-18,2025,"Big East Conference","Marquette Golden Eagles","Butler Bulldogs",80,70,0
+2024-12-18,2025,"Big East Conference","UConn Huskies","Xavier Musketeers",94,89,0
+2024-12-20,2025,"Big East Conference","Providence Friars","St. John's Red Storm",70,72,0
+2024-12-21,2025,"Big East Conference","Butler Bulldogs","UConn Huskies",74,78,0
+2024-12-21,2025,"Big East Conference","Creighton Bluejays","Villanova Wildcats",86,79,0
+2024-12-21,2025,"Big East Conference","Xavier Musketeers","Marquette Golden Eagles",70,72,0
+2024-12-22,2025,"Big East Conference","Seton Hall Pirates","Georgetown Hoyas",60,61,0
+2024-12-31,2025,"Big East Conference","Creighton Bluejays","St. John's Red Storm",57,56,0
+2024-12-31,2025,"Big East Conference","Providence Friars","Marquette Golden Eagles",50,78,0
+2024-12-31,2025,"Big East Conference","Xavier Musketeers","Seton Hall Pirates",94,72,0
+2025-01-01,2025,"Big East Conference","Butler Bulldogs","Villanova Wildcats",65,73,0
+2025-01-01,2025,"Big East Conference","DePaul Blue Demons","UConn Huskies",68,81,0
+2025-01-03,2025,"Big East Conference","Georgetown Hoyas","Xavier Musketeers",69,63,0
+2025-01-03,2025,"Big East Conference","Marquette Golden Eagles","Creighton Bluejays",79,71,0
+2025-01-04,2025,"Big East Conference","St. John's Red Storm","Butler Bulldogs",70,62,0
+2025-01-04,2025,"Big East Conference","Villanova Wildcats","DePaul Blue Demons",100,56,0
+2025-01-05,2025,"Big East Conference","UConn Huskies","Providence Friars",87,84,0
+2025-01-07,2025,"Big East Conference","Marquette Golden Eagles","Georgetown Hoyas",74,66,0
+2025-01-07,2025,"Big East Conference","Xavier Musketeers","St. John's Red Storm",72,82,0
+2025-01-08,2025,"Big East Conference","Providence Friars","Butler Bulldogs",84,65,0
+2025-01-08,2025,"Big East Conference","Seton Hall Pirates","DePaul Blue Demons",85,80,0
+2025-01-08,2025,"Big East Conference","Villanova Wildcats","UConn Huskies",68,66,0
+2025-01-11,2025,"Big East Conference","Butler Bulldogs","Creighton Bluejays",76,80,0
+2025-01-11,2025,"Big East Conference","DePaul Blue Demons","Xavier Musketeers",63,77,0
+2025-01-11,2025,"Big East Conference","Georgetown Hoyas","UConn Huskies",60,68,0
+2025-01-11,2025,"Big East Conference","Providence Friars","Seton Hall Pirates",91,85,0
+2025-01-11,2025,"Big East Conference","St. John's Red Storm","Villanova Wildcats",80,68,0
+2025-01-14,2025,"Big East Conference","Creighton Bluejays","Providence Friars",84,64,0
+2025-01-14,2025,"Big East Conference","DePaul Blue Demons","Marquette Golden Eagles",83,85,0
+2025-01-14,2025,"Big East Conference","St. John's Red Storm","Georgetown Hoyas",63,58,0
+2025-01-14,2025,"Big East Conference","Xavier Musketeers","Villanova Wildcats",69,63,0
+2025-01-15,2025,"Big East Conference","Butler Bulldogs","Seton Hall Pirates",82,77,0
+2025-01-17,2025,"Big East Conference","Georgetown Hoyas","DePaul Blue Demons",68,73,0
+2025-01-17,2025,"Big East Conference","Villanova Wildcats","Providence Friars",75,73,0
+2025-01-18,2025,"Big East Conference","Marquette Golden Eagles","Xavier Musketeers",57,59,0
+2025-01-18,2025,"Big East Conference","Seton Hall Pirates","St. John's Red Storm",51,79,0
+2025-01-18,2025,"Big East Conference","UConn Huskies","Creighton Bluejays",63,68,0
+2025-01-20,2025,"Big East Conference","Villanova Wildcats","Georgetown Hoyas",63,64,0
+2025-01-21,2025,"Big East Conference","DePaul Blue Demons","Creighton Bluejays",49,73,0
+2025-01-21,2025,"Big East Conference","Seton Hall Pirates","Marquette Golden Eagles",59,76,0
+2025-01-21,2025,"Big East Conference","UConn Huskies","Butler Bulldogs",80,78,0
+2025-01-22,2025,"Big East Conference","St. John's Red Storm","Xavier Musketeers",79,71,0
+2025-01-24,2025,"Big East Conference","Marquette Golden Eagles","Villanova Wildcats",87,74,0
+2025-01-25,2025,"Big East Conference","Butler Bulldogs","DePaul Blue Demons",86,69,0
+2025-01-25,2025,"Big East Conference","Creighton Bluejays","Seton Hall Pirates",79,54,0
+2025-01-25,2025,"Big East Conference","Providence Friars","Georgetown Hoyas",78,68,0
+2025-01-25,2025,"Big East Conference","Xavier Musketeers","UConn Huskies",76,72,0
+2025-01-28,2025,"Big East Conference","Butler Bulldogs","Marquette Golden Eagles",69,78,0
+2025-01-28,2025,"Big East Conference","Georgetown Hoyas","St. John's Red Storm",41,66,0
+2025-01-28,2025,"Big East Conference","Seton Hall Pirates","Providence Friars",67,69,0
+2025-01-29,2025,"Big East Conference","Creighton Bluejays","Xavier Musketeers",86,77,0
+2025-01-29,2025,"Big East Conference","UConn Huskies","DePaul Blue Demons",72,61,0
+2025-01-31,2025,"Big East Conference","Georgetown Hoyas","Butler Bulldogs",73,70,0
+2025-02-01,2025,"Big East Conference","Marquette Golden Eagles","UConn Huskies",69,77,0
+2025-02-01,2025,"Big East Conference","St. John's Red Storm","Providence Friars",68,66,0
+2025-02-01,2025,"Big East Conference","Villanova Wildcats","Creighton Bluejays",60,62,0
+2025-02-02,2025,"Big East Conference","DePaul Blue Demons","Seton Hall Pirates",74,57,0
+2025-02-04,2025,"Big East Conference","St. John's Red Storm","Marquette Golden Eagles",70,64,0
+2025-02-04,2025,"Big East Conference","Xavier Musketeers","Georgetown Hoyas",74,69,0
+2025-02-05,2025,"Big East Conference","DePaul Blue Demons","Villanova Wildcats",49,59,0
+2025-02-05,2025,"Big East Conference","Providence Friars","Creighton Bluejays",69,80,0
+2025-02-05,2025,"Big East Conference","Seton Hall Pirates","Butler Bulldogs",54,84,0
+2025-02-07,2025,"Big East Conference","UConn Huskies","St. John's Red Storm",62,68,0
+2025-02-08,2025,"Big East Conference","Butler Bulldogs","Providence Friars",82,81,0
+2025-02-08,2025,"Big East Conference","Creighton Bluejays","Marquette Golden Eagles",77,67,0
+2025-02-08,2025,"Big East Conference","Georgetown Hoyas","Seton Hall Pirates",60,46,0
+2025-02-09,2025,"Big East Conference","Villanova Wildcats","Xavier Musketeers",80,68,0
+2025-02-11,2025,"Big East Conference","Creighton Bluejays","UConn Huskies",66,70,0
+2025-02-11,2025,"Big East Conference","Marquette Golden Eagles","DePaul Blue Demons",68,58,0
+2025-02-12,2025,"Big East Conference","Providence Friars","Xavier Musketeers",82,91,0
+2025-02-12,2025,"Big East Conference","Villanova Wildcats","St. John's Red Storm",73,71,0
+2025-02-15,2025,"Big East Conference","Butler Bulldogs","Georgetown Hoyas",97,86,0
+2025-02-15,2025,"Big East Conference","Providence Friars","Villanova Wildcats",75,62,0
+2025-02-15,2025,"Big East Conference","Seton Hall Pirates","UConn Huskies",69,68,0
+2025-02-15,2025,"Big East Conference","Xavier Musketeers","DePaul Blue Demons",85,68,0
+2025-02-16,2025,"Big East Conference","St. John's Red Storm","Creighton Bluejays",79,73,0
+2025-02-18,2025,"Big East Conference","Marquette Golden Eagles","Seton Hall Pirates",80,56,0
+2025-02-18,2025,"Big East Conference","UConn Huskies","Villanova Wildcats",66,59,0
+2025-02-18,2025,"Big East Conference","Xavier Musketeers","Butler Bulldogs",76,63,0
+2025-02-19,2025,"Big East Conference","DePaul Blue Demons","St. John's Red Storm",58,82,0
+2025-02-19,2025,"Big East Conference","Georgetown Hoyas","Providence Friars",93,72,0
+2025-02-21,2025,"Big East Conference","Villanova Wildcats","Marquette Golden Eagles",81,66,0
+2025-02-22,2025,"Big East Conference","DePaul Blue Demons","Butler Bulldogs",72,84,0
+2025-02-23,2025,"Big East Conference","Creighton Bluejays","Georgetown Hoyas",80,69,0
+2025-02-23,2025,"Big East Conference","Seton Hall Pirates","Xavier Musketeers",66,73,0
+2025-02-23,2025,"Big East Conference","St. John's Red Storm","UConn Huskies",89,75,0
+2025-02-25,2025,"Big East Conference","Marquette Golden Eagles","Providence Friars",82,52,0
+2025-02-26,2025,"Big East Conference","Butler Bulldogs","St. John's Red Storm",70,76,0
+2025-02-26,2025,"Big East Conference","Creighton Bluejays","DePaul Blue Demons",75,65,0
+2025-02-26,2025,"Big East Conference","Seton Hall Pirates","Villanova Wildcats",54,59,0
+2025-02-26,2025,"Big East Conference","UConn Huskies","Georgetown Hoyas",93,79,0
+2025-03-01,2025,"Big East Conference","Georgetown Hoyas","Marquette Golden Eagles",61,76,0
+2025-03-01,2025,"Big East Conference","Providence Friars","UConn Huskies",63,75,0
+2025-03-01,2025,"Big East Conference","St. John's Red Storm","Seton Hall Pirates",71,61,0
+2025-03-01,2025,"Big East Conference","Villanova Wildcats","Butler Bulldogs",80,70,0
+2025-03-01,2025,"Big East Conference","Xavier Musketeers","Creighton Bluejays",83,61,0
+2025-03-04,2025,"Big East Conference","Georgetown Hoyas","Villanova Wildcats",75,73,0
+2025-03-04,2025,"Big East Conference","Seton Hall Pirates","Creighton Bluejays",61,79,0
+2025-03-05,2025,"Big East Conference","Butler Bulldogs","Xavier Musketeers",78,91,0
+2025-03-05,2025,"Big East Conference","Providence Friars","DePaul Blue Demons",77,80,0
+2025-03-05,2025,"Big East Conference","UConn Huskies","Marquette Golden Eagles",72,66,0
+2025-03-08,2025,"Big East Conference","Creighton Bluejays","Butler Bulldogs",87,74,0
+2025-03-08,2025,"Big East Conference","DePaul Blue Demons","Georgetown Hoyas",83,77,0
+2025-03-08,2025,"Big East Conference","Marquette Golden Eagles","St. John's Red Storm",84,86,0
+2025-03-08,2025,"Big East Conference","UConn Huskies","Seton Hall Pirates",81,50,0
+2025-03-08,2025,"Big East Conference","Xavier Musketeers","Providence Friars",76,68,0
+2025-03-12,2025,"Big East Conference","Georgetown Hoyas","DePaul Blue Demons",67,71,1
+2025-03-12,2025,"Big East Conference","Providence Friars","Butler Bulldogs",69,75,1
+2025-03-12,2025,"Big East Conference","Villanova Wildcats","Seton Hall Pirates",67,55,1
+2025-03-13,2025,"Big East Conference","Creighton Bluejays","DePaul Blue Demons",85,81,1
+2025-03-13,2025,"Big East Conference","St. John's Red Storm","Butler Bulldogs",78,57,1
+2025-03-13,2025,"Big East Conference","UConn Huskies","Villanova Wildcats",73,56,1
+2025-03-13,2025,"Big East Conference","Xavier Musketeers","Marquette Golden Eagles",87,89,1
+2025-03-14,2025,"Big East Conference","Creighton Bluejays","UConn Huskies",71,62,1
+2025-03-14,2025,"Big East Conference","St. John's Red Storm","Marquette Golden Eagles",79,63,1
+2025-03-15,2025,"Big East Conference","St. John's Red Storm","Creighton Bluejays",82,66,0
+2025-12-13,2026,"Big East Conference","Butler Bulldogs","Providence Friars",113,110,0
+2025-12-16,2026,"Big East Conference","St. John's Red Storm","DePaul Blue Demons",79,66,0
+2025-12-16,2026,"Big East Conference","UConn Huskies","Butler Bulldogs",79,60,0
+2025-12-17,2026,"Big East Conference","Marquette Golden Eagles","Georgetown Hoyas",69,78,0
+2025-12-17,2026,"Big East Conference","Xavier Musketeers","Creighton Bluejays",57,98,0
+2025-12-19,2026,"Big East Conference","Providence Friars","Seton Hall Pirates",67,72,0
+2025-12-20,2026,"Big East Conference","Creighton Bluejays","Marquette Golden Eagles",84,63,0
+2025-12-20,2026,"Big East Conference","Georgetown Hoyas","Xavier Musketeers",77,80,0
+2025-12-21,2026,"Big East Conference","DePaul Blue Demons","UConn Huskies",54,72,0
+2025-12-23,2026,"Big East Conference","Seton Hall Pirates","Villanova Wildcats",56,64,0
+2025-12-30,2026,"Big East Conference","Creighton Bluejays","Butler Bulldogs",89,85,0
+2025-12-30,2026,"Big East Conference","Marquette Golden Eagles","Seton Hall Pirates",73,79,0
+2025-12-31,2026,"Big East Conference","Georgetown Hoyas","St. John's Red Storm",83,95,0
+2025-12-31,2026,"Big East Conference","Villanova Wildcats","DePaul Blue Demons",71,66,0
+2025-12-31,2026,"Big East Conference","Xavier Musketeers","UConn Huskies",67,90,0
+2026-01-03,2026,"Big East Conference","Butler Bulldogs","Villanova Wildcats",67,85,0
+2026-01-03,2026,"Big East Conference","DePaul Blue Demons","Xavier Musketeers",86,77,0
+2026-01-03,2026,"Big East Conference","St. John's Red Storm","Providence Friars",71,77,0
+2026-01-04,2026,"Big East Conference","Seton Hall Pirates","Creighton Bluejays",56,54,0
+2026-01-04,2026,"Big East Conference","UConn Huskies","Marquette Golden Eagles",73,57,0
+2026-01-06,2026,"Big East Conference","Butler Bulldogs","St. John's Red Storm",70,84,0
+2026-01-06,2026,"Big East Conference","DePaul Blue Demons","Georgetown Hoyas",56,50,0
+2026-01-07,2026,"Big East Conference","Marquette Golden Eagles","Xavier Musketeers",66,65,0
+2026-01-07,2026,"Big East Conference","Providence Friars","UConn Huskies",98,103,0
+2026-01-07,2026,"Big East Conference","Villanova Wildcats","Creighton Bluejays",72,76,0
+2026-01-10,2026,"Big East Conference","Creighton Bluejays","St. John's Red Storm",73,90,0
+2026-01-10,2026,"Big East Conference","Georgetown Hoyas","Seton Hall Pirates",67,76,0
+2026-01-10,2026,"Big East Conference","Marquette Golden Eagles","Villanova Wildcats",73,76,0
+2026-01-10,2026,"Big East Conference","UConn Huskies","DePaul Blue Demons",72,60,0
+2026-01-10,2026,"Big East Conference","Xavier Musketeers","Providence Friars",97,84,0
+2026-01-13,2026,"Big East Conference","Creighton Bluejays","Georgetown Hoyas",86,83,0
+2026-01-13,2026,"Big East Conference","Providence Friars","Villanova Wildcats",82,88,0
+2026-01-13,2026,"Big East Conference","Seton Hall Pirates","UConn Huskies",64,69,0
+2026-01-13,2026,"Big East Conference","St. John's Red Storm","Marquette Golden Eagles",92,68,0
+2026-01-14,2026,"Big East Conference","Xavier Musketeers","Butler Bulldogs",89,75,0
+2026-01-16,2026,"Big East Conference","DePaul Blue Demons","Marquette Golden Eagles",80,75,0
+2026-01-16,2026,"Big East Conference","Providence Friars","Creighton Bluejays",93,88,0
+2026-01-17,2026,"Big East Conference","Georgetown Hoyas","UConn Huskies",62,64,0
+2026-01-17,2026,"Big East Conference","Seton Hall Pirates","Butler Bulldogs",66,77,0
+2026-01-17,2026,"Big East Conference","Villanova Wildcats","St. John's Red Storm",79,86,0
+2026-01-19,2026,"Big East Conference","Marquette Golden Eagles","Providence Friars",105,104,0
+2026-01-20,2026,"Big East Conference","Butler Bulldogs","DePaul Blue Demons",87,80,0
+2026-01-20,2026,"Big East Conference","St. John's Red Storm","Seton Hall Pirates",65,60,0
+2026-01-21,2026,"Big East Conference","Creighton Bluejays","Xavier Musketeers",94,93,0
+2026-01-21,2026,"Big East Conference","Villanova Wildcats","Georgetown Hoyas",66,51,0
+2026-01-23,2026,"Big East Conference","Butler Bulldogs","Marquette Golden Eagles",87,76,0
+2026-01-24,2026,"Big East Conference","DePaul Blue Demons","Seton Hall Pirates",67,60,0
+2026-01-24,2026,"Big East Conference","Providence Friars","Georgetown Hoyas",78,81,0
+2026-01-24,2026,"Big East Conference","UConn Huskies","Villanova Wildcats",75,67,0
+2026-01-24,2026,"Big East Conference","Xavier Musketeers","St. John's Red Storm",83,88,0
+2026-01-27,2026,"Big East Conference","Marquette Golden Eagles","Creighton Bluejays",86,62,0
+2026-01-27,2026,"Big East Conference","UConn Huskies","Providence Friars",87,81,0
+2026-01-28,2026,"Big East Conference","Georgetown Hoyas","DePaul Blue Demons",70,61,0
+2026-01-28,2026,"Big East Conference","Seton Hall Pirates","Xavier Musketeers",86,68,0
+2026-01-28,2026,"Big East Conference","St. John's Red Storm","Butler Bulldogs",92,70,0
+2026-01-30,2026,"Big East Conference","Villanova Wildcats","Providence Friars",87,73,0
+2026-01-31,2026,"Big East Conference","Butler Bulldogs","Georgetown Hoyas",64,77,0
+2026-01-31,2026,"Big East Conference","Creighton Bluejays","UConn Huskies",58,85,0
+2026-01-31,2026,"Big East Conference","Seton Hall Pirates","Marquette Golden Eagles",69,64,0
+2026-01-31,2026,"Big East Conference","Xavier Musketeers","DePaul Blue Demons",68,66,0
+2026-02-03,2026,"Big East Conference","DePaul Blue Demons","St. John's Red Storm",56,68,0
+2026-02-03,2026,"Big East Conference","UConn Huskies","Xavier Musketeers",92,60,0
+2026-02-04,2026,"Big East Conference","Georgetown Hoyas","Creighton Bluejays",76,68,0
+2026-02-04,2026,"Big East Conference","Providence Friars","Butler Bulldogs",97,87,0
+2026-02-04,2026,"Big East Conference","Villanova Wildcats","Seton Hall Pirates",72,60,0
+2026-02-06,2026,"Big East Conference","St. John's Red Storm","UConn Huskies",81,72,0
+2026-02-07,2026,"Big East Conference","Creighton Bluejays","Seton Hall Pirates",69,68,0
+2026-02-07,2026,"Big East Conference","Georgetown Hoyas","Villanova Wildcats",73,80,0
+2026-02-07,2026,"Big East Conference","Marquette Golden Eagles","Butler Bulldogs",70,55,0
+2026-02-07,2026,"Big East Conference","Providence Friars","DePaul Blue Demons",90,72,0
+2026-02-09,2026,"Big East Conference","St. John's Red Storm","Xavier Musketeers",87,82,0
+2026-02-10,2026,"Big East Conference","Villanova Wildcats","Marquette Golden Eagles",77,74,0
+2026-02-11,2026,"Big East Conference","Butler Bulldogs","UConn Huskies",70,80,0
+2026-02-11,2026,"Big East Conference","DePaul Blue Demons","Creighton Bluejays",72,71,0
+2026-02-11,2026,"Big East Conference","Seton Hall Pirates","Providence Friars",87,80,0
+2026-02-14,2026,"Big East Conference","Creighton Bluejays","Villanova Wildcats",69,80,0
+2026-02-14,2026,"Big East Conference","Providence Friars","St. John's Red Storm",69,79,0
+2026-02-14,2026,"Big East Conference","UConn Huskies","Georgetown Hoyas",79,75,0
+2026-02-14,2026,"Big East Conference","Xavier Musketeers","Marquette Golden Eagles",96,88,0
+2026-02-15,2026,"Big East Conference","Butler Bulldogs","Seton Hall Pirates",56,63,0
+2026-02-17,2026,"Big East Conference","Xavier Musketeers","Villanova Wildcats",89,92,0
+2026-02-18,2026,"Big East Conference","Georgetown Hoyas","Butler Bulldogs",89,93,0
+2026-02-18,2026,"Big East Conference","Marquette Golden Eagles","St. John's Red Storm",70,76,0
+2026-02-18,2026,"Big East Conference","Seton Hall Pirates","DePaul Blue Demons",57,69,0
+2026-02-18,2026,"Big East Conference","UConn Huskies","Creighton Bluejays",84,91,0
+2026-02-21,2026,"Big East Conference","Butler Bulldogs","Xavier Musketeers",80,75,0
+2026-02-21,2026,"Big East Conference","DePaul Blue Demons","Providence Friars",68,71,0
+2026-02-21,2026,"Big East Conference","Seton Hall Pirates","Georgetown Hoyas",51,47,0
+2026-02-21,2026,"Big East Conference","St. John's Red Storm","Creighton Bluejays",81,52,0
+2026-02-21,2026,"Big East Conference","Villanova Wildcats","UConn Huskies",63,73,0
+2026-02-24,2026,"Big East Conference","Georgetown Hoyas","Marquette Golden Eagles",60,76,0
+2026-02-25,2026,"Big East Conference","Creighton Bluejays","DePaul Blue Demons",71,72,0
+2026-02-25,2026,"Big East Conference","Providence Friars","Xavier Musketeers",94,84,0
+2026-02-25,2026,"Big East Conference","UConn Huskies","St. John's Red Storm",72,40,0
+2026-02-25,2026,"Big East Conference","Villanova Wildcats","Butler Bulldogs",82,73,0
+2026-02-28,2026,"Big East Conference","Creighton Bluejays","Providence Friars",76,79,0
+2026-02-28,2026,"Big East Conference","St. John's Red Storm","Villanova Wildcats",89,57,0
+2026-02-28,2026,"Big East Conference","UConn Huskies","Seton Hall Pirates",71,67,0
+2026-02-28,2026,"Big East Conference","Xavier Musketeers","Georgetown Hoyas",91,84,0
+2026-03-01,2026,"Big East Conference","Marquette Golden Eagles","DePaul Blue Demons",51,62,0
+2026-03-03,2026,"Big East Conference","St. John's Red Storm","Georgetown Hoyas",72,69,0
+2026-03-03,2026,"Big East Conference","Xavier Musketeers","Seton Hall Pirates",68,77,0
+2026-03-04,2026,"Big East Conference","Butler Bulldogs","Creighton Bluejays",59,76,0
+2026-03-04,2026,"Big East Conference","DePaul Blue Demons","Villanova Wildcats",57,76,0
+2026-03-04,2026,"Big East Conference","Providence Friars","Marquette Golden Eagles",56,78,0
+2026-03-06,2026,"Big East Conference","Seton Hall Pirates","St. John's Red Storm",65,72,0
+2026-03-07,2026,"Big East Conference","DePaul Blue Demons","Butler Bulldogs",71,81,0
+2026-03-07,2026,"Big East Conference","Georgetown Hoyas","Providence Friars",80,79,0
+2026-03-07,2026,"Big East Conference","Marquette Golden Eagles","UConn Huskies",68,62,0
+2026-03-07,2026,"Big East Conference","Villanova Wildcats","Xavier Musketeers",91,78,0
+2026-03-11,2026,"Big East Conference","Butler Bulldogs","Providence Friars",81,91,1
+2026-03-11,2026,"Big East Conference","DePaul Blue Demons","Georgetown Hoyas",56,63,1
+2026-03-11,2026,"Big East Conference","Marquette Golden Eagles","Xavier Musketeers",87,89,1
+2026-03-12,2026,"Big East Conference","Seton Hall Pirates","Creighton Bluejays",72,61,1
+2026-03-12,2026,"Big East Conference","St. John's Red Storm","Providence Friars",85,72,0
+2026-03-12,2026,"Big East Conference","UConn Huskies","Xavier Musketeers",93,68,1
+2026-03-12,2026,"Big East Conference","Villanova Wildcats","Georgetown Hoyas",64,78,1
+2026-03-13,2026,"Big East Conference","St. John's Red Storm","Seton Hall Pirates",78,68,0
+2026-03-13,2026,"Big East Conference","UConn Huskies","Georgetown Hoyas",67,51,1
+2026-03-14,2026,"Big East Conference","St. John's Red Storm","UConn Huskies",72,52,0
+2025-01-02,2025,"Big Sky Conference","Eastern Washington Eagles","Montana Grizzlies",81,92,0
+2025-01-02,2025,"Big Sky Conference","Idaho Vandals","Montana State Bobcats",69,64,0
+2025-01-02,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Idaho State Bengals",67,72,0
+2025-01-02,2025,"Big Sky Conference","Northern Colorado Bears","Weber State Wildcats",89,72,0
+2025-01-04,2025,"Big Sky Conference","Eastern Washington Eagles","Montana State Bobcats",68,63,0
+2025-01-04,2025,"Big Sky Conference","Idaho Vandals","Montana Grizzlies",71,73,0
+2025-01-04,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Weber State Wildcats",80,77,0
+2025-01-04,2025,"Big Sky Conference","Northern Colorado Bears","Idaho State Bengals",93,92,0
+2025-01-04,2025,"Big Sky Conference","Sacramento State Hornets","Portland State Vikings",56,53,0
+2025-01-09,2025,"Big Sky Conference","Montana Grizzlies","Northern Arizona Lumberjacks",81,76,0
+2025-01-09,2025,"Big Sky Conference","Montana State Bobcats","Northern Colorado Bears",82,83,0
+2025-01-09,2025,"Big Sky Conference","Portland State Vikings","Eastern Washington Eagles",64,59,0
+2025-01-09,2025,"Big Sky Conference","Sacramento State Hornets","Idaho Vandals",67,80,0
+2025-01-11,2025,"Big Sky Conference","Idaho State Bengals","Weber State Wildcats",69,77,0
+2025-01-11,2025,"Big Sky Conference","Montana Grizzlies","Northern Colorado Bears",57,81,0
+2025-01-11,2025,"Big Sky Conference","Montana State Bobcats","Northern Arizona Lumberjacks",58,53,0
+2025-01-11,2025,"Big Sky Conference","Portland State Vikings","Idaho Vandals",75,63,0
+2025-01-11,2025,"Big Sky Conference","Sacramento State Hornets","Eastern Washington Eagles",54,65,0
+2025-01-16,2025,"Big Sky Conference","Idaho State Bengals","Montana State Bobcats",70,67,0
+2025-01-16,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Sacramento State Hornets",77,53,0
+2025-01-16,2025,"Big Sky Conference","Northern Colorado Bears","Portland State Vikings",72,69,0
+2025-01-16,2025,"Big Sky Conference","Weber State Wildcats","Montana Grizzlies",59,63,0
+2025-01-18,2025,"Big Sky Conference","Idaho State Bengals","Montana Grizzlies",86,62,0
+2025-01-18,2025,"Big Sky Conference","Idaho Vandals","Eastern Washington Eagles",83,76,0
+2025-01-18,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Portland State Vikings",69,80,0
+2025-01-18,2025,"Big Sky Conference","Northern Colorado Bears","Sacramento State Hornets",68,64,0
+2025-01-18,2025,"Big Sky Conference","Weber State Wildcats","Montana State Bobcats",71,80,0
+2025-01-20,2025,"Big Sky Conference","Montana Grizzlies","Idaho Vandals",72,67,0
+2025-01-20,2025,"Big Sky Conference","Montana State Bobcats","Eastern Washington Eagles",74,64,0
+2025-01-23,2025,"Big Sky Conference","Eastern Washington Eagles","Northern Arizona Lumberjacks",61,70,0
+2025-01-23,2025,"Big Sky Conference","Idaho Vandals","Northern Colorado Bears",77,76,0
+2025-01-23,2025,"Big Sky Conference","Portland State Vikings","Weber State Wildcats",74,56,0
+2025-01-23,2025,"Big Sky Conference","Sacramento State Hornets","Idaho State Bengals",75,71,0
+2025-01-25,2025,"Big Sky Conference","Eastern Washington Eagles","Northern Colorado Bears",62,67,0
+2025-01-25,2025,"Big Sky Conference","Idaho Vandals","Northern Arizona Lumberjacks",72,80,0
+2025-01-25,2025,"Big Sky Conference","Montana Grizzlies","Montana State Bobcats",77,70,0
+2025-01-25,2025,"Big Sky Conference","Portland State Vikings","Idaho State Bengals",76,59,0
+2025-01-25,2025,"Big Sky Conference","Sacramento State Hornets","Weber State Wildcats",81,87,0
+2025-01-30,2025,"Big Sky Conference","Idaho State Bengals","Eastern Washington Eagles",78,70,0
+2025-01-30,2025,"Big Sky Conference","Montana Grizzlies","Portland State Vikings",92,78,0
+2025-01-30,2025,"Big Sky Conference","Montana State Bobcats","Sacramento State Hornets",70,58,0
+2025-01-30,2025,"Big Sky Conference","Weber State Wildcats","Idaho Vandals",74,82,0
+2025-02-01,2025,"Big Sky Conference","Idaho State Bengals","Idaho Vandals",87,71,0
+2025-02-01,2025,"Big Sky Conference","Montana Grizzlies","Sacramento State Hornets",87,59,0
+2025-02-01,2025,"Big Sky Conference","Montana State Bobcats","Portland State Vikings",74,73,0
+2025-02-01,2025,"Big Sky Conference","Northern Colorado Bears","Northern Arizona Lumberjacks",87,69,0
+2025-02-01,2025,"Big Sky Conference","Weber State Wildcats","Eastern Washington Eagles",49,72,0
+2025-02-03,2025,"Big Sky Conference","Idaho State Bengals","Northern Colorado Bears",72,86,0
+2025-02-03,2025,"Big Sky Conference","Weber State Wildcats","Northern Arizona Lumberjacks",77,73,0
+2025-02-06,2025,"Big Sky Conference","Eastern Washington Eagles","Sacramento State Hornets",83,80,0
+2025-02-06,2025,"Big Sky Conference","Idaho Vandals","Portland State Vikings",69,76,0
+2025-02-06,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Montana State Bobcats",69,64,0
+2025-02-06,2025,"Big Sky Conference","Northern Colorado Bears","Montana Grizzlies",78,86,0
+2025-02-08,2025,"Big Sky Conference","Eastern Washington Eagles","Portland State Vikings",72,67,0
+2025-02-08,2025,"Big Sky Conference","Idaho Vandals","Sacramento State Hornets",78,76,0
+2025-02-08,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Montana Grizzlies",80,83,0
+2025-02-08,2025,"Big Sky Conference","Northern Colorado Bears","Montana State Bobcats",73,66,0
+2025-02-08,2025,"Big Sky Conference","Weber State Wildcats","Idaho State Bengals",67,72,0
+2025-02-13,2025,"Big Sky Conference","Montana Grizzlies","Idaho State Bengals",81,68,0
+2025-02-13,2025,"Big Sky Conference","Montana State Bobcats","Weber State Wildcats",74,66,0
+2025-02-13,2025,"Big Sky Conference","Portland State Vikings","Northern Arizona Lumberjacks",58,46,0
+2025-02-13,2025,"Big Sky Conference","Sacramento State Hornets","Northern Colorado Bears",61,77,0
+2025-02-15,2025,"Big Sky Conference","Eastern Washington Eagles","Idaho Vandals",75,73,0
+2025-02-15,2025,"Big Sky Conference","Montana Grizzlies","Weber State Wildcats",65,58,0
+2025-02-15,2025,"Big Sky Conference","Montana State Bobcats","Idaho State Bengals",74,69,0
+2025-02-15,2025,"Big Sky Conference","Portland State Vikings","Northern Colorado Bears",82,71,0
+2025-02-15,2025,"Big Sky Conference","Sacramento State Hornets","Northern Arizona Lumberjacks",61,65,0
+2025-02-20,2025,"Big Sky Conference","Idaho State Bengals","Portland State Vikings",82,74,0
+2025-02-20,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Idaho Vandals",78,83,0
+2025-02-20,2025,"Big Sky Conference","Northern Colorado Bears","Eastern Washington Eagles",95,76,0
+2025-02-20,2025,"Big Sky Conference","Weber State Wildcats","Sacramento State Hornets",77,80,0
+2025-02-22,2025,"Big Sky Conference","Idaho State Bengals","Sacramento State Hornets",83,66,0
+2025-02-22,2025,"Big Sky Conference","Montana State Bobcats","Montana Grizzlies",85,89,0
+2025-02-22,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Eastern Washington Eagles",87,67,0
+2025-02-22,2025,"Big Sky Conference","Northern Colorado Bears","Idaho Vandals",92,74,0
+2025-02-22,2025,"Big Sky Conference","Weber State Wildcats","Portland State Vikings",60,58,0
+2025-02-27,2025,"Big Sky Conference","Eastern Washington Eagles","Weber State Wildcats",64,66,0
+2025-02-27,2025,"Big Sky Conference","Idaho Vandals","Idaho State Bengals",65,69,0
+2025-02-27,2025,"Big Sky Conference","Portland State Vikings","Montana State Bobcats",69,52,0
+2025-02-27,2025,"Big Sky Conference","Sacramento State Hornets","Montana Grizzlies",54,60,0
+2025-03-01,2025,"Big Sky Conference","Eastern Washington Eagles","Idaho State Bengals",54,78,0
+2025-03-01,2025,"Big Sky Conference","Idaho Vandals","Weber State Wildcats",81,79,0
+2025-03-01,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Northern Colorado Bears",73,83,0
+2025-03-01,2025,"Big Sky Conference","Portland State Vikings","Montana Grizzlies",79,76,0
+2025-03-01,2025,"Big Sky Conference","Sacramento State Hornets","Montana State Bobcats",60,87,0
+2025-03-03,2025,"Big Sky Conference","Idaho State Bengals","Northern Arizona Lumberjacks",79,82,0
+2025-03-03,2025,"Big Sky Conference","Montana Grizzlies","Eastern Washington Eagles",83,72,0
+2025-03-03,2025,"Big Sky Conference","Montana State Bobcats","Idaho Vandals",75,60,0
+2025-03-03,2025,"Big Sky Conference","Portland State Vikings","Sacramento State Hornets",59,56,0
+2025-03-03,2025,"Big Sky Conference","Weber State Wildcats","Northern Colorado Bears",63,68,0
+2025-03-08,2025,"Big Sky Conference","Northern Arizona Lumberjacks","Eastern Washington Eagles",66,53,1
+2025-03-08,2025,"Big Sky Conference","Weber State Wildcats","Sacramento State Hornets",83,70,1
+2025-03-09,2025,"Big Sky Conference","Montana Grizzlies","Northern Arizona Lumberjacks",74,65,1
+2025-03-09,2025,"Big Sky Conference","Northern Colorado Bears","Weber State Wildcats",76,52,1
+2025-03-10,2025,"Big Sky Conference","Idaho State Bengals","Montana State Bobcats",60,80,1
+2025-03-10,2025,"Big Sky Conference","Portland State Vikings","Idaho Vandals",70,80,1
+2025-03-11,2025,"Big Sky Conference","Montana Grizzlies","Idaho Vandals",78,55,1
+2025-03-11,2025,"Big Sky Conference","Northern Colorado Bears","Montana State Bobcats",72,45,1
+2025-03-12,2025,"Big Sky Conference","Northern Colorado Bears","Montana Grizzlies",83,91,1
+2026-01-01,2026,"Big Sky Conference","Idaho State Bengals","Sacramento State Hornets",97,84,0
+2026-01-01,2026,"Big Sky Conference","Montana Grizzlies","Northern Arizona Lumberjacks",78,64,0
+2026-01-01,2026,"Big Sky Conference","Montana State Bobcats","Northern Colorado Bears",89,75,0
+2026-01-01,2026,"Big Sky Conference","Weber State Wildcats","Portland State Vikings",90,95,0
+2026-01-03,2026,"Big Sky Conference","Idaho State Bengals","Portland State Vikings",87,93,0
+2026-01-03,2026,"Big Sky Conference","Idaho Vandals","Eastern Washington Eagles",84,81,0
+2026-01-03,2026,"Big Sky Conference","Montana Grizzlies","Northern Colorado Bears",88,79,0
+2026-01-03,2026,"Big Sky Conference","Montana State Bobcats","Northern Arizona Lumberjacks",77,68,0
+2026-01-03,2026,"Big Sky Conference","Weber State Wildcats","Sacramento State Hornets",95,82,0
+2026-01-08,2026,"Big Sky Conference","Eastern Washington Eagles","Montana State Bobcats",64,68,0
+2026-01-08,2026,"Big Sky Conference","Idaho Vandals","Montana Grizzlies",73,79,0
+2026-01-08,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Weber State Wildcats",65,78,0
+2026-01-08,2026,"Big Sky Conference","Northern Colorado Bears","Idaho State Bengals",85,72,0
+2026-01-10,2026,"Big Sky Conference","Eastern Washington Eagles","Montana Grizzlies",66,65,0
+2026-01-10,2026,"Big Sky Conference","Idaho Vandals","Montana State Bobcats",92,89,0
+2026-01-10,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Idaho State Bengals",79,81,0
+2026-01-10,2026,"Big Sky Conference","Northern Colorado Bears","Weber State Wildcats",71,76,0
+2026-01-10,2026,"Big Sky Conference","Portland State Vikings","Sacramento State Hornets",96,69,0
+2026-01-15,2026,"Big Sky Conference","Idaho State Bengals","Idaho Vandals",76,68,0
+2026-01-15,2026,"Big Sky Conference","Portland State Vikings","Northern Colorado Bears",76,73,0
+2026-01-15,2026,"Big Sky Conference","Sacramento State Hornets","Northern Arizona Lumberjacks",83,69,0
+2026-01-15,2026,"Big Sky Conference","Weber State Wildcats","Eastern Washington Eagles",91,80,0
+2026-01-17,2026,"Big Sky Conference","Idaho State Bengals","Eastern Washington Eagles",66,84,0
+2026-01-17,2026,"Big Sky Conference","Montana State Bobcats","Montana Grizzlies",76,67,0
+2026-01-17,2026,"Big Sky Conference","Portland State Vikings","Northern Arizona Lumberjacks",63,52,0
+2026-01-17,2026,"Big Sky Conference","Sacramento State Hornets","Northern Colorado Bears",93,89,0
+2026-01-17,2026,"Big Sky Conference","Weber State Wildcats","Idaho Vandals",67,75,0
+2026-01-19,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Montana Grizzlies",72,98,0
+2026-01-19,2026,"Big Sky Conference","Northern Colorado Bears","Montana State Bobcats",68,73,0
+2026-01-22,2026,"Big Sky Conference","Eastern Washington Eagles","Portland State Vikings",61,65,0
+2026-01-22,2026,"Big Sky Conference","Idaho Vandals","Sacramento State Hornets",86,76,0
+2026-01-22,2026,"Big Sky Conference","Montana Grizzlies","Weber State Wildcats",81,65,0
+2026-01-22,2026,"Big Sky Conference","Montana State Bobcats","Idaho State Bengals",74,62,0
+2026-01-24,2026,"Big Sky Conference","Eastern Washington Eagles","Sacramento State Hornets",75,67,0
+2026-01-24,2026,"Big Sky Conference","Idaho Vandals","Portland State Vikings",66,69,0
+2026-01-24,2026,"Big Sky Conference","Montana Grizzlies","Idaho State Bengals",69,60,0
+2026-01-24,2026,"Big Sky Conference","Montana State Bobcats","Weber State Wildcats",91,88,0
+2026-01-24,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Northern Colorado Bears",81,77,0
+2026-01-29,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Eastern Washington Eagles",92,86,0
+2026-01-29,2026,"Big Sky Conference","Northern Colorado Bears","Idaho Vandals",91,83,0
+2026-01-29,2026,"Big Sky Conference","Portland State Vikings","Montana Grizzlies",60,64,0
+2026-01-29,2026,"Big Sky Conference","Sacramento State Hornets","Montana State Bobcats",83,80,0
+2026-01-31,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Idaho Vandals",62,79,0
+2026-01-31,2026,"Big Sky Conference","Northern Colorado Bears","Eastern Washington Eagles",74,71,0
+2026-01-31,2026,"Big Sky Conference","Portland State Vikings","Montana State Bobcats",63,54,0
+2026-01-31,2026,"Big Sky Conference","Sacramento State Hornets","Montana Grizzlies",86,79,0
+2026-01-31,2026,"Big Sky Conference","Weber State Wildcats","Idaho State Bengals",81,79,0
+2026-02-02,2026,"Big Sky Conference","Portland State Vikings","Idaho State Bengals",88,65,0
+2026-02-02,2026,"Big Sky Conference","Sacramento State Hornets","Weber State Wildcats",104,90,0
+2026-02-05,2026,"Big Sky Conference","Idaho State Bengals","Northern Arizona Lumberjacks",73,79,0
+2026-02-05,2026,"Big Sky Conference","Montana Grizzlies","Eastern Washington Eagles",74,82,0
+2026-02-05,2026,"Big Sky Conference","Montana State Bobcats","Idaho Vandals",73,66,0
+2026-02-05,2026,"Big Sky Conference","Weber State Wildcats","Northern Colorado Bears",74,88,0
+2026-02-07,2026,"Big Sky Conference","Idaho State Bengals","Northern Colorado Bears",61,69,0
+2026-02-07,2026,"Big Sky Conference","Montana Grizzlies","Idaho Vandals",73,68,0
+2026-02-07,2026,"Big Sky Conference","Montana State Bobcats","Eastern Washington Eagles",71,72,0
+2026-02-07,2026,"Big Sky Conference","Sacramento State Hornets","Portland State Vikings",73,74,0
+2026-02-07,2026,"Big Sky Conference","Weber State Wildcats","Northern Arizona Lumberjacks",72,53,0
+2026-02-12,2026,"Big Sky Conference","Eastern Washington Eagles","Idaho State Bengals",88,75,0
+2026-02-12,2026,"Big Sky Conference","Idaho Vandals","Weber State Wildcats",72,83,0
+2026-02-12,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Portland State Vikings",68,77,0
+2026-02-12,2026,"Big Sky Conference","Northern Colorado Bears","Sacramento State Hornets",95,79,0
+2026-02-14,2026,"Big Sky Conference","Eastern Washington Eagles","Weber State Wildcats",84,66,0
+2026-02-14,2026,"Big Sky Conference","Idaho Vandals","Idaho State Bengals",99,69,0
+2026-02-14,2026,"Big Sky Conference","Montana Grizzlies","Montana State Bobcats",71,82,0
+2026-02-14,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Sacramento State Hornets",79,74,0
+2026-02-14,2026,"Big Sky Conference","Northern Colorado Bears","Portland State Vikings",77,65,0
+2026-02-19,2026,"Big Sky Conference","Idaho State Bengals","Montana Grizzlies",73,69,0
+2026-02-19,2026,"Big Sky Conference","Portland State Vikings","Idaho Vandals",77,67,0
+2026-02-19,2026,"Big Sky Conference","Sacramento State Hornets","Eastern Washington Eagles",94,102,0
+2026-02-19,2026,"Big Sky Conference","Weber State Wildcats","Montana State Bobcats",82,79,0
+2026-02-21,2026,"Big Sky Conference","Idaho State Bengals","Montana State Bobcats",91,76,0
+2026-02-21,2026,"Big Sky Conference","Northern Colorado Bears","Northern Arizona Lumberjacks",78,77,0
+2026-02-21,2026,"Big Sky Conference","Portland State Vikings","Eastern Washington Eagles",55,67,0
+2026-02-21,2026,"Big Sky Conference","Sacramento State Hornets","Idaho Vandals",80,86,0
+2026-02-21,2026,"Big Sky Conference","Weber State Wildcats","Montana Grizzlies",92,72,0
+2026-02-26,2026,"Big Sky Conference","Eastern Washington Eagles","Northern Colorado Bears",82,72,0
+2026-02-26,2026,"Big Sky Conference","Idaho Vandals","Northern Arizona Lumberjacks",78,58,0
+2026-02-26,2026,"Big Sky Conference","Montana Grizzlies","Sacramento State Hornets",81,73,0
+2026-02-26,2026,"Big Sky Conference","Montana State Bobcats","Portland State Vikings",84,69,0
+2026-02-28,2026,"Big Sky Conference","Eastern Washington Eagles","Northern Arizona Lumberjacks",88,57,0
+2026-02-28,2026,"Big Sky Conference","Idaho State Bengals","Weber State Wildcats",73,83,0
+2026-02-28,2026,"Big Sky Conference","Idaho Vandals","Northern Colorado Bears",67,76,0
+2026-02-28,2026,"Big Sky Conference","Montana Grizzlies","Portland State Vikings",74,68,0
+2026-02-28,2026,"Big Sky Conference","Montana State Bobcats","Sacramento State Hornets",82,61,0
+2026-03-02,2026,"Big Sky Conference","Eastern Washington Eagles","Idaho Vandals",81,85,0
+2026-03-02,2026,"Big Sky Conference","Northern Arizona Lumberjacks","Montana State Bobcats",65,76,0
+2026-03-02,2026,"Big Sky Conference","Northern Colorado Bears","Montana Grizzlies",85,57,0
+2026-03-02,2026,"Big Sky Conference","Portland State Vikings","Weber State Wildcats",84,60,0
+2026-03-02,2026,"Big Sky Conference","Sacramento State Hornets","Idaho State Bengals",83,65,0
+2026-03-07,2026,"Big Sky Conference","Idaho State Bengals","Northern Arizona Lumberjacks",73,65,1
+2026-03-07,2026,"Big Sky Conference","Idaho Vandals","Sacramento State Hornets",68,45,1
+2026-03-08,2026,"Big Sky Conference","Montana State Bobcats","Idaho Vandals",74,78,1
+2026-03-08,2026,"Big Sky Conference","Portland State Vikings","Idaho State Bengals",85,78,1
+2026-03-09,2026,"Big Sky Conference","Eastern Washington Eagles","Weber State Wildcats",84,79,1
+2026-03-09,2026,"Big Sky Conference","Montana Grizzlies","Northern Colorado Bears",95,89,1
+2026-03-10,2026,"Big Sky Conference","Eastern Washington Eagles","Idaho Vandals",68,81,1
+2026-03-10,2026,"Big Sky Conference","Portland State Vikings","Montana Grizzlies",72,75,1
+2026-03-11,2026,"Big Sky Conference","Montana Grizzlies","Idaho Vandals",66,77,1
+2024-12-03,2025,"Big Ten Conference","Iowa Hawkeyes","Northwestern Wildcats",80,79,0
+2024-12-03,2025,"Big Ten Conference","UCLA Bruins","Washington Huskies",69,58,0
+2024-12-03,2025,"Big Ten Conference","Wisconsin Badgers","Michigan Wolverines",64,67,0
+2024-12-04,2025,"Big Ten Conference","Maryland Terrapins","Ohio State Buckeyes",83,59,0
+2024-12-04,2025,"Big Ten Conference","Minnesota Golden Gophers","Michigan State Spartans",72,90,0
+2024-12-04,2025,"Big Ten Conference","USC Trojans","Oregon Ducks",60,68,0
+2024-12-05,2025,"Big Ten Conference","Penn State Nittany Lions","Purdue Boilermakers",81,70,0
+2024-12-06,2025,"Big Ten Conference","Northwestern Wildcats","Illinois Fighting Illini",70,66,0
+2024-12-07,2025,"Big Ten Conference","Michigan State Spartans","Nebraska Cornhuskers",89,52,0
+2024-12-07,2025,"Big Ten Conference","Michigan Wolverines","Iowa Hawkeyes",85,83,0
+2024-12-07,2025,"Big Ten Conference","Ohio State Buckeyes","Rutgers Scarlet Knights",80,66,0
+2024-12-07,2025,"Big Ten Conference","Washington Huskies","USC Trojans",61,85,0
+2024-12-08,2025,"Big Ten Conference","Oregon Ducks","UCLA Bruins",71,73,0
+2024-12-08,2025,"Big Ten Conference","Purdue Boilermakers","Maryland Terrapins",83,78,0
+2024-12-09,2025,"Big Ten Conference","Indiana Hoosiers","Minnesota Golden Gophers",82,67,0
+2024-12-10,2025,"Big Ten Conference","Illinois Fighting Illini","Wisconsin Badgers",86,80,0
+2024-12-10,2025,"Big Ten Conference","Rutgers Scarlet Knights","Penn State Nittany Lions",80,76,0
+2024-12-13,2025,"Big Ten Conference","Nebraska Cornhuskers","Indiana Hoosiers",85,68,0
+2025-01-02,2025,"Big Ten Conference","Indiana Hoosiers","Rutgers Scarlet Knights",84,74,0
+2025-01-02,2025,"Big Ten Conference","Minnesota Golden Gophers","Purdue Boilermakers",61,81,0
+2025-01-02,2025,"Big Ten Conference","Oregon Ducks","Illinois Fighting Illini",77,109,0
+2025-01-02,2025,"Big Ten Conference","Penn State Nittany Lions","Northwestern Wildcats",84,80,0
+2025-01-02,2025,"Big Ten Conference","Washington Huskies","Maryland Terrapins",75,69,0
+2025-01-03,2025,"Big Ten Conference","Ohio State Buckeyes","Michigan State Spartans",62,69,0
+2025-01-03,2025,"Big Ten Conference","Wisconsin Badgers","Iowa Hawkeyes",116,85,0
+2025-01-04,2025,"Big Ten Conference","Nebraska Cornhuskers","UCLA Bruins",66,58,0
+2025-01-04,2025,"Big Ten Conference","USC Trojans","Michigan Wolverines",74,85,0
+2025-01-05,2025,"Big Ten Conference","Oregon Ducks","Maryland Terrapins",83,79,0
+2025-01-05,2025,"Big Ten Conference","Penn State Nittany Lions","Indiana Hoosiers",71,77,0
+2025-01-05,2025,"Big Ten Conference","Purdue Boilermakers","Northwestern Wildcats",79,61,0
+2025-01-05,2025,"Big Ten Conference","Washington Huskies","Illinois Fighting Illini",77,81,0
+2025-01-06,2025,"Big Ten Conference","Minnesota Golden Gophers","Ohio State Buckeyes",88,89,0
+2025-01-06,2025,"Big Ten Conference","Rutgers Scarlet Knights","Wisconsin Badgers",63,75,0
+2025-01-07,2025,"Big Ten Conference","Iowa Hawkeyes","Nebraska Cornhuskers",97,87,0
+2025-01-07,2025,"Big Ten Conference","UCLA Bruins","Michigan Wolverines",75,94,0
+2025-01-08,2025,"Big Ten Conference","Illinois Fighting Illini","Penn State Nittany Lions",91,52,0
+2025-01-08,2025,"Big Ten Conference","Indiana Hoosiers","USC Trojans",82,69,0
+2025-01-09,2025,"Big Ten Conference","Michigan State Spartans","Washington Huskies",88,54,0
+2025-01-09,2025,"Big Ten Conference","Ohio State Buckeyes","Oregon Ducks",71,73,0
+2025-01-09,2025,"Big Ten Conference","Rutgers Scarlet Knights","Purdue Boilermakers",50,68,0
+2025-01-10,2025,"Big Ten Conference","Maryland Terrapins","UCLA Bruins",79,61,0
+2025-01-10,2025,"Big Ten Conference","Wisconsin Badgers","Minnesota Golden Gophers",80,59,0
+2025-01-11,2025,"Big Ten Conference","Illinois Fighting Illini","USC Trojans",72,82,0
+2025-01-11,2025,"Big Ten Conference","Iowa Hawkeyes","Indiana Hoosiers",85,60,0
+2025-01-12,2025,"Big Ten Conference","Michigan Wolverines","Washington Huskies",91,75,0
+2025-01-12,2025,"Big Ten Conference","Northwestern Wildcats","Michigan State Spartans",68,78,0
+2025-01-12,2025,"Big Ten Conference","Penn State Nittany Lions","Oregon Ducks",81,82,0
+2025-01-12,2025,"Big Ten Conference","Purdue Boilermakers","Nebraska Cornhuskers",104,68,0
+2025-01-13,2025,"Big Ten Conference","Maryland Terrapins","Minnesota Golden Gophers",77,71,0
+2025-01-13,2025,"Big Ten Conference","Rutgers Scarlet Knights","UCLA Bruins",75,68,0
+2025-01-14,2025,"Big Ten Conference","Indiana Hoosiers","Illinois Fighting Illini",69,94,0
+2025-01-14,2025,"Big Ten Conference","USC Trojans","Iowa Hawkeyes",99,89,0
+2025-01-14,2025,"Big Ten Conference","Wisconsin Badgers","Ohio State Buckeyes",70,68,0
+2025-01-15,2025,"Big Ten Conference","Michigan State Spartans","Penn State Nittany Lions",90,85,0
+2025-01-15,2025,"Big Ten Conference","Washington Huskies","Purdue Boilermakers",58,69,0
+2025-01-16,2025,"Big Ten Conference","Minnesota Golden Gophers","Michigan Wolverines",84,81,0
+2025-01-16,2025,"Big Ten Conference","Nebraska Cornhuskers","Rutgers Scarlet Knights",82,85,0
+2025-01-16,2025,"Big Ten Conference","Northwestern Wildcats","Maryland Terrapins",76,74,0
+2025-01-17,2025,"Big Ten Conference","Ohio State Buckeyes","Indiana Hoosiers",76,77,0
+2025-01-17,2025,"Big Ten Conference","UCLA Bruins","Iowa Hawkeyes",94,70,0
+2025-01-18,2025,"Big Ten Conference","Oregon Ducks","Purdue Boilermakers",58,65,0
+2025-01-18,2025,"Big Ten Conference","USC Trojans","Wisconsin Badgers",69,84,0
+2025-01-19,2025,"Big Ten Conference","Maryland Terrapins","Nebraska Cornhuskers",69,66,0
+2025-01-19,2025,"Big Ten Conference","Michigan State Spartans","Illinois Fighting Illini",80,78,0
+2025-01-19,2025,"Big Ten Conference","Michigan Wolverines","Northwestern Wildcats",80,76,0
+2025-01-20,2025,"Big Ten Conference","Penn State Nittany Lions","Rutgers Scarlet Knights",80,72,0
+2025-01-21,2025,"Big Ten Conference","Iowa Hawkeyes","Minnesota Golden Gophers",67,72,0
+2025-01-21,2025,"Big Ten Conference","Oregon Ducks","Washington Huskies",82,71,0
+2025-01-21,2025,"Big Ten Conference","Purdue Boilermakers","Ohio State Buckeyes",70,73,0
+2025-01-21,2025,"Big Ten Conference","UCLA Bruins","Wisconsin Badgers",85,83,0
+2025-01-22,2025,"Big Ten Conference","Nebraska Cornhuskers","USC Trojans",73,78,0
+2025-01-22,2025,"Big Ten Conference","Northwestern Wildcats","Indiana Hoosiers",79,70,0
+2025-01-23,2025,"Big Ten Conference","Illinois Fighting Illini","Maryland Terrapins",70,91,0
+2025-01-24,2025,"Big Ten Conference","Iowa Hawkeyes","Penn State Nittany Lions",76,75,0
+2025-01-24,2025,"Big Ten Conference","Purdue Boilermakers","Michigan Wolverines",91,64,0
+2025-01-24,2025,"Big Ten Conference","Washington Huskies","UCLA Bruins",60,65,0
+2025-01-25,2025,"Big Ten Conference","Minnesota Golden Gophers","Oregon Ducks",77,69,0
+2025-01-25,2025,"Big Ten Conference","Rutgers Scarlet Knights","Michigan State Spartans",74,81,0
+2025-01-26,2025,"Big Ten Conference","Illinois Fighting Illini","Northwestern Wildcats",83,74,0
+2025-01-26,2025,"Big Ten Conference","Indiana Hoosiers","Maryland Terrapins",78,79,0
+2025-01-26,2025,"Big Ten Conference","Wisconsin Badgers","Nebraska Cornhuskers",83,55,0
+2025-01-27,2025,"Big Ten Conference","Michigan Wolverines","Penn State Nittany Lions",76,72,0
+2025-01-27,2025,"Big Ten Conference","Ohio State Buckeyes","Iowa Hawkeyes",82,65,0
+2025-01-27,2025,"Big Ten Conference","USC Trojans","UCLA Bruins",76,82,0
+2025-01-28,2025,"Big Ten Conference","Michigan State Spartans","Minnesota Golden Gophers",73,51,0
+2025-01-29,2025,"Big Ten Conference","Maryland Terrapins","Wisconsin Badgers",76,68,0
+2025-01-29,2025,"Big Ten Conference","Northwestern Wildcats","Rutgers Scarlet Knights",72,79,0
+2025-01-30,2025,"Big Ten Conference","Nebraska Cornhuskers","Illinois Fighting Illini",80,74,0
+2025-01-30,2025,"Big Ten Conference","Penn State Nittany Lions","Ohio State Buckeyes",64,83,0
+2025-01-30,2025,"Big Ten Conference","UCLA Bruins","Oregon Ducks",78,52,0
+2025-01-31,2025,"Big Ten Conference","Purdue Boilermakers","Indiana Hoosiers",81,76,0
+2025-02-01,2025,"Big Ten Conference","Minnesota Golden Gophers","Washington Huskies",68,71,0
+2025-02-01,2025,"Big Ten Conference","Northwestern Wildcats","Wisconsin Badgers",69,75,0
+2025-02-01,2025,"Big Ten Conference","Rutgers Scarlet Knights","Michigan Wolverines",63,66,0
+2025-02-01,2025,"Big Ten Conference","USC Trojans","Michigan State Spartans",70,64,0
+2025-02-02,2025,"Big Ten Conference","Illinois Fighting Illini","Ohio State Buckeyes",87,79,0
+2025-02-02,2025,"Big Ten Conference","Oregon Ducks","Nebraska Cornhuskers",71,77,0
+2025-02-04,2025,"Big Ten Conference","Iowa Hawkeyes","Purdue Boilermakers",81,90,0
+2025-02-04,2025,"Big Ten Conference","Northwestern Wildcats","USC Trojans",77,75,0
+2025-02-04,2025,"Big Ten Conference","Penn State Nittany Lions","Minnesota Golden Gophers",61,69,0
+2025-02-04,2025,"Big Ten Conference","UCLA Bruins","Michigan State Spartans",63,61,0
+2025-02-04,2025,"Big Ten Conference","Wisconsin Badgers","Indiana Hoosiers",76,64,0
+2025-02-05,2025,"Big Ten Conference","Michigan Wolverines","Oregon Ducks",80,76,0
+2025-02-05,2025,"Big Ten Conference","Rutgers Scarlet Knights","Illinois Fighting Illini",82,73,0
+2025-02-05,2025,"Big Ten Conference","Washington Huskies","Nebraska Cornhuskers",72,86,0
+2025-02-06,2025,"Big Ten Conference","Ohio State Buckeyes","Maryland Terrapins",73,70,0
+2025-02-07,2025,"Big Ten Conference","Purdue Boilermakers","USC Trojans",90,72,0
+2025-02-08,2025,"Big Ten Conference","Indiana Hoosiers","Michigan Wolverines",67,70,0
+2025-02-08,2025,"Big Ten Conference","Iowa Hawkeyes","Wisconsin Badgers",63,74,0
+2025-02-08,2025,"Big Ten Conference","Michigan State Spartans","Oregon Ducks",86,74,0
+2025-02-08,2025,"Big Ten Conference","Minnesota Golden Gophers","Illinois Fighting Illini",74,95,0
+2025-02-08,2025,"Big Ten Conference","UCLA Bruins","Penn State Nittany Lions",78,54,0
+2025-02-08,2025,"Big Ten Conference","Washington Huskies","Northwestern Wildcats",76,71,0
+2025-02-09,2025,"Big Ten Conference","Maryland Terrapins","Rutgers Scarlet Knights",90,81,0
+2025-02-09,2025,"Big Ten Conference","Nebraska Cornhuskers","Ohio State Buckeyes",79,71,0
+2025-02-11,2025,"Big Ten Conference","Illinois Fighting Illini","UCLA Bruins",83,78,0
+2025-02-11,2025,"Big Ten Conference","Michigan State Spartans","Indiana Hoosiers",67,71,0
+2025-02-11,2025,"Big Ten Conference","Michigan Wolverines","Purdue Boilermakers",75,73,0
+2025-02-11,2025,"Big Ten Conference","Oregon Ducks","Northwestern Wildcats",81,75,0
+2025-02-11,2025,"Big Ten Conference","USC Trojans","Penn State Nittany Lions",92,67,0
+2025-02-12,2025,"Big Ten Conference","Ohio State Buckeyes","Washington Huskies",93,69,0
+2025-02-12,2025,"Big Ten Conference","Rutgers Scarlet Knights","Iowa Hawkeyes",73,84,0
+2025-02-13,2025,"Big Ten Conference","Nebraska Cornhuskers","Maryland Terrapins",75,83,0
+2025-02-14,2025,"Big Ten Conference","Indiana Hoosiers","UCLA Bruins",68,72,0
+2025-02-15,2025,"Big Ten Conference","Illinois Fighting Illini","Michigan State Spartans",65,79,0
+2025-02-15,2025,"Big Ten Conference","Penn State Nittany Lions","Washington Huskies",73,75,0
+2025-02-15,2025,"Big Ten Conference","Purdue Boilermakers","Wisconsin Badgers",84,94,0
+2025-02-15,2025,"Big Ten Conference","USC Trojans","Minnesota Golden Gophers",66,69,0
+2025-02-16,2025,"Big Ten Conference","Maryland Terrapins","Iowa Hawkeyes",101,75,0
+2025-02-16,2025,"Big Ten Conference","Northwestern Wildcats","Nebraska Cornhuskers",64,68,0
+2025-02-16,2025,"Big Ten Conference","Ohio State Buckeyes","Michigan Wolverines",83,86,0
+2025-02-16,2025,"Big Ten Conference","Oregon Ducks","Rutgers Scarlet Knights",75,57,0
+2025-02-18,2025,"Big Ten Conference","Michigan State Spartans","Purdue Boilermakers",75,66,0
+2025-02-18,2025,"Big Ten Conference","UCLA Bruins","Minnesota Golden Gophers",61,64,0
+2025-02-18,2025,"Big Ten Conference","Wisconsin Badgers","Illinois Fighting Illini",95,74,0
+2025-02-19,2025,"Big Ten Conference","Iowa Hawkeyes","Oregon Ducks",78,80,0
+2025-02-19,2025,"Big Ten Conference","Penn State Nittany Lions","Nebraska Cornhuskers",89,72,0
+2025-02-19,2025,"Big Ten Conference","Washington Huskies","Rutgers Scarlet Knights",85,89,0
+2025-02-20,2025,"Big Ten Conference","Maryland Terrapins","USC Trojans",88,71,0
+2025-02-20,2025,"Big Ten Conference","Ohio State Buckeyes","Northwestern Wildcats",49,70,0
+2025-02-21,2025,"Big Ten Conference","Michigan Wolverines","Michigan State Spartans",62,75,0
+2025-02-22,2025,"Big Ten Conference","Iowa Hawkeyes","Washington Huskies",85,79,0
+2025-02-22,2025,"Big Ten Conference","Minnesota Golden Gophers","Penn State Nittany Lions",60,69,0
+2025-02-22,2025,"Big Ten Conference","Wisconsin Badgers","Oregon Ducks",73,77,0
+2025-02-23,2025,"Big Ten Conference","Indiana Hoosiers","Purdue Boilermakers",73,58,0
+2025-02-23,2025,"Big Ten Conference","Rutgers Scarlet Knights","USC Trojans",95,85,0
+2025-02-23,2025,"Big Ten Conference","UCLA Bruins","Ohio State Buckeyes",69,61,0
+2025-02-24,2025,"Big Ten Conference","Nebraska Cornhuskers","Michigan Wolverines",46,49,0
+2025-02-25,2025,"Big Ten Conference","Illinois Fighting Illini","Iowa Hawkeyes",81,61,0
+2025-02-25,2025,"Big Ten Conference","Minnesota Golden Gophers","Northwestern Wildcats",63,75,0
+2025-02-25,2025,"Big Ten Conference","Wisconsin Badgers","Washington Huskies",88,62,0
+2025-02-26,2025,"Big Ten Conference","Indiana Hoosiers","Penn State Nittany Lions",83,78,0
+2025-02-26,2025,"Big Ten Conference","Maryland Terrapins","Michigan State Spartans",55,58,0
+2025-02-26,2025,"Big Ten Conference","USC Trojans","Ohio State Buckeyes",82,87,0
+2025-02-27,2025,"Big Ten Conference","Michigan Wolverines","Rutgers Scarlet Knights",84,82,0
+2025-02-28,2025,"Big Ten Conference","Northwestern Wildcats","Iowa Hawkeyes",68,57,0
+2025-02-28,2025,"Big Ten Conference","Purdue Boilermakers","UCLA Bruins",76,66,0
+2025-03-01,2025,"Big Ten Conference","Nebraska Cornhuskers","Minnesota Golden Gophers",65,67,0
+2025-03-01,2025,"Big Ten Conference","Oregon Ducks","USC Trojans",82,61,0
+2025-03-01,2025,"Big Ten Conference","Penn State Nittany Lions","Maryland Terrapins",64,68,0
+2025-03-01,2025,"Big Ten Conference","Washington Huskies","Indiana Hoosiers",62,78,0
+2025-03-02,2025,"Big Ten Conference","Michigan State Spartans","Wisconsin Badgers",71,62,0
+2025-03-02,2025,"Big Ten Conference","Michigan Wolverines","Illinois Fighting Illini",73,93,0
+2025-03-03,2025,"Big Ten Conference","Northwestern Wildcats","UCLA Bruins",69,73,0
+2025-03-04,2025,"Big Ten Conference","Ohio State Buckeyes","Nebraska Cornhuskers",116,114,0
+2025-03-04,2025,"Big Ten Conference","Oregon Ducks","Indiana Hoosiers",73,64,0
+2025-03-04,2025,"Big Ten Conference","Purdue Boilermakers","Rutgers Scarlet Knights",100,71,0
+2025-03-05,2025,"Big Ten Conference","Michigan Wolverines","Maryland Terrapins",65,71,0
+2025-03-05,2025,"Big Ten Conference","Minnesota Golden Gophers","Wisconsin Badgers",67,74,0
+2025-03-05,2025,"Big Ten Conference","USC Trojans","Washington Huskies",92,61,0
+2025-03-06,2025,"Big Ten Conference","Iowa Hawkeyes","Michigan State Spartans",84,91,0
+2025-03-07,2025,"Big Ten Conference","Illinois Fighting Illini","Purdue Boilermakers",88,80,0
+2025-03-08,2025,"Big Ten Conference","Indiana Hoosiers","Ohio State Buckeyes",66,60,0
+2025-03-08,2025,"Big Ten Conference","Maryland Terrapins","Northwestern Wildcats",74,61,0
+2025-03-08,2025,"Big Ten Conference","UCLA Bruins","USC Trojans",90,63,0
+2025-03-08,2025,"Big Ten Conference","Wisconsin Badgers","Penn State Nittany Lions",75,86,0
+2025-03-09,2025,"Big Ten Conference","Michigan State Spartans","Michigan Wolverines",79,62,0
+2025-03-09,2025,"Big Ten Conference","Nebraska Cornhuskers","Iowa Hawkeyes",68,83,0
+2025-03-09,2025,"Big Ten Conference","Rutgers Scarlet Knights","Minnesota Golden Gophers",75,67,0
+2025-03-09,2025,"Big Ten Conference","Washington Huskies","Oregon Ducks",73,80,0
+2025-03-12,2025,"Big Ten Conference","Minnesota Golden Gophers","Northwestern Wildcats",64,72,1
+2025-03-12,2025,"Big Ten Conference","Ohio State Buckeyes","Iowa Hawkeyes",70,77,1
+2025-03-12,2025,"Big Ten Conference","Rutgers Scarlet Knights","USC Trojans",89,97,1
+2025-03-13,2025,"Big Ten Conference","Illinois Fighting Illini","Iowa Hawkeyes",106,94,1
+2025-03-13,2025,"Big Ten Conference","Oregon Ducks","Indiana Hoosiers",72,59,1
+2025-03-13,2025,"Big Ten Conference","Purdue Boilermakers","USC Trojans",76,71,1
+2025-03-13,2025,"Big Ten Conference","Wisconsin Badgers","Northwestern Wildcats",70,63,1
+2025-03-14,2025,"Big Ten Conference","Maryland Terrapins","Illinois Fighting Illini",88,65,1
+2025-03-14,2025,"Big Ten Conference","Michigan State Spartans","Oregon Ducks",74,64,1
+2025-03-14,2025,"Big Ten Conference","Michigan Wolverines","Purdue Boilermakers",86,68,1
+2025-03-14,2025,"Big Ten Conference","UCLA Bruins","Wisconsin Badgers",70,86,1
+2025-03-15,2025,"Big Ten Conference","Maryland Terrapins","Michigan Wolverines",80,81,1
+2025-03-15,2025,"Big Ten Conference","Michigan State Spartans","Wisconsin Badgers",74,77,1
+2025-03-16,2025,"Big Ten Conference","Michigan Wolverines","Wisconsin Badgers",59,53,1
+2025-12-02,2026,"Big Ten Conference","Michigan State Spartans","Iowa Hawkeyes",71,52,0
+2025-12-02,2026,"Big Ten Conference","Oregon Ducks","USC Trojans",77,82,0
+2025-12-02,2026,"Big Ten Conference","Rutgers Scarlet Knights","Purdue Boilermakers",65,81,0
+2025-12-03,2026,"Big Ten Conference","Minnesota Golden Gophers","Indiana Hoosiers",73,64,0
+2025-12-03,2026,"Big Ten Conference","Washington Huskies","UCLA Bruins",80,82,0
+2025-12-03,2026,"Big Ten Conference","Wisconsin Badgers","Northwestern Wildcats",85,73,0
+2025-12-06,2026,"Big Ten Conference","Iowa Hawkeyes","Maryland Terrapins",83,64,0
+2025-12-06,2026,"Big Ten Conference","Michigan Wolverines","Rutgers Scarlet Knights",101,60,0
+2025-12-06,2026,"Big Ten Conference","Northwestern Wildcats","Ohio State Buckeyes",82,86,0
+2025-12-06,2026,"Big Ten Conference","UCLA Bruins","Oregon Ducks",74,63,0
+2025-12-06,2026,"Big Ten Conference","USC Trojans","Washington Huskies",76,84,0
+2025-12-09,2026,"Big Ten Conference","Indiana Hoosiers","Penn State Nittany Lions",113,72,0
+2025-12-09,2026,"Big Ten Conference","Ohio State Buckeyes","Illinois Fighting Illini",80,88,0
+2025-12-10,2026,"Big Ten Conference","Nebraska Cornhuskers","Wisconsin Badgers",90,60,0
+2025-12-10,2026,"Big Ten Conference","Purdue Boilermakers","Minnesota Golden Gophers",85,57,0
+2025-12-13,2026,"Big Ten Conference","Illinois Fighting Illini","Nebraska Cornhuskers",80,83,0
+2025-12-13,2026,"Big Ten Conference","Maryland Terrapins","Michigan Wolverines",83,101,0
+2025-12-13,2026,"Big Ten Conference","Penn State Nittany Lions","Michigan State Spartans",72,76,0
+2026-01-02,2026,"Big Ten Conference","Maryland Terrapins","Oregon Ducks",54,64,0
+2026-01-02,2026,"Big Ten Conference","Michigan Wolverines","USC Trojans",96,66,0
+2026-01-02,2026,"Big Ten Conference","Nebraska Cornhuskers","Michigan State Spartans",58,56,0
+2026-01-02,2026,"Big Ten Conference","Rutgers Scarlet Knights","Ohio State Buckeyes",73,80,0
+2026-01-03,2026,"Big Ten Conference","Iowa Hawkeyes","UCLA Bruins",74,61,0
+2026-01-03,2026,"Big Ten Conference","Northwestern Wildcats","Minnesota Golden Gophers",78,84,0
+2026-01-03,2026,"Big Ten Conference","Penn State Nittany Lions","Illinois Fighting Illini",65,73,0
+2026-01-03,2026,"Big Ten Conference","Wisconsin Badgers","Purdue Boilermakers",73,89,0
+2026-01-04,2026,"Big Ten Conference","Indiana Hoosiers","Washington Huskies",90,80,0
+2026-01-05,2026,"Big Ten Conference","Michigan State Spartans","USC Trojans",80,51,0
+2026-01-05,2026,"Big Ten Conference","Ohio State Buckeyes","Nebraska Cornhuskers",69,72,0
+2026-01-05,2026,"Big Ten Conference","Rutgers Scarlet Knights","Oregon Ducks",88,85,0
+2026-01-06,2026,"Big Ten Conference","Minnesota Golden Gophers","Iowa Hawkeyes",70,67,0
+2026-01-06,2026,"Big Ten Conference","Penn State Nittany Lions","Michigan Wolverines",72,74,0
+2026-01-06,2026,"Big Ten Conference","Wisconsin Badgers","UCLA Bruins",80,72,0
+2026-01-07,2026,"Big Ten Conference","Maryland Terrapins","Indiana Hoosiers",66,84,0
+2026-01-07,2026,"Big Ten Conference","Purdue Boilermakers","Washington Huskies",81,73,0
+2026-01-08,2026,"Big Ten Conference","Illinois Fighting Illini","Rutgers Scarlet Knights",81,55,0
+2026-01-08,2026,"Big Ten Conference","Michigan State Spartans","Northwestern Wildcats",76,66,0
+2026-01-08,2026,"Big Ten Conference","Oregon Ducks","Ohio State Buckeyes",62,72,0
+2026-01-09,2026,"Big Ten Conference","Minnesota Golden Gophers","USC Trojans",69,70,0
+2026-01-10,2026,"Big Ten Conference","Indiana Hoosiers","Nebraska Cornhuskers",77,83,0
+2026-01-10,2026,"Big Ten Conference","Michigan Wolverines","Wisconsin Badgers",88,91,0
+2026-01-10,2026,"Big Ten Conference","Purdue Boilermakers","Penn State Nittany Lions",93,85,0
+2026-01-10,2026,"Big Ten Conference","UCLA Bruins","Maryland Terrapins",67,55,0
+2026-01-11,2026,"Big Ten Conference","Iowa Hawkeyes","Illinois Fighting Illini",69,75,0
+2026-01-11,2026,"Big Ten Conference","Rutgers Scarlet Knights","Northwestern Wildcats",77,75,0
+2026-01-11,2026,"Big Ten Conference","Washington Huskies","Ohio State Buckeyes",81,74,0
+2026-01-13,2026,"Big Ten Conference","Michigan State Spartans","Indiana Hoosiers",81,60,0
+2026-01-13,2026,"Big Ten Conference","Minnesota Golden Gophers","Wisconsin Badgers",75,78,0
+2026-01-13,2026,"Big Ten Conference","Nebraska Cornhuskers","Oregon Ducks",90,55,0
+2026-01-13,2026,"Big Ten Conference","USC Trojans","Maryland Terrapins",88,71,0
+2026-01-14,2026,"Big Ten Conference","Northwestern Wildcats","Illinois Fighting Illini",68,79,0
+2026-01-14,2026,"Big Ten Conference","Penn State Nittany Lions","UCLA Bruins",60,71,0
+2026-01-14,2026,"Big Ten Conference","Purdue Boilermakers","Iowa Hawkeyes",79,72,0
+2026-01-14,2026,"Big Ten Conference","Washington Huskies","Michigan Wolverines",72,82,0
+2026-01-17,2026,"Big Ten Conference","Illinois Fighting Illini","Minnesota Golden Gophers",77,67,0
+2026-01-17,2026,"Big Ten Conference","Indiana Hoosiers","Iowa Hawkeyes",57,74,0
+2026-01-17,2026,"Big Ten Conference","Northwestern Wildcats","Nebraska Cornhuskers",58,77,0
+2026-01-17,2026,"Big Ten Conference","Ohio State Buckeyes","UCLA Bruins",86,74,0
+2026-01-17,2026,"Big Ten Conference","Oregon Ducks","Michigan Wolverines",71,81,0
+2026-01-17,2026,"Big Ten Conference","USC Trojans","Purdue Boilermakers",64,69,0
+2026-01-17,2026,"Big Ten Conference","Washington Huskies","Michigan State Spartans",63,80,0
+2026-01-17,2026,"Big Ten Conference","Wisconsin Badgers","Rutgers Scarlet Knights",96,87,0
+2026-01-18,2026,"Big Ten Conference","Maryland Terrapins","Penn State Nittany Lions",96,73,0
+2026-01-20,2026,"Big Ten Conference","Iowa Hawkeyes","Rutgers Scarlet Knights",68,62,0
+2026-01-20,2026,"Big Ten Conference","Michigan Wolverines","Indiana Hoosiers",86,72,0
+2026-01-20,2026,"Big Ten Conference","Ohio State Buckeyes","Minnesota Golden Gophers",82,74,0
+2026-01-20,2026,"Big Ten Conference","Oregon Ducks","Michigan State Spartans",52,68,0
+2026-01-20,2026,"Big Ten Conference","UCLA Bruins","Purdue Boilermakers",69,67,0
+2026-01-21,2026,"Big Ten Conference","Illinois Fighting Illini","Maryland Terrapins",89,70,0
+2026-01-21,2026,"Big Ten Conference","Nebraska Cornhuskers","Washington Huskies",76,66,0
+2026-01-21,2026,"Big Ten Conference","USC Trojans","Northwestern Wildcats",68,74,0
+2026-01-22,2026,"Big Ten Conference","Penn State Nittany Lions","Wisconsin Badgers",71,98,0
+2026-01-23,2026,"Big Ten Conference","Michigan Wolverines","Ohio State Buckeyes",74,62,0
+2026-01-23,2026,"Big Ten Conference","Rutgers Scarlet Knights","Indiana Hoosiers",59,82,0
+2026-01-24,2026,"Big Ten Conference","Michigan State Spartans","Maryland Terrapins",91,48,0
+2026-01-24,2026,"Big Ten Conference","Minnesota Golden Gophers","Nebraska Cornhuskers",57,76,0
+2026-01-24,2026,"Big Ten Conference","Purdue Boilermakers","Illinois Fighting Illini",82,88,0
+2026-01-24,2026,"Big Ten Conference","UCLA Bruins","Northwestern Wildcats",71,64,0
+2026-01-25,2026,"Big Ten Conference","Washington Huskies","Oregon Ducks",72,57,0
+2026-01-25,2026,"Big Ten Conference","Wisconsin Badgers","USC Trojans",71,73,0
+2026-01-26,2026,"Big Ten Conference","Ohio State Buckeyes","Penn State Nittany Lions",84,78,0
+2026-01-27,2026,"Big Ten Conference","Indiana Hoosiers","Purdue Boilermakers",72,67,0
+2026-01-27,2026,"Big Ten Conference","Michigan Wolverines","Nebraska Cornhuskers",75,72,0
+2026-01-27,2026,"Big Ten Conference","Rutgers Scarlet Knights","Michigan State Spartans",79,88,0
+2026-01-28,2026,"Big Ten Conference","Iowa Hawkeyes","USC Trojans",73,72,0
+2026-01-28,2026,"Big Ten Conference","Oregon Ducks","UCLA Bruins",57,73,0
+2026-01-28,2026,"Big Ten Conference","Wisconsin Badgers","Minnesota Golden Gophers",67,63,0
+2026-01-29,2026,"Big Ten Conference","Illinois Fighting Illini","Washington Huskies",75,66,0
+2026-01-29,2026,"Big Ten Conference","Northwestern Wildcats","Penn State Nittany Lions",94,73,0
+2026-01-30,2026,"Big Ten Conference","Michigan State Spartans","Michigan Wolverines",71,83,0
+2026-01-31,2026,"Big Ten Conference","Northwestern Wildcats","Washington Huskies",62,76,0
+2026-01-31,2026,"Big Ten Conference","UCLA Bruins","Indiana Hoosiers",97,98,0
+2026-01-31,2026,"Big Ten Conference","USC Trojans","Rutgers Scarlet Knights",78,75,0
+2026-01-31,2026,"Big Ten Conference","Wisconsin Badgers","Ohio State Buckeyes",92,82,0
+2026-02-01,2026,"Big Ten Conference","Maryland Terrapins","Purdue Boilermakers",63,93,0
+2026-02-01,2026,"Big Ten Conference","Nebraska Cornhuskers","Illinois Fighting Illini",69,78,0
+2026-02-01,2026,"Big Ten Conference","Oregon Ducks","Iowa Hawkeyes",66,84,0
+2026-02-01,2026,"Big Ten Conference","Penn State Nittany Lions","Minnesota Golden Gophers",77,75,0
+2026-02-03,2026,"Big Ten Conference","UCLA Bruins","Rutgers Scarlet Knights",98,66,0
+2026-02-03,2026,"Big Ten Conference","USC Trojans","Indiana Hoosiers",81,75,0
+2026-02-04,2026,"Big Ten Conference","Illinois Fighting Illini","Northwestern Wildcats",84,44,0
+2026-02-04,2026,"Big Ten Conference","Minnesota Golden Gophers","Michigan State Spartans",76,73,0
+2026-02-04,2026,"Big Ten Conference","Washington Huskies","Iowa Hawkeyes",74,84,0
+2026-02-05,2026,"Big Ten Conference","Maryland Terrapins","Ohio State Buckeyes",62,82,0
+2026-02-05,2026,"Big Ten Conference","Michigan Wolverines","Penn State Nittany Lions",110,69,0
+2026-02-07,2026,"Big Ten Conference","Indiana Hoosiers","Wisconsin Badgers",78,77,0
+2026-02-07,2026,"Big Ten Conference","Michigan State Spartans","Illinois Fighting Illini",85,82,0
+2026-02-07,2026,"Big Ten Conference","Purdue Boilermakers","Oregon Ducks",68,64,0
+2026-02-07,2026,"Big Ten Conference","Rutgers Scarlet Knights","Nebraska Cornhuskers",68,80,0
+2026-02-07,2026,"Big Ten Conference","UCLA Bruins","Washington Huskies",77,73,0
+2026-02-08,2026,"Big Ten Conference","Iowa Hawkeyes","Northwestern Wildcats",76,70,0
+2026-02-08,2026,"Big Ten Conference","Minnesota Golden Gophers","Maryland Terrapins",62,67,0
+2026-02-08,2026,"Big Ten Conference","Ohio State Buckeyes","Michigan Wolverines",61,82,0
+2026-02-08,2026,"Big Ten Conference","Penn State Nittany Lions","USC Trojans",75,77,0
+2026-02-09,2026,"Big Ten Conference","Indiana Hoosiers","Oregon Ducks",92,74,0
+2026-02-10,2026,"Big Ten Conference","Illinois Fighting Illini","Wisconsin Badgers",90,92,0
+2026-02-10,2026,"Big Ten Conference","Nebraska Cornhuskers","Purdue Boilermakers",77,80,0
+2026-02-11,2026,"Big Ten Conference","Maryland Terrapins","Iowa Hawkeyes",77,70,0
+2026-02-11,2026,"Big Ten Conference","Northwestern Wildcats","Michigan Wolverines",75,87,0
+2026-02-11,2026,"Big Ten Conference","Ohio State Buckeyes","USC Trojans",89,82,0
+2026-02-11,2026,"Big Ten Conference","Washington Huskies","Penn State Nittany Lions",60,63,0
+2026-02-13,2026,"Big Ten Conference","Wisconsin Badgers","Michigan State Spartans",92,71,0
+2026-02-14,2026,"Big Ten Conference","Iowa Hawkeyes","Purdue Boilermakers",57,78,0
+2026-02-14,2026,"Big Ten Conference","Michigan Wolverines","UCLA Bruins",86,56,0
+2026-02-14,2026,"Big Ten Conference","Nebraska Cornhuskers","Northwestern Wildcats",68,49,0
+2026-02-14,2026,"Big Ten Conference","Oregon Ducks","Penn State Nittany Lions",83,72,0
+2026-02-14,2026,"Big Ten Conference","Washington Huskies","Minnesota Golden Gophers",69,57,0
+2026-02-15,2026,"Big Ten Conference","Illinois Fighting Illini","Indiana Hoosiers",71,51,0
+2026-02-15,2026,"Big Ten Conference","Rutgers Scarlet Knights","Maryland Terrapins",68,57,0
+2026-02-17,2026,"Big Ten Conference","Iowa Hawkeyes","Nebraska Cornhuskers",57,52,0
+2026-02-17,2026,"Big Ten Conference","Michigan State Spartans","UCLA Bruins",82,59,0
+2026-02-17,2026,"Big Ten Conference","Ohio State Buckeyes","Wisconsin Badgers",86,69,0
+2026-02-17,2026,"Big Ten Conference","Oregon Ducks","Minnesota Golden Gophers",44,61,0
+2026-02-17,2026,"Big Ten Conference","Purdue Boilermakers","Michigan Wolverines",80,91,0
+2026-02-18,2026,"Big Ten Conference","Northwestern Wildcats","Maryland Terrapins",78,74,0
+2026-02-18,2026,"Big Ten Conference","Penn State Nittany Lions","Rutgers Scarlet Knights",72,85,0
+2026-02-18,2026,"Big Ten Conference","USC Trojans","Illinois Fighting Illini",65,101,0
+2026-02-20,2026,"Big Ten Conference","Purdue Boilermakers","Indiana Hoosiers",93,64,0
+2026-02-21,2026,"Big Ten Conference","Maryland Terrapins","Washington Huskies",64,60,0
+2026-02-21,2026,"Big Ten Conference","Minnesota Golden Gophers","Rutgers Scarlet Knights",80,61,0
+2026-02-21,2026,"Big Ten Conference","Nebraska Cornhuskers","Penn State Nittany Lions",87,64,0
+2026-02-21,2026,"Big Ten Conference","UCLA Bruins","Illinois Fighting Illini",95,94,0
+2026-02-21,2026,"Big Ten Conference","USC Trojans","Oregon Ducks",70,71,0
+2026-02-22,2026,"Big Ten Conference","Michigan State Spartans","Ohio State Buckeyes",66,60,0
+2026-02-22,2026,"Big Ten Conference","Wisconsin Badgers","Iowa Hawkeyes",84,71,0
+2026-02-24,2026,"Big Ten Conference","Indiana Hoosiers","Northwestern Wildcats",68,72,0
+2026-02-24,2026,"Big Ten Conference","Michigan Wolverines","Minnesota Golden Gophers",77,67,0
+2026-02-24,2026,"Big Ten Conference","Rutgers Scarlet Knights","Washington Huskies",72,79,0
+2026-02-24,2026,"Big Ten Conference","UCLA Bruins","USC Trojans",81,62,0
+2026-02-25,2026,"Big Ten Conference","Iowa Hawkeyes","Ohio State Buckeyes",74,57,0
+2026-02-25,2026,"Big Ten Conference","Nebraska Cornhuskers","Maryland Terrapins",74,61,0
+2026-02-25,2026,"Big Ten Conference","Oregon Ducks","Wisconsin Badgers",85,71,0
+2026-02-26,2026,"Big Ten Conference","Purdue Boilermakers","Michigan State Spartans",74,76,0
+2026-02-27,2026,"Big Ten Conference","Illinois Fighting Illini","Michigan Wolverines",70,84,0
+2026-02-28,2026,"Big Ten Conference","Minnesota Golden Gophers","UCLA Bruins",78,73,0
+2026-02-28,2026,"Big Ten Conference","Northwestern Wildcats","Oregon Ducks",63,62,0
+2026-02-28,2026,"Big Ten Conference","Penn State Nittany Lions","Iowa Hawkeyes",71,69,0
+2026-02-28,2026,"Big Ten Conference","USC Trojans","Nebraska Cornhuskers",67,82,0
+2026-02-28,2026,"Big Ten Conference","Washington Huskies","Wisconsin Badgers",73,90,0
+2026-03-01,2026,"Big Ten Conference","Indiana Hoosiers","Michigan State Spartans",64,77,0
+2026-03-01,2026,"Big Ten Conference","Maryland Terrapins","Rutgers Scarlet Knights",65,69,0
+2026-03-01,2026,"Big Ten Conference","Ohio State Buckeyes","Purdue Boilermakers",82,74,0
+2026-03-03,2026,"Big Ten Conference","Illinois Fighting Illini","Oregon Ducks",80,54,0
+2026-03-03,2026,"Big Ten Conference","UCLA Bruins","Nebraska Cornhuskers",72,52,0
+2026-03-04,2026,"Big Ten Conference","Indiana Hoosiers","Minnesota Golden Gophers",77,47,0
+2026-03-04,2026,"Big Ten Conference","Northwestern Wildcats","Purdue Boilermakers",66,70,0
+2026-03-04,2026,"Big Ten Conference","Penn State Nittany Lions","Ohio State Buckeyes",62,94,0
+2026-03-04,2026,"Big Ten Conference","Washington Huskies","USC Trojans",91,72,0
+2026-03-04,2026,"Big Ten Conference","Wisconsin Badgers","Maryland Terrapins",78,45,0
+2026-03-05,2026,"Big Ten Conference","Iowa Hawkeyes","Michigan Wolverines",68,71,0
+2026-03-05,2026,"Big Ten Conference","Michigan State Spartans","Rutgers Scarlet Knights",91,87,0
+2026-03-07,2026,"Big Ten Conference","Minnesota Golden Gophers","Northwestern Wildcats",67,66,0
+2026-03-07,2026,"Big Ten Conference","Ohio State Buckeyes","Indiana Hoosiers",91,78,0
+2026-03-07,2026,"Big Ten Conference","Oregon Ducks","Washington Huskies",85,79,0
+2026-03-07,2026,"Big Ten Conference","Purdue Boilermakers","Wisconsin Badgers",93,97,0
+2026-03-07,2026,"Big Ten Conference","USC Trojans","UCLA Bruins",68,89,0
+2026-03-08,2026,"Big Ten Conference","Maryland Terrapins","Illinois Fighting Illini",72,78,0
+2026-03-08,2026,"Big Ten Conference","Michigan Wolverines","Michigan State Spartans",90,80,0
+2026-03-08,2026,"Big Ten Conference","Nebraska Cornhuskers","Iowa Hawkeyes",84,75,0
+2026-03-08,2026,"Big Ten Conference","Rutgers Scarlet Knights","Penn State Nittany Lions",74,62,0
+2026-03-10,2026,"Big Ten Conference","Northwestern Wildcats","Penn State Nittany Lions",76,66,1
+2026-03-10,2026,"Big Ten Conference","Oregon Ducks","Maryland Terrapins",60,70,1
+2026-03-11,2026,"Big Ten Conference","Indiana Hoosiers","Northwestern Wildcats",61,74,1
+2026-03-11,2026,"Big Ten Conference","Iowa Hawkeyes","Maryland Terrapins",75,64,1
+2026-03-11,2026,"Big Ten Conference","Minnesota Golden Gophers","Rutgers Scarlet Knights",67,72,1
+2026-03-11,2026,"Big Ten Conference","Washington Huskies","USC Trojans",83,79,1
+2026-03-12,2026,"Big Ten Conference","Ohio State Buckeyes","Iowa Hawkeyes",72,69,1
+2026-03-12,2026,"Big Ten Conference","Purdue Boilermakers","Northwestern Wildcats",81,68,1
+2026-03-12,2026,"Big Ten Conference","UCLA Bruins","Rutgers Scarlet Knights",72,59,1
+2026-03-12,2026,"Big Ten Conference","Wisconsin Badgers","Washington Huskies",85,82,1
+2026-03-13,2026,"Big Ten Conference","Illinois Fighting Illini","Wisconsin Badgers",88,91,1
+2026-03-13,2026,"Big Ten Conference","Michigan State Spartans","UCLA Bruins",84,88,1
+2026-03-13,2026,"Big Ten Conference","Michigan Wolverines","Ohio State Buckeyes",71,67,1
+2026-03-13,2026,"Big Ten Conference","Nebraska Cornhuskers","Purdue Boilermakers",58,74,1
+2026-03-14,2026,"Big Ten Conference","Michigan Wolverines","Wisconsin Badgers",68,65,1
+2026-03-14,2026,"Big Ten Conference","UCLA Bruins","Purdue Boilermakers",66,73,1
+2026-03-15,2026,"Big Ten Conference","Michigan Wolverines","Purdue Boilermakers",72,80,1
